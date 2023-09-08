@@ -1,0 +1,262 @@
+{
+    "General": {
+        "Code": "ESGR-B",
+        "Type": "Common Stock",
+        "Name": "ES Energy Save Holding AB",
+        "Exchange": "ST",
+        "CurrencyCode": "SEK",
+        "CurrencyName": "Swedish krone",
+        "CurrencySymbol": "kr",
+        "CountryName": "Sweden",
+        "CountryISO": "SE",
+        "OpenFigi": null,
+        "ISIN": "SE0014428447",
+        "LEI": "549300YHQ6UVH52KSF46",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": null,
+        "Industry": null,
+        "GicSector": null,
+        "GicGroup": null,
+        "GicIndustry": null,
+        "GicSubIndustry": null,
+        "Description": null,
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": null,
+        "UpdatedAt": "2022-09-04"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": null,
+        "DividendYield": null,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": null,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": null,
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 246,
+        "52WeekLow": 56.8,
+        "50DayMA": 0,
+        "200DayMA": 0,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-03-31": {
+                "reportDate": "2023-06-16",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": 0.0379,
+                "epsEstimate": 1.2,
+                "epsDifference": -1.1621,
+                "surprisePercent": -96.8417
+            },
+            "2022-12-31": {
+                "reportDate": "2023-03-17",
+                "date": "2022-12-31",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": 1.9,
+                "epsEstimate": 2.66,
+                "epsDifference": -0.76,
+                "surprisePercent": -28.5714
+            },
+            "2022-09-30": {
+                "reportDate": "2022-12-09",
+                "date": "2022-09-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": 2.7,
+                "epsEstimate": 0.8,
+                "epsDifference": 1.9,
+                "surprisePercent": 237.5
+            },
+            "2022-06-30": {
+                "reportDate": "2022-09-09",
+                "date": "2022-06-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": 1.2,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-03-31": {
+                "reportDate": "2022-06-23",
+                "date": "2022-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.3,
+                "epsEstimate": -0.3,
+                "epsDifference": 0.6,
+                "surprisePercent": 200
+            },
+            "2021-12-31": {
+                "reportDate": "2022-03-19",
+                "date": "2021-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1086,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2021-09-30": {
+                "reportDate": "2021-12-07",
+                "date": "2021-09-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.4906,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2021-06-30": {
+                "reportDate": "2021-08-10",
+                "date": "2021-06-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": -0.7448,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2021-03-31": {
+                "reportDate": "2021-04-30",
+                "date": "2021-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.2875,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2020-12-31": {
+                "reportDate": "2021-01-31",
+                "date": "2020-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.5252,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2020-09-30": {
+                "reportDate": "2020-10-31",
+                "date": "2020-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.3955,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "epsActual": 0.0379
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 6.1
+            },
+            "2021-12-31": {
+                "date": "2021-12-31",
+                "epsActual": -0.4331
+            },
+            "2020-12-31": {
+                "date": "2020-12-31",
+                "epsActual": -0.9207
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

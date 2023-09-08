@@ -1,0 +1,180 @@
+{
+    "General": {
+        "Code": "PH6",
+        "Type": "Common Stock",
+        "Name": "PHILION SE O.N.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "DE000A1X3WF3",
+        "LEI": "894500GM6KLV3YI4J540",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "GicSector": "Communication Services",
+        "GicGroup": "Telecommunication Services",
+        "GicIndustry": "Diversified Telecommunication Services",
+        "GicSubIndustry": "Integrated Telecommunication Services",
+        "Description": "Philion SE, together with its subsidiaries, operates as a multi-brand chain store operator in the telecommunications market in Germany. It provides a range of telecommunications services, such as mobile telephony, fixed networks, DSL, accessories, energy, smart home systems, and repair services. The company is headquartered in Berlin, Germany. Philion SE is a subsidiary of aptus 1206. GmbH.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 450,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 1085596,
+        "MarketCapitalizationMln": 1.0856,
+        "EBITDA": -5926000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 5.848,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -3.54,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2019-06-30",
+        "ProfitMargin": -0.1052,
+        "OperatingMarginTTM": -0.1425,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 45626000,
+        "RevenuePerShareTTM": 22.813,
+        "QuarterlyRevenueGrowthYOY": -0.187,
+        "GrossProfitTTM": 25647000,
+        "DilutedEpsTTM": -3.54,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 22481000,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 2000000,
+        "SharesFloat": 1422660,
+        "PercentInsiders": 60.917,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.8961,
+        "52WeekHigh": 0.65,
+        "52WeekLow": 0.08,
+        "50DayMA": 0.4134,
+        "200DayMA": 0.4071,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2019-06-30": {
+                "reportDate": "2019-09-30",
+                "date": "2019-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -1.08,
+                "epsEstimate": 0,
+                "epsDifference": -1.08,
+                "surprisePercent": null
+            },
+            "2019-03-31": {
+                "reportDate": "2019-05-02",
+                "date": "2019-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": -0.95,
+                "epsEstimate": 0,
+                "epsDifference": -0.95,
+                "surprisePercent": null
+            },
+            "2018-09-30": {
+                "reportDate": "2018-10-27",
+                "date": "2018-09-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": -0.24,
+                "epsEstimate": 0,
+                "epsDifference": -0.24,
+                "surprisePercent": null
+            },
+            "2018-06-30": {
+                "reportDate": "2018-08-13",
+                "date": "2018-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2019-06-30": {
+                "date": "2019-06-30",
+                "epsActual": -2.27
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

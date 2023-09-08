@@ -1,0 +1,167 @@
+{
+    "General": {
+        "Code": "NURS",
+        "Type": "Common Stock",
+        "Name": "Hydreight Technologies Inc",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Healthcare",
+        "Industry": "Health Information Services",
+        "GicSector": "Health Care",
+        "GicGroup": "Health Care Equipment & Services",
+        "GicIndustry": "Health Care Technology",
+        "GicSubIndustry": "Health Care Technology",
+        "Description": "Hydreight Technologies Inc. provides mobile health and wellness services primarily in the United States. Its Hydreight App offers consulting and advising in setting up their health and wellness services, including assistance with finding experienced advisors in the areas of medical and privacy law; health insurance portability and accountability act compliant management tool; medical liability insurance; pharmaceutical IV programs vetted by duly licensed pharmacists; procedural guides to various services, such as Botox, fillers, etc.; and hiring, on-boarding, training, marketing, branding, payroll, and other accounting services. The company's Hydreight platform provides IV therapy, select lab testing, aesthetic services, such as Botox, and more. Hydreight Technologies Inc. is headquartered in Las Vegas, Nevada.",
+        "Address": "7251 West Lake Mead Boulevard, Las Vegas, NV, United States, 89128",
+        "AddressData": {
+            "Street": "7251 West Lake Mead Boulevard",
+            "City": "Las Vegas",
+            "State": "NV",
+            "Country": "United States",
+            "ZIP": "89128"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Shane  Madden",
+                "Title": "CEO & Director",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Joshua  Sorin",
+                "Title": "CFO & Corp. Sec.",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": "https://hydreight.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 12262080,
+        "MarketCapitalizationMln": 12.2621,
+        "EBITDA": -1603187,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": -0.007,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.15,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-03-31",
+        "ProfitMargin": -0.8679,
+        "OperatingMarginTTM": -0.2248,
+        "ReturnOnAssetsTTM": -0.6099,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 6286514,
+        "RevenuePerShareTTM": 0.484,
+        "QuarterlyRevenueGrowthYOY": 3.288,
+        "GrossProfitTTM": 643783,
+        "DilutedEpsTTM": -0.15,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 17.353,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 10522112,
+        "EnterpriseValueRevenue": 9.5821,
+        "EnterpriseValueEbitda": -21.4552
+    },
+    "SharesStats": {
+        "SharesOutstanding": 38319000,
+        "SharesFloat": 9794477,
+        "PercentInsiders": 73.19600000000001,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.1276,
+        "52WeekHigh": 0.85,
+        "52WeekLow": 0.25,
+        "50DayMA": 0.3492,
+        "200DayMA": 0.495,
+        "SharesShort": 79,
+        "SharesShortPriorMonth": 397,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-29",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

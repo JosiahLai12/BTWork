@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "CBRE",
+        "Type": "Common Stock",
+        "Name": "PT Cakra Buana Resources Energ",
+        "Exchange": "JK",
+        "CurrencyCode": "IDR",
+        "CurrencyName": "Indonesian Rupiah",
+        "CurrencySymbol": "Rp",
+        "CountryName": "Indonesia",
+        "CountryISO": "ID",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Marine Shipping",
+        "GicSector": "Industrials",
+        "GicGroup": "Transportation",
+        "GicIndustry": "Marine Transportation",
+        "GicSubIndustry": "Marine Transportation",
+        "Description": "PT Cakra Buana Resources Energi Tbk, a shipping company, operates tug and barge vessels based in Jakarta, Indonesia. It runs sea transportation service activities based on time-based contracts, trip-based contracts, and fleet management for special goods, such as mining goods, construction goods, heavy equipment, agricultural goods, and industrial goods. The company was founded in 2016 and is based in Jakarta Selatan, Indonesia. PT Cakra Buana Resources Energi Tbk operates as a subsidiary of PT Omudas Investment Holdco.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 10,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 226900800000,
+        "MarketCapitalizationMln": 226900.8,
+        "EBITDA": 17825792000,
+        "PERatio": 14.6129,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 38.506,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 3.8964,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2629,
+        "OperatingMarginTTM": 0.2926,
+        "ReturnOnAssetsTTM": 0.053,
+        "ReturnOnEquityTTM": 0.0898,
+        "RevenueTTM": 44616867840,
+        "RevenuePerShareTTM": 17.431,
+        "QuarterlyRevenueGrowthYOY": 0.717,
+        "GrossProfitTTM": 14878551838,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 6.838
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 199443464192,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 4538019840,
+        "SharesFloat": 738014940,
+        "PercentInsiders": 83.737,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 242,
+        "52WeekLow": 50,
+        "50DayMA": 50.24,
+        "200DayMA": 64.0909,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.5715,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.9402,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 1.5117
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

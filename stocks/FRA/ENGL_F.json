@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "ENGL",
+        "Type": "Common Stock",
+        "Name": "EV Digital Invest AG",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "DE000A3DD6W5",
+        "LEI": null,
+        "PrimaryTicker": "ENGL.F",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Consumer Finance",
+        "GicSubIndustry": "Consumer Finance",
+        "Description": "EV Digital Invest AG provides real estate financing services for real estate companies and private investors in Germany. It offers financial capital for the financing of the real estate projects, such as residential, office, logistics, retail, and operator-managed properties through the online investment platform, ev-digitalinvest.de. The company was founded in 2015 and is based in Berlin, Germany. EV Digital Invest AG operates as a subsidiary of FOX Beteiligungen GmbH.",
+        "Address": "Joachimsthaler Str. 12, Berlin, Germany, 10719",
+        "AddressData": {
+            "Street": "Joachimsthaler Str. 12",
+            "City": "Berlin",
+            "Country": "Germany",
+            "ZIP": "10719"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Marc  Laubenheimer",
+                "Title": "CO-CEO & Member of the Management Board",
+                "YearBorn": "1985"
+            },
+            "1": {
+                "Name": "Mr. Tobias  Barten",
+                "Title": "CO-CEO & Member of the Management Board",
+                "YearBorn": "1981"
+            }
+        },
+        "Phone": "49 30 403 691 550",
+        "WebURL": "https://www.ev-digitalinvest.de",
+        "LogoURL": "",
+        "FullTimeEmployees": 49,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 21313372,
+        "MarketCapitalizationMln": 21.3134,
+        "EBITDA": -3431313,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 11,
+        "BookValue": null,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.73,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": -0.6388,
+        "OperatingMarginTTM": -0.6637,
+        "ReturnOnAssetsTTM": -0.3114,
+        "ReturnOnEquityTTM": -0.5557,
+        "RevenueTTM": 5200776,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": -0.449,
+        "GrossProfitTTM": 1501930,
+        "DilutedEpsTTM": -0.73,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 10.818,
+        "PriceBookMRQ": 5.8485,
+        "EnterpriseValue": 22129447,
+        "EnterpriseValueRevenue": 5.2385,
+        "EnterpriseValueEbitda": 375.2938
+    },
+    "SharesStats": {
+        "SharesOutstanding": 4450000,
+        "SharesFloat": 0,
+        "PercentInsiders": 83.89999999999999,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 9.05,
+        "52WeekLow": 4.82,
+        "50DayMA": 5.638,
+        "200DayMA": 5.9135,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "General": {
+        "Code": "BIGT",
+        "Type": "Common Stock",
+        "Name": "Big Tree Carbon Inc.",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Gold",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Gold",
+        "Description": "Big Tree Carbon Inc., a mineral exploration company, engages in the acquisition, exploration, and development of gold and base metals properties in Ontario, Canada. The company was formerly known as AurCrest Gold Inc. and changed its name to Big Tree Carbon Inc. in April 2022. Big Tree Carbon Inc. is based in Toronto, Canada.",
+        "Address": "22 Adelaide Street West, Toronto, ON, Canada, M5H 4E3",
+        "AddressData": {
+            "Street": "22 Adelaide Street West",
+            "City": "Toronto",
+            "State": "ON",
+            "Country": "Canada",
+            "ZIP": "M5H 4E3"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Christopher Clayton James Angeconeb",
+                "Title": "Pres, CEO & Director",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Errol J. Farr C.M.A., CPA, CMA, CPA",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1961"
+            },
+            "2": {
+                "Name": "Mr. William Roy Johnstone LL.B, P.Geo",
+                "Title": "Corp. Sec., Legal Counsel & Director",
+                "YearBorn": "1957"
+            },
+            "3": {
+                "Name": "Mr. Peter H. Brodie-Brown",
+                "Title": "Vice-Pres of Shareholder Relations",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": "https://aurcrest.ca",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 7159200,
+        "MarketCapitalizationMln": 7.1592,
+        "EBITDA": -551558,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": -0.002,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.01,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.3512,
+        "ReturnOnEquityTTM": -6.9688,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.01,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 152.6471,
+        "EnterpriseValue": 7342437,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": -12.0531
+    },
+    "SharesStats": {
+        "SharesOutstanding": 119320000,
+        "SharesFloat": 114737047,
+        "PercentInsiders": 7.867,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.978,
+        "52WeekHigh": 0.2,
+        "52WeekLow": 0.05,
+        "50DayMA": 0.0626,
+        "200DayMA": 0.0704,
+        "SharesShort": 50,
+        "SharesShortPriorMonth": 5068,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "1:5",
+        "LastSplitDate": "2010-12-03",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

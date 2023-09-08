@@ -1,0 +1,170 @@
+{
+    "General": {
+        "Code": "A6I",
+        "Type": "Common Stock",
+        "Name": "GRAB HOLDINGS LTD CL.A",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "KYG4124C1096",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Application",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Grab Holdings Limited engages in the provision of superapps in Cambodia, Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. The company offers its Grab ecosystem, a single platform with superapps for driver- and merchant-partners and consumers, that allows access to mobility, delivery, digital financial services, and enterprise sector offerings. The company is headquartered in Singapore.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 11934,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 13685313536,
+        "MarketCapitalizationMln": 13685.3135,
+        "EBITDA": -730700032,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1.632,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.27,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": -0.5521,
+        "OperatingMarginTTM": -0.4457,
+        "ReturnOnAssetsTTM": -0.059,
+        "ReturnOnEquityTTM": -0.1667,
+        "RevenueTTM": 1976000000,
+        "RevenuePerShareTTM": 0.512,
+        "QuarterlyRevenueGrowthYOY": 0.766,
+        "GrossProfitTTM": 77000000,
+        "DilutedEpsTTM": -0.27,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 9778688000,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 3790550016,
+        "SharesFloat": 2043197440,
+        "PercentInsiders": 27.204,
+        "PercentInstitutions": 54.571999999999996,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.9185,
+        "52WeekHigh": 3.769,
+        "52WeekLow": 2.286,
+        "50DayMA": 3.1712,
+        "200DayMA": 2.9761,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-23",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": -0.03,
+                "epsEstimate": -0.06,
+                "epsDifference": 0.03,
+                "surprisePercent": 50
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-20",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": -0.03,
+                "epsEstimate": -0.08,
+                "epsDifference": 0.05,
+                "surprisePercent": 62.5
+            },
+            "2022-09-30": {
+                "reportDate": "2022-11-16",
+                "date": "2022-09-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": -0.05,
+                "epsEstimate": -0.12,
+                "epsDifference": 0.07,
+                "surprisePercent": 58.3333
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": -0.11
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

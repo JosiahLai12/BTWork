@@ -1,0 +1,169 @@
+{
+    "General": {
+        "Code": "KTMS",
+        "Type": "Common Stock",
+        "Name": "KT Medical Service PCL",
+        "Exchange": "BK",
+        "CurrencyCode": "THB",
+        "CurrencyName": "Thai baht",
+        "CurrencySymbol": "\u0e3f",
+        "CountryName": "Thailand",
+        "CountryISO": "TH",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Healthcare",
+        "Industry": "Medical Care Facilities",
+        "GicSector": "Health Care",
+        "GicGroup": "Health Care Equipment & Services",
+        "GicIndustry": "Health Care Providers & Services",
+        "GicSubIndustry": "Health Care Facilities",
+        "Description": "Kt Medical Service Public Company Limited operates hemodialysis centers in Thailand. The company is involved in design, assembly, and installation of water treatment system, as well as offers pneumatic tube system equipment for medical service. Its water treatment system is used in commercial, residential, medical service, industrial, and original equipment manufacturers sectors. The company was incorporated in 2015 and is based in Bangkok, Thailand. Kt Medical Service Public Company Limited operates as a subsidiary of Filter Vision Public Company Limited.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 912000000,
+        "MarketCapitalizationMln": 912,
+        "EBITDA": 42725668,
+        "PERatio": 50.6667,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1.607,
+        "DividendShare": 0.033,
+        "DividendYield": 0.0109,
+        "EarningsShare": 0.06,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0403,
+        "OperatingMarginTTM": 0.0576,
+        "ReturnOnAssetsTTM": 0.0313,
+        "ReturnOnEquityTTM": 0.0502,
+        "RevenueTTM": 419366176,
+        "RevenuePerShareTTM": 1.582,
+        "QuarterlyRevenueGrowthYOY": 0.235,
+        "GrossProfitTTM": 78353640,
+        "DilutedEpsTTM": 0.06,
+        "QuarterlyEarningsGrowthYOY": -0.483
+    },
+    "Valuation": {
+        "TrailingPE": 50.6667,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 929115008,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 300000000,
+        "SharesFloat": 91464000,
+        "PercentInsiders": 73.652,
+        "PercentInstitutions": 3.717,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 5.1035,
+        "52WeekLow": 2.66,
+        "50DayMA": 2.934,
+        "200DayMA": 3.5929,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.03,
+        "ForwardAnnualDividendYield": 0.0109,
+        "PayoutRatio": 1.1763,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-03",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0096,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0182,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "epsActual": 0.0096
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.0182
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

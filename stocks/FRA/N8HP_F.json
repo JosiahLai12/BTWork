@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "N8HP",
+        "Type": "Common Stock",
+        "Name": "CERRO DE PASCO RES",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA1568281051",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Other Industrial Metals & Mining",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Diversified Metals & Mining",
+        "Description": "Cerro de Pasco Resources Inc., a natural resource company, engages in the acquisition, exploration, and development of mineral properties. The company primarily explores for zinc, copper, lead, silver, and gold deposits. It holds 100% interests in the El Metalurgista mining concession covering an area of approximately 95.74 hectares located in Lima, Peru. The company also holds an 100% interest in Santander Pipe Mine, located in Cerro de Pasco, Peru. Cerro de Pasco Resources Inc. was founded in 2012 and is headquartered in Saint-Sauveur, Canada.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 22142484,
+        "MarketCapitalizationMln": 22.1425,
+        "EBITDA": -18200240,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": -0.064,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.08,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-03-31",
+        "ProfitMargin": -0.671,
+        "OperatingMarginTTM": -0.5423,
+        "ReturnOnAssetsTTM": -0.3146,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 38315456,
+        "RevenuePerShareTTM": 0.133,
+        "QuarterlyRevenueGrowthYOY": -0.156,
+        "GrossProfitTTM": 3323514,
+        "DilutedEpsTTM": -0.08,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 18443880,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 323256000,
+        "SharesFloat": 193871267,
+        "PercentInsiders": 21.89,
+        "PercentInstitutions": 16.250999999999998,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.1742,
+        "52WeekHigh": 0.139,
+        "52WeekLow": 0.048,
+        "50DayMA": 0.0711,
+        "200DayMA": 0.0726,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": "1:5",
+        "LastSplitDate": "2017-02-01",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-09-30": {
+                "reportDate": "2023-11-27",
+                "date": "2023-09-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-06-30": {
+                "reportDate": "2023-08-29",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

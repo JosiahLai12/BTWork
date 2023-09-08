@@ -1,0 +1,147 @@
+{
+    "General": {
+        "Code": "RBW",
+        "Type": "Common Stock",
+        "Name": "ROBERT WALTERS PLC LS-20",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "GB0008475088",
+        "LEI": "213800LIE15BDEN3VW43",
+        "PrimaryTicker": "RWA.LSE",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Staffing & Employment Services",
+        "GicSector": "Industrials",
+        "GicGroup": "Commercial & Professional Services",
+        "GicIndustry": "Professional Services",
+        "GicSubIndustry": "Human Resource & Employment Services",
+        "Description": "Robert Walters plc, together with its subsidiaries, provides professional recruitment consultancy services worldwide. The company offers permanent, contract, and interim recruitment services in the fields of accounting and finance, banking and financial services, engineering, human resources, information technology, legal, sales and marketing, secretarial and support, and supply chain and procurement. It also provides staffing, recruitment process outsourcing, and managed services. The company was founded in 1985 and is headquartered in London, the United Kingdom.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 4280,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 300497568,
+        "MarketCapitalizationMln": 300.4976,
+        "EBITDA": 47000000,
+        "PERatio": 10.3,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 2.444,
+        "DividendShare": 0.235,
+        "DividendYield": 0.0671,
+        "EarningsShare": 0.4,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0225,
+        "OperatingMarginTTM": 0.0376,
+        "ReturnOnAssetsTTM": 0.059,
+        "ReturnOnEquityTTM": 0.1463,
+        "RevenueTTM": 1109299968,
+        "RevenuePerShareTTM": 16.267,
+        "QuarterlyRevenueGrowthYOY": 0.018,
+        "GrossProfitTTM": 428200000,
+        "DilutedEpsTTM": 0.4,
+        "QuarterlyEarningsGrowthYOY": -0.715
+    },
+    "Valuation": {
+        "TrailingPE": 10.3,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 291268448,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 72936304,
+        "SharesFloat": 57131858,
+        "PercentInsiders": 14.758,
+        "PercentInstitutions": 78.984,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.1851,
+        "52WeekHigh": 6.4479,
+        "52WeekLow": 3.9378,
+        "50DayMA": 4.5052,
+        "200DayMA": 5.1825,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.27,
+        "ForwardAnnualDividendYield": 0.0671,
+        "PayoutRatio": 0.6753,
+        "DividendDate": null,
+        "ExDividendDate": "2023-08-31",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2021,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2023,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

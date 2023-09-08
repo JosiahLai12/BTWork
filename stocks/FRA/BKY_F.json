@@ -1,0 +1,151 @@
+{
+    "General": {
+        "Code": "BKY",
+        "Type": "Common Stock",
+        "Name": "BK OF KYOTO LTD",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "JP3251200006",
+        "LEI": "549300LRPVT8N6FNFC04",
+        "PrimaryTicker": "8369.TSE",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Banks-Regional",
+        "GicSector": "Financials",
+        "GicGroup": "Banks",
+        "GicIndustry": "Banks",
+        "GicSubIndustry": "Regional Banks",
+        "Description": "The Bank of Kyoto, Ltd., together with its subsidiaries, provides various banking products and services in Japan. It accepts current, ordinary, savings, time, and other deposits, as well as deposits at notice and negotiable certificates of deposit; and offers loans and overdrafts. The company was incorporated in 1941 and is headquartered in Kyoto, Japan.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 3474,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 3943741440,
+        "MarketCapitalizationMln": 3943.7414,
+        "EBITDA": null,
+        "PERatio": 21.5481,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 14903.273,
+        "DividendShare": 140,
+        "DividendYield": 0.0208,
+        "EarningsShare": 2.39,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2527,
+        "OperatingMarginTTM": 0.3491,
+        "ReturnOnAssetsTTM": 0.0025,
+        "ReturnOnEquityTTM": 0.0264,
+        "RevenueTTM": 111648997376,
+        "RevenuePerShareTTM": 1492.669,
+        "QuarterlyRevenueGrowthYOY": -0.063,
+        "GrossProfitTTM": 114349000000,
+        "DilutedEpsTTM": 2.39,
+        "QuarterlyEarningsGrowthYOY": 0.084
+    },
+    "Valuation": {
+        "TrailingPE": 21.5481,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -422809862144,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 74660200,
+        "SharesFloat": 61702810,
+        "PercentInsiders": 10.931000000000001,
+        "PercentInstitutions": 39.735,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.7407,
+        "52WeekHigh": 53,
+        "52WeekLow": -37.2,
+        "50DayMA": 47.804,
+        "200DayMA": 43.199,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 1.09,
+        "ForwardAnnualDividendYield": 0.0208,
+        "PayoutRatio": 0.3703,
+        "DividendDate": null,
+        "ExDividendDate": "2023-09-28",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2020,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "2": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "3": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

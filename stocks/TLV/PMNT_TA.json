@@ -1,0 +1,159 @@
+{
+    "General": {
+        "Code": "PMNT",
+        "Type": "Common Stock",
+        "Name": "Payment Financial Technologies Ltd",
+        "Exchange": "TA",
+        "CurrencyCode": "ILA",
+        "CurrencyName": "Israeli Agora",
+        "CurrencySymbol": "ILA",
+        "CountryName": "Israel",
+        "CountryISO": "Il",
+        "OpenFigi": "BBG00N2Y5W42",
+        "ISIN": "IL0011808768",
+        "LEI": null,
+        "PrimaryTicker": "PMNT.TA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Infrastructure",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Payment Financial Technologies Ltd. owns and operates a payment platform in Israel. Its platform sells retail credit through businesses. The company was founded in 2014 and is based in Omer, Israel.",
+        "Address": "HaGat Street 2, Omer, Israel",
+        "AddressData": {
+            "Street": "HaGat Street 2",
+            "City": "Omer",
+            "Country": "Israel"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Yaniv  Gilor",
+                "Title": "Founder & CEO",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Guy  Yochenan",
+                "Title": "Founder & CTO",
+                "YearBorn": "NA"
+            },
+            "2": {
+                "Name": "Mr. Oz  Gabay",
+                "Title": "VP of Sales",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": "https://www.payment-pay.co.il",
+        "LogoURL": "",
+        "FullTimeEmployees": 25,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 148046400,
+        "MarketCapitalizationMln": 148.0464,
+        "EBITDA": 19571000,
+        "PERatio": 3.9778,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1.623,
+        "DividendShare": 0.165,
+        "DividendYield": 0.0416,
+        "EarningsShare": 0.993,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3269,
+        "OperatingMarginTTM": 0.5431,
+        "ReturnOnAssetsTTM": 0.1005,
+        "ReturnOnEquityTTM": 0.2648,
+        "RevenueTTM": 35337000,
+        "RevenuePerShareTTM": 0.983,
+        "QuarterlyRevenueGrowthYOY": 1.002,
+        "GrossProfitTTM": 23874000,
+        "DilutedEpsTTM": 0.993,
+        "QuarterlyEarningsGrowthYOY": 0.375
+    },
+    "Valuation": {
+        "TrailingPE": 3.9778,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 20.5472,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 220072448,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 36921500,
+        "SharesFloat": 10120091,
+        "PercentInsiders": 59.480999999999995,
+        "PercentInstitutions": 10.279,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 501.0222,
+        "52WeekLow": 251.0837,
+        "50DayMA": 360.898,
+        "200DayMA": 338.213,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.16,
+        "ForwardAnnualDividendYield": 0.0416,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-08-17",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "General": {
+        "Code": "NFL",
+        "Type": "Common Stock",
+        "Name": "Norfolk Metals Ltd.",
+        "Exchange": "AU",
+        "CurrencyCode": "AUD",
+        "CurrencyName": "Australian Dollar",
+        "CurrencySymbol": "A$",
+        "CountryName": "Australia",
+        "CountryISO": "AU",
+        "OpenFigi": "BBG0155YWP79",
+        "ISIN": "AU0000207466",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Other Precious Metals & Mining",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Diversified Metals & Mining",
+        "Description": "Norfolk Metals Limited explores for gold and uranium properties in Australia. The company holds interest in the Roger River Gold project, which comprises one granted exploration license and one exploration license application located in Tasmania; and the Orroroo Uranium project located in South Australia. Norfolk Metals Limited was incorporated in 2021 and is based in Cottesloe, Australia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 4620000,
+        "MarketCapitalizationMln": 4.62,
+        "EBITDA": -732095,
+        "PERatio": 0,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.169,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.06,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": -3512.7144,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 196,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 19.6,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.06,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 891229,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 33000000,
+        "SharesFloat": 16969260,
+        "PercentInsiders": 46.526,
+        "PercentInstitutions": 2.473,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.37,
+        "52WeekLow": 0.12,
+        "50DayMA": 0.1381,
+        "200DayMA": 0.147,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-12-31": {
+                "reportDate": "2023-03-15",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.01,
+                "epsEstimate": 0,
+                "epsDifference": -0.01,
+                "surprisePercent": null
+            },
+            "2022-06-30": {
+                "reportDate": "2022-09-30",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0,
+                "epsEstimate": 0,
+                "epsDifference": 0,
+                "surprisePercent": null
+            },
+            "2021-12-31": {
+                "reportDate": "2022-03-18",
+                "date": "2021-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.02,
+                "epsEstimate": 0,
+                "epsDifference": -0.02,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": -0.01
+            },
+            "2021-12-31": {
+                "date": "2021-12-31",
+                "epsActual": -0.02
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

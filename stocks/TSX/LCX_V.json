@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "LCX",
+        "Type": "Common Stock",
+        "Name": "Lycos Energy Inc.",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "October",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "GicSector": "Energy",
+        "GicGroup": "Energy",
+        "GicIndustry": "Oil, Gas & Consumable Fuels",
+        "GicSubIndustry": "Oil & Gas Exploration & Production",
+        "Description": "Lycos Energy Inc., a junior resource company, engages in the development and production of petroleum and natural gas in Western Canada. It operates heavy-oil development assets in the Gull Lake area of southwest Saskatchewan and heavy-oil assets in the Lloydminster area. Lycos Energy Inc. is headquartered in Calgary, Canada.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 1269410560,
+        "MarketCapitalizationMln": 1269.4106,
+        "EBITDA": 6463000,
+        "PERatio": 44.3333,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 1.02,
+        "BookValue": 0.414,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.09,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.4382,
+        "OperatingMarginTTM": 0.1085,
+        "ReturnOnAssetsTTM": 0.0519,
+        "ReturnOnEquityTTM": 0.0491,
+        "RevenueTTM": 51457000,
+        "RevenuePerShareTTM": 0.244,
+        "QuarterlyRevenueGrowthYOY": 1.09,
+        "GrossProfitTTM": 4809000,
+        "DilutedEpsTTM": 0.09,
+        "QuarterlyEarningsGrowthYOY": -0.995
+    },
+    "Valuation": {
+        "TrailingPE": 44.3333,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 139485040,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 318148000,
+        "SharesFloat": 300862836,
+        "PercentInsiders": 22.283,
+        "PercentInstitutions": 12.903999999999998,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 10.0595,
+        "52WeekHigh": 7.2,
+        "52WeekLow": 0.32,
+        "50DayMA": 3.4646,
+        "200DayMA": 3.5728,
+        "SharesShort": 51412,
+        "SharesShortPriorMonth": 7790,
+        "ShortRatio": 0.1,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": "1:8",
+        "LastSplitDate": "2023-09-01",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-07-31": {
+                "reportDate": "2023-08-24",
+                "date": "2023-07-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-07-31": {
+                "date": "2023-07-31",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

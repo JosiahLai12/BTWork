@@ -1,0 +1,151 @@
+{
+    "General": {
+        "Code": "P6J1",
+        "Type": "Common Stock",
+        "Name": "POLYUS PJSC GDR 1/2",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US73181M1172",
+        "LEI": "549300FUXVT7TF6ZKV71",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "",
+        "Industry": "",
+        "GicSector": "Energy",
+        "GicGroup": "Energy",
+        "GicIndustry": "Oil, Gas & Consumable Fuels",
+        "GicSubIndustry": "Coal & Consumable Fuels",
+        "Description": "Public Joint Stock Company Polyus, together with its subsidiaries, engages in the extraction, refining, and sale of gold. The company has primary operations in Krasnoyarsk, Irkutsk, and Magadan regions, as well as the Republic of Sakha in Russia. It also engages in the research and exploration works. The company was incorporated in 2006 and is based in Moscow, Russia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 26633248768,
+        "MarketCapitalizationMln": 26633.2488,
+        "EBITDA": 2776999936,
+        "PERatio": 3.201,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 17.534,
+        "DividendShare": 5.993,
+        "DividendYield": 0.2397,
+        "EarningsShare": 7.81,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1549,
+        "OperatingMarginTTM": 0.4709,
+        "ReturnOnAssetsTTM": 0.1336,
+        "ReturnOnEquityTTM": 0.1255,
+        "RevenueTTM": 4791000064,
+        "RevenuePerShareTTM": 17.688,
+        "QuarterlyRevenueGrowthYOY": 0.288,
+        "GrossProfitTTM": 2649000000,
+        "DilutedEpsTTM": 7.81,
+        "QuarterlyEarningsGrowthYOY": -0.595
+    },
+    "Valuation": {
+        "TrailingPE": 3.201,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 8640199680,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 270848000,
+        "SharesFloat": 60892047,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 1.103,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.0826,
+        "52WeekHigh": 25,
+        "52WeekLow": 25,
+        "50DayMA": 25,
+        "200DayMA": 25,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 3.3,
+        "ForwardAnnualDividendYield": 0.132,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": "2021-10-08",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2018,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2019,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2020,
+                "Count": 2
+            },
+            "3": {
+                "Year": 2021,
+                "Count": 3
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

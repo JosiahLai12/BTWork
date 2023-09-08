@@ -1,0 +1,174 @@
+{
+    "General": {
+        "Code": "T1D",
+        "Type": "Common Stock",
+        "Name": "TRADEDOUBLER AB SK -40",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "SE0001552357",
+        "LEI": "549300VR2P8X3F1UOX13",
+        "PrimaryTicker": "TRAD.ST",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Communication Services",
+        "Industry": "Advertising Agencies",
+        "GicSector": "Communication Services",
+        "GicGroup": "Media & Entertainment",
+        "GicIndustry": "Media",
+        "GicSubIndustry": "Publishing",
+        "Description": "Tradedoubler AB (publ), together with its subsidiaries, provides performance marketing services and technology solutions for publishers and advertisers worldwide. It offers affiliate marketing solutions; white-label partner management platform to manage and run affiliate networks; full service programmatic solutions to identify and connect with customers; and campaign management solutions. The company also provides Metapic, a platform for product recommendations that helps advertisers and digital creatives to enhance through reader engaging content. In addition, it offers tracking solutions, such as global, cookie less, cross device, voucher code, product level, and call tracking, as well as container tag solutions; and integration solutions, including products, vouchers, conversions, and claims APIs. The company was incorporated in 1999 and is headquartered in Stockholm, Sweden. Tradedoubler AB (publ) is a subsidiary of Reworld Media S.A.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 332,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 17213136,
+        "MarketCapitalizationMln": 17.2131,
+        "EBITDA": null,
+        "PERatio": 12.0667,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 5.07,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.03,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0102,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0.025,
+        "ReturnOnEquityTTM": 0.058,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0.218,
+        "GrossProfitTTM": 342603000,
+        "DilutedEpsTTM": 0.03,
+        "QuarterlyEarningsGrowthYOY": -0.166
+    },
+    "Valuation": {
+        "TrailingPE": 12.0667,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 16158935,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 45136700,
+        "SharesFloat": 16628808,
+        "PercentInsiders": 74.09,
+        "PercentInstitutions": 0.844,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.7964,
+        "52WeekHigh": 0.506,
+        "52WeekLow": 0.2865,
+        "50DayMA": 0.3786,
+        "200DayMA": 0.3846,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.0025,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0145,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0201,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.012
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.0201
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

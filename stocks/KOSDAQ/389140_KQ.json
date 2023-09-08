@@ -1,0 +1,200 @@
+{
+    "General": {
+        "Code": "389140",
+        "Type": "Common Stock",
+        "Name": "4by4 Inc",
+        "Exchange": "KQ",
+        "CurrencyCode": "KRW",
+        "CurrencyName": "Korean Won",
+        "CurrencySymbol": "\u20a9",
+        "CountryName": "Korea",
+        "CountryISO": "KR",
+        "OpenFigi": "BBG016DC7NG9",
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Cyclical",
+        "Industry": "Media & Publishing",
+        "GicSector": "Communication Services",
+        "GicGroup": "Media & Entertainment",
+        "GicIndustry": "Entertainment",
+        "GicSubIndustry": "Movies & Entertainment",
+        "Description": "4by4 Inc. produces visual content in South Korea. The company provides hardware solutions, including smart visual enhancement device for video and syncing/managing multi-screen. It also operates a content platform. The company is based in Seoul, South Korea.",
+        "Address": "479, Gangnam-daero, Seoul, South Korea, 06541",
+        "AddressData": {
+            "Street": "479, Gangnam-daero",
+            "City": "Seoul",
+            "Country": "South Korea",
+            "ZIP": "06541"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Joonho  Yoon",
+                "Title": "Chief Exec. Officer",
+                "YearBorn": "1983"
+            },
+            "1": {
+                "Name": "Mr. Ilgyun  Kim",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1986"
+            }
+        },
+        "Phone": "82 8 838 4416",
+        "WebURL": "https://www.4by4inc.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 110,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 110322300000,
+        "MarketCapitalizationMln": 110322.3,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": null,
+        "DividendYield": null,
+        "EarningsShare": -1370.612,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-09-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": -24.3316,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": -0.54,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 145796628480,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 0,
+        "PercentInsiders": 53.818999999999996,
+        "PercentInstitutions": 3.238,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 22350,
+        "52WeekLow": 9590,
+        "50DayMA": 10850.8,
+        "200DayMA": 13435.35,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -172.4581,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -453.0431,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-09-30": {
+                "reportDate": "2022-09-30",
+                "date": "2022-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -269.1837,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-06-30": {
+                "reportDate": "2022-06-30",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 6.3311,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "epsActual": -172.4581
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": -715.8957
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

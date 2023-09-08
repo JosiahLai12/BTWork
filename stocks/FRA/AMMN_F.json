@@ -1,0 +1,220 @@
+{
+    "General": {
+        "Code": "AMMN",
+        "Type": "Common Stock",
+        "Name": "GROUNDS R.EST. NA O.N.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "DE000A2GSVV5",
+        "LEI": "391200VUYVDCPMZG1134",
+        "PrimaryTicker": "AMMN.XETRA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Real Estate",
+        "Industry": "Real Estate Services",
+        "GicSector": "Real Estate",
+        "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+        "GicIndustry": "Real Estate Management & Development",
+        "GicSubIndustry": "Real Estate Operating Companies",
+        "Description": "The Grounds Real Estate Development AG develops, manages, and sells residential properties in Germany. The company was incorporated in 2007 and is based in Berlin, Germany.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 15,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 16381060,
+        "MarketCapitalizationMln": 16.3811,
+        "EBITDA": 1990000,
+        "PERatio": 13.1429,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1.47,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.07,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0.0318,
+        "OperatingMarginTTM": 0.0526,
+        "ReturnOnAssetsTTM": 0.01,
+        "ReturnOnEquityTTM": 0.041,
+        "RevenueTTM": 36751000,
+        "RevenuePerShareTTM": 2.064,
+        "QuarterlyRevenueGrowthYOY": -0.424,
+        "GrossProfitTTM": 10593000,
+        "DilutedEpsTTM": 0.07,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 13.1429,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 102906680,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 17805500,
+        "SharesFloat": 5786793,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.2975,
+        "52WeekHigh": 2.08,
+        "52WeekLow": 0.92,
+        "50DayMA": 1.1554,
+        "200DayMA": 1.5019,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-03-31": {
+                "reportDate": "2023-04-28",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": -0.02,
+                "epsEstimate": 0,
+                "epsDifference": -0.02,
+                "surprisePercent": null
+            },
+            "2022-06-30": {
+                "reportDate": "2022-09-23",
+                "date": "2022-06-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": 0.08,
+                "epsEstimate": 0,
+                "epsDifference": 0.08,
+                "surprisePercent": null
+            },
+            "2022-03-31": {
+                "reportDate": "2022-04-13",
+                "date": "2022-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.28,
+                "epsEstimate": 0,
+                "epsDifference": 0.28,
+                "surprisePercent": null
+            },
+            "2021-06-30": {
+                "reportDate": "2021-09-29",
+                "date": "2021-06-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": 0.01,
+                "epsEstimate": 0,
+                "epsDifference": 0.01,
+                "surprisePercent": null
+            },
+            "2021-03-31": {
+                "reportDate": "2021-06-24",
+                "date": "2021-03-31",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": 0.16,
+                "epsEstimate": 0,
+                "epsDifference": 0.16,
+                "surprisePercent": null
+            },
+            "2020-06-30": {
+                "reportDate": "2020-07-28",
+                "date": "2020-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.01,
+                "epsEstimate": 0,
+                "epsDifference": 0.01,
+                "surprisePercent": null
+            },
+            "2019-06-30": {
+                "reportDate": "2019-07-23",
+                "date": "2019-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.26,
+                "epsEstimate": 0,
+                "epsDifference": 0.26,
+                "surprisePercent": null
+            },
+            "2018-06-30": {
+                "reportDate": "2018-09-27",
+                "date": "2018-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.02,
+                "epsEstimate": 0,
+                "epsDifference": 0.02,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "epsActual": 0.8
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "General": {
+        "Code": "MEG",
+        "Type": "Common Stock",
+        "Name": "Megado Minerals Limited",
+        "Exchange": "AU",
+        "CurrencyCode": "AUD",
+        "CurrencyName": "Australian Dollar",
+        "CurrencySymbol": "A$",
+        "CountryName": "Australia",
+        "CountryISO": "AU",
+        "OpenFigi": "BBG00XC7VP44",
+        "ISIN": "AU0000105025",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Other Industrial Metals & Mining",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Diversified Metals & Mining",
+        "Description": "Megado Minerals Limited operates as a mineral exploration company in North America. It explores for rare earth elements and lithium. The company holds 100% interest in North Fork Rare Earth Project comprising 499 mining lode claims covering approximately 42 square kilometers in the Salmon-Challis National Forest in Lemhi County, Idaho. It also holds interests in the Cyclone lithium project comprising 304 claims covering 130 square kilometers located near the James Bay region in Quebec, Canada. The company was formerly known as Megado Gold Limited and changed its name to Megado Minerals Limited in July 2022. Megado Minerals Limited was incorporated in 2019 and is based in Perth, Australia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-07-13"
+    },
+    "Highlights": {
+        "MarketCapitalization": 15521790,
+        "MarketCapitalizationMln": 15.5218,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": null,
+        "DividendYield": null,
+        "EarningsShare": -0.0982,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": -143.8502,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.11,
+        "52WeekLow": 0.033,
+        "50DayMA": 0,
+        "200DayMA": 0,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-12-31": {
+                "reportDate": "2024-01-25",
+                "date": "2023-12-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-06-30": {
+                "reportDate": "2023-09-11",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2023-03-29",
+                "date": "2022-12-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0,
+                "epsEstimate": 0,
+                "epsDifference": 0,
+                "surprisePercent": null
+            },
+            "2022-06-30": {
+                "reportDate": "2022-09-13",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.1,
+                "epsEstimate": 0,
+                "epsDifference": -0.1,
+                "surprisePercent": null
+            },
+            "2021-12-31": {
+                "reportDate": "2022-03-18",
+                "date": "2021-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.01,
+                "epsEstimate": 0,
+                "epsDifference": -0.01,
+                "surprisePercent": null
+            },
+            "2021-06-30": {
+                "reportDate": "2021-08-30",
+                "date": "2021-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.01,
+                "epsEstimate": 0,
+                "epsDifference": -0.01,
+                "surprisePercent": null
+            },
+            "2020-12-31": {
+                "reportDate": "2021-03-23",
+                "date": "2020-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.01,
+                "epsEstimate": 0,
+                "epsDifference": -0.01,
+                "surprisePercent": null
+            },
+            "2020-09-30": {
+                "reportDate": "2020-10-23",
+                "date": "2020-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.01,
+                "epsEstimate": 0,
+                "epsDifference": -0.01,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": -0.1
+            },
+            "2021-12-31": {
+                "date": "2021-12-31",
+                "epsActual": -0.02
+            },
+            "2020-12-31": {
+                "date": "2020-12-31",
+                "epsActual": -0.02
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

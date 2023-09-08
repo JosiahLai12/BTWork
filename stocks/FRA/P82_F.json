@@ -1,0 +1,155 @@
+{
+    "General": {
+        "Code": "P82",
+        "Type": "Common Stock",
+        "Name": "PERPETUAL EQU. INV.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "AU000000PIC0",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "",
+        "Industry": "",
+        "GicSector": "Energy",
+        "GicGroup": "Energy",
+        "GicIndustry": "Oil, Gas & Consumable Fuels",
+        "GicSubIndustry": "Coal & Consumable Fuels",
+        "Description": "Perpetual Equity Investment Company Limited invests and manages the portfolio of listed securities. The company was incorporated in 2014 and is headquartered in Sydney, Australia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 264772096,
+        "MarketCapitalizationMln": 264.7721,
+        "EBITDA": null,
+        "PERatio": 5.2174,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1.275,
+        "DividendShare": 0.073,
+        "DividendYield": 0.1014,
+        "EarningsShare": 0.138,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.6804,
+        "OperatingMarginTTM": 0.9065,
+        "ReturnOnAssetsTTM": 0.0964,
+        "ReturnOnEquityTTM": 0.118,
+        "RevenueTTM": 80842000,
+        "RevenuePerShareTTM": 0.214,
+        "QuarterlyRevenueGrowthYOY": 0.57,
+        "GrossProfitTTM": 80842000,
+        "DilutedEpsTTM": 0.138,
+        "QuarterlyEarningsGrowthYOY": 0.569
+    },
+    "Valuation": {
+        "TrailingPE": 5.2174,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -215253392,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 254443008,
+        "SharesFloat": 0,
+        "PercentInsiders": 7.027,
+        "PercentInstitutions": 3.6130000000000004,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.6435,
+        "52WeekHigh": 0.845,
+        "52WeekLow": 0.685,
+        "50DayMA": 0.7096,
+        "200DayMA": 0.7266,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2015,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2016,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2017,
+                "Count": 2
+            },
+            "3": {
+                "Year": 2018,
+                "Count": 1
+            },
+            "4": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "EBE",
+        "Type": "Common Stock",
+        "Name": "AIFINYO AG INH O.N.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "DE000A2G8XP9",
+        "LEI": "894500L2MAWEEDQ3RJ46",
+        "PrimaryTicker": "EBE.XETRA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Consumer Finance",
+        "GicSubIndustry": "Consumer Finance",
+        "Description": "aifinyo AG, through its subsidiaries, provides various liquidity solutions in Germany. It offers leasing, factoring, billing, cash flow, fine trading, international bank transfer services, debt collection, and API-integration services. The company serves freelancers, startups, and small and medium sized company in the ecommerce, food and beverages, beauty, health care, fashion and accessories, IT and software development, recruiters, industry and manufacturing, consulting, trade, agencies, and freight forwarding and logistics industries. The company was formerly known as Elbe Finanzgruppe AG and changed its name to aifinyo AG in July 2019. aifinyo AG was founded in 2012 and is based in Berlin, Germany.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 80,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 49740840,
+        "MarketCapitalizationMln": 49.7408,
+        "EBITDA": 4564101,
+        "PERatio": 48,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 4.372,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.25,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0218,
+        "OperatingMarginTTM": 0.041,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 55436268,
+        "RevenuePerShareTTM": 13.88,
+        "QuarterlyRevenueGrowthYOY": -0.027,
+        "GrossProfitTTM": 14548228,
+        "DilutedEpsTTM": 0.25,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 48,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 51013240,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 4048670,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 11.533,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.0548,
+        "52WeekHigh": 17.9,
+        "52WeekLow": 9.2,
+        "50DayMA": 13.53,
+        "200DayMA": 13.938,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-03",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "General": {
+        "Code": "6TF",
+        "Type": "Common Stock",
+        "Name": "TF BANK AB",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "SE0007331608",
+        "LEI": "529900BGZZZTLLBR1X49",
+        "PrimaryTicker": "TFBANK.ST",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Banks-Regional",
+        "GicSector": "Financials",
+        "GicGroup": "Banks",
+        "GicIndustry": "Banks",
+        "GicSubIndustry": "Regional Banks",
+        "Description": "TF Bank AB (publ) provides consumer banking services and e-commerce solutions through a proprietary IT platform. The company operates through three segments: Consumer Lending, Ecommerce Solutions, and Credit Cards. It offers savings accounts; unsecured consumer loans; and digital payment solutions, as well as credit cards. The company serves private individuals in Sweden, Spain, Finland, Norway, Denmark, Estonia, Latvia, Lithuania, Poland, Germany, and Austria. TF Bank AB (publ) was incorporated in 1972 and is headquartered in Bor\u00e5s, Sweden.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 330,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 263590000,
+        "MarketCapitalizationMln": 263.59,
+        "EBITDA": null,
+        "PERatio": 8.695,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 1.41,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3101,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0.0193,
+        "ReturnOnEquityTTM": 0.2153,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0.254,
+        "GrossProfitTTM": 1045232000,
+        "DilutedEpsTTM": 1.41,
+        "QuarterlyEarningsGrowthYOY": 0.136
+    },
+    "Valuation": {
+        "TrailingPE": 8.695,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 272620000,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 21500000,
+        "SharesFloat": 5021325,
+        "PercentInsiders": 73.92,
+        "PercentInstitutions": 14.785,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.1306,
+        "52WeekHigh": 17.2,
+        "52WeekLow": 10.9,
+        "50DayMA": 13.2304,
+        "200DayMA": 13.566,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.09,
+        "ForwardAnnualDividendYield": 0.0063,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": "2022-05-04",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.371,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3631,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3621,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-09-30": {
+                "reportDate": "2022-09-30",
+                "date": "2022-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3637,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-06-30": {
+                "reportDate": "2022-06-30",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3574,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-03-31": {
+                "reportDate": "2022-03-31",
+                "date": "2022-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3447,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2021-12-31": {
+                "reportDate": "2021-12-31",
+                "date": "2021-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3474,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.7341
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 1.4279
+            },
+            "2021-12-31": {
+                "date": "2021-12-31",
+                "epsActual": 0.3474
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

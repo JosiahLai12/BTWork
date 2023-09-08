@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "SSU",
+        "Type": "Common Stock",
+        "Name": "Southern Sun Ltd.",
+        "Exchange": "JSE",
+        "CurrencyCode": "ZAR",
+        "CurrencyName": "South African Rand",
+        "CurrencySymbol": "R",
+        "CountryName": "South Africa",
+        "CountryISO": "ZA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Cyclical",
+        "Industry": "Lodging",
+        "GicSector": "Consumer Discretionary",
+        "GicGroup": "Consumer Services",
+        "GicIndustry": "Hotels, Restaurants & Leisure",
+        "GicSubIndustry": "Hotels, Resorts & Cruise Lines",
+        "Description": "Southern Sun Limited owns, leases, and manages hotels in South Africa, Mozambique, the Seychelles, Tanzania, the United Arab Emirates, and Zambia. It operates through five segments: Manco, Externally Managed \" Investment Properties, Sandton Consortium, Internally Managed, and Offshore. The company operates hotels and resorts under the Southern Sun Hotels, Garden Court, SunSquare, StayEasy, and SUN1 brand names. The company was formerly known as Tsogo Sun Hotels Limited. The company was founded in 1969 and is based in Sandton, South Africa.",
+        "Address": "Palazzo Towers East, Johannesburg, South Africa, 2055",
+        "AddressData": {
+            "Street": "Palazzo Towers East",
+            "City": "Johannesburg",
+            "Country": "South Africa",
+            "ZIP": "2055"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Marcel Nikolaus von Aulock C.A., CA(SA)",
+                "Title": "CEO & Director",
+                "YearBorn": "1974"
+            },
+            "1": {
+                "Name": "Ms. Laurelle  McDonald C.A., CA(SA)",
+                "Title": "CFO & Director",
+                "YearBorn": "1983"
+            }
+        },
+        "Phone": "27 11 510 7406",
+        "WebURL": "https://www.southernsun.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 5397,
+        "UpdatedAt": "2023-09-03"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": 1156000000,
+        "PERatio": 10.5116,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 5.556,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.43,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-03-31",
+        "ProfitMargin": 0.2033,
+        "OperatingMarginTTM": 0.1783,
+        "ReturnOnAssetsTTM": 0.041,
+        "ReturnOnEquityTTM": 0.0958,
+        "RevenueTTM": 4986999808,
+        "RevenuePerShareTTM": 3.379,
+        "QuarterlyRevenueGrowthYOY": 0.545,
+        "GrossProfitTTM": 3488000000,
+        "DilutedEpsTTM": 0.43,
+        "QuarterlyEarningsGrowthYOY": 109.099
+    },
+    "Valuation": {
+        "TrailingPE": 10.5116,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 1.6828,
+        "PriceBookMRQ": 0.8221,
+        "EnterpriseValue": 9586799616,
+        "EnterpriseValueRevenue": 2.4082,
+        "EnterpriseValueEbitda": 8.3063
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1468070016,
+        "SharesFloat": 834519840,
+        "PercentInsiders": 41.881,
+        "PercentInstitutions": 35.154999999999994,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.0056,
+        "52WeekHigh": 580,
+        "52WeekLow": 341,
+        "50DayMA": 435.96,
+        "200DayMA": 444.345,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

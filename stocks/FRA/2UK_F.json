@@ -1,0 +1,159 @@
+{
+    "General": {
+        "Code": "2UK",
+        "Type": "Common Stock",
+        "Name": "OSB GROUP PLC LS 001",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "GB00BLDRH360",
+        "LEI": "213800ZBKL9BHSL2K459",
+        "PrimaryTicker": "OSB.LSE",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Mortgage Finance",
+        "GicSector": "Financials",
+        "GicGroup": "Banks",
+        "GicIndustry": "Thrifts & Mortgage Finance",
+        "GicSubIndustry": "Thrifts & Mortgage Finance",
+        "Description": "OSB Group Plc, through its subsidiaries, operates as a specialist mortgage lending and retail savings company in the United Kingdom and the Channel Islands. It provides private rented sector related buy-to-let, commercial and semi-commercial mortgages, residential development finance, secured funding, bridging, and asset finance services. The company also provides buy-to-let and specialist residential mortgages, mortgage servicing, administration and analytical, mortgage originator and servicer, and retail savings products; and back office processing services. The company was founded in 1847 and is based in Chatham, the United Kingdom.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 2169,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 1592736256,
+        "MarketCapitalizationMln": 1592.7363,
+        "EBITDA": null,
+        "PERatio": 6.2188,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 4.476,
+        "DividendShare": 0.32,
+        "DividendYield": 0.0928,
+        "EarningsShare": 0.64,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.4562,
+        "OperatingMarginTTM": 0.607,
+        "ReturnOnAssetsTTM": 0.0096,
+        "ReturnOnEquityTTM": 0.1269,
+        "RevenueTTM": 570800000,
+        "RevenuePerShareTTM": 1.322,
+        "QuarterlyRevenueGrowthYOY": -0.481,
+        "GrossProfitTTM": 744700000,
+        "DilutedEpsTTM": 0.64,
+        "QuarterlyEarningsGrowthYOY": -0.721
+    },
+    "Valuation": {
+        "TrailingPE": 6.2188,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 4285339904,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 398702016,
+        "SharesFloat": 421918120,
+        "PercentInsiders": 0.909,
+        "PercentInstitutions": 74.98599999999999,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.2778,
+        "52WeekHigh": 6.1221,
+        "52WeekLow": 3.7684,
+        "50DayMA": 4.4978,
+        "200DayMA": 5.3985,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.37,
+        "ForwardAnnualDividendYield": 0.0928,
+        "PayoutRatio": 0.5332,
+        "DividendDate": null,
+        "ExDividendDate": "2023-08-24",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2018,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2019,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2020,
+                "Count": 1
+            },
+            "3": {
+                "Year": 2021,
+                "Count": 2
+            },
+            "4": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "5": {
+                "Year": 2023,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

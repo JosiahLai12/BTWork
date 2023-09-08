@@ -1,0 +1,169 @@
+{
+    "General": {
+        "Code": "TEQA",
+        "Type": "Common Stock",
+        "Name": "TELENOR ASA SP.ADR/ O.N.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US87944W1053",
+        "LEI": "549300IM1QSBY4SLPM26",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "GicSector": "Communication Services",
+        "GicGroup": "Telecommunication Services",
+        "GicIndustry": "Diversified Telecommunication Services",
+        "GicSubIndustry": "Integrated Telecommunication Services",
+        "Description": "Telenor ASA, together with its subsidiaries, operates as a telecommunication company worldwide. The company's mobile communication services comprise voice, data, Internet, and content services, as well as customer equipment and messaging. Its fixed services consist of telephony, Internet and TV, and leased lines, as well as data and managed services; and broadcasting and data communication services through satellite, terrestrial radio, and TV transmission. The company also provides machine-to-machine communication, as well as internet based services. Telenor ASA was founded in 1855 and is headquartered in Fornebu, Norway.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 14000,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 13899309056,
+        "MarketCapitalizationMln": 13899.3091,
+        "EBITDA": 29051000832,
+        "PERatio": 26.1111,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 52.695,
+        "DividendShare": 9.4,
+        "DividendYield": 0.0902,
+        "EarningsShare": 0.36,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.5803,
+        "OperatingMarginTTM": 0.1964,
+        "ReturnOnAssetsTTM": 0.054,
+        "ReturnOnEquityTTM": 0.1621,
+        "RevenueTTM": 100685996032,
+        "RevenuePerShareTTM": 72.17,
+        "QuarterlyRevenueGrowthYOY": 0.051,
+        "GrossProfitTTM": 63616000000,
+        "DilutedEpsTTM": 0.36,
+        "QuarterlyEarningsGrowthYOY": -0.413
+    },
+    "Valuation": {
+        "TrailingPE": 26.1111,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 111708037120,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1384679936,
+        "SharesFloat": 631905610,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0.006999999999999999,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.109,
+        "52WeekHigh": 11.6542,
+        "52WeekLow": 7.6421,
+        "50DayMA": 9.12,
+        "200DayMA": 9.4963,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.83,
+        "ForwardAnnualDividendYield": 0.0902,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-11",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2021-12-31": {
+                "reportDate": "2022-02-02",
+                "date": "2021-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.09,
+                "epsEstimate": 0.37,
+                "epsDifference": -0.28,
+                "surprisePercent": -75.6757
+            },
+            "2021-09-30": {
+                "reportDate": "2021-10-28",
+                "date": "2021-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.23,
+                "epsEstimate": 0.27,
+                "epsDifference": -0.04,
+                "surprisePercent": -14.8148
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2021-12-31": {
+                "date": "2021-12-31",
+                "epsActual": 0.32
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

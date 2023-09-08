@@ -1,0 +1,147 @@
+{
+    "General": {
+        "Code": "IQF",
+        "Type": "Common Stock",
+        "Name": "STM GROUP PLC LS -01",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "IM00B1S9KY98",
+        "LEI": "213800SL3481DK3FO347",
+        "PrimaryTicker": "STM.LSE",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "Description": "STM Group Plc, together with its subsidiaries, provides various financial services in the United Kingdom, Gibraltar, Malta, Australia, Spain, Jersey, and internationally. It operates in four segments: Pensions, Life Assurance, Corporate Trustee Services, and Other Services. The company offers retirement, estate and succession planning, and wealth structuring services. It also provides pension solutions, life assurance solutions, annuities, and workplace pension solutions. The company was founded in 1989 and is headquartered in London, the United Kingdom.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 285,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 34779872,
+        "MarketCapitalizationMln": 34.7799,
+        "EBITDA": 2634000,
+        "PERatio": 26.5,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.6,
+        "DividendShare": 0.012,
+        "DividendYield": 0.0264,
+        "EarningsShare": 0.02,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0.035,
+        "OperatingMarginTTM": 0.0778,
+        "ReturnOnAssetsTTM": 0.0184,
+        "ReturnOnEquityTTM": 0.0241,
+        "RevenueTTM": 24094000,
+        "RevenuePerShareTTM": 0.406,
+        "QuarterlyRevenueGrowthYOY": 0.164,
+        "GrossProfitTTM": 22355000,
+        "DilutedEpsTTM": 0.02,
+        "QuarterlyEarningsGrowthYOY": -0.431
+    },
+    "Valuation": {
+        "TrailingPE": 26.5,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 17682704,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 59408100,
+        "SharesFloat": 19930865,
+        "PercentInsiders": 40.698,
+        "PercentInstitutions": 27.031,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.9012,
+        "52WeekHigh": 0.5982,
+        "52WeekLow": 0.2314,
+        "50DayMA": 0.4627,
+        "200DayMA": 0.3294,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.01,
+        "ForwardAnnualDividendYield": 0.0264,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": "2023-08-31",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2021,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

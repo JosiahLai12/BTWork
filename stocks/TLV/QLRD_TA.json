@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "QLRD",
+        "Type": "Common Stock",
+        "Name": "Quicklizard Ltd",
+        "Exchange": "TA",
+        "CurrencyCode": "ILA",
+        "CurrencyName": "Israeli Agora",
+        "CurrencySymbol": "ILA",
+        "CountryName": "Israel",
+        "CountryISO": "Il",
+        "OpenFigi": null,
+        "ISIN": "IL0011728404",
+        "LEI": null,
+        "PrimaryTicker": "QLRD.TA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Infrastructure",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Quicklizard Ltd operates as a data company in Israel. It offers retailer and brands the science, insights, and tools for pricing excellence, such as pricing infrastructure and optimization, and product data enrichment. The company was founded in 2010 and is headquartered in Petah Tikva, Israel.",
+        "Address": "Israel Global Tower, Petah Tikva, Israel, 4951437",
+        "AddressData": {
+            "Street": "Israel Global Tower",
+            "City": "Petah Tikva",
+            "Country": "Israel",
+            "ZIP": "4951437"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Pini  Mandel",
+                "Title": "CEO, Co-Founder & Director",
+                "YearBorn": "1977"
+            },
+            "1": {
+                "Name": "Mr. Or  Stokelman",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1985"
+            },
+            "2": {
+                "Name": "Yossi  Cohen",
+                "Title": "Co-Founder & CTO",
+                "YearBorn": "NA"
+            },
+            "3": {
+                "Name": "Gal  Yaffe",
+                "Title": "VP of Sales & CRO",
+                "YearBorn": "1975"
+            },
+            "4": {
+                "Name": "Moranne  Levi",
+                "Title": "Sr. VP of Marketing",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "972 3 742 8800",
+        "WebURL": "https://www.quicklizard.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 44,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 73099888,
+        "MarketCapitalizationMln": 73.0999,
+        "EBITDA": -13189000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 7.124,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -6.895,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": -0.6722,
+        "OperatingMarginTTM": -0.7674,
+        "ReturnOnAssetsTTM": -0.2352,
+        "ReturnOnEquityTTM": -0.4309,
+        "RevenueTTM": 17714000,
+        "RevenuePerShareTTM": 5.451,
+        "QuarterlyRevenueGrowthYOY": 0.638,
+        "GrossProfitTTM": 10146000,
+        "DilutedEpsTTM": -6.895,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 3.6139,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 51936712,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 3254670,
+        "SharesFloat": 1100962,
+        "PercentInsiders": 52.134,
+        "PercentInstitutions": 39.103,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.0184,
+        "52WeekHigh": 2318,
+        "52WeekLow": 1064,
+        "50DayMA": 1709.92,
+        "200DayMA": 1501.425,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

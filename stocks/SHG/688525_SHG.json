@@ -1,0 +1,164 @@
+{
+    "General": {
+        "Code": "688525",
+        "Type": "Common Stock",
+        "Name": "Biwin Storage Technology Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "GicSector": "Information Technology",
+        "GicGroup": "Semiconductors & Semiconductor Equipment",
+        "GicIndustry": "Semiconductors & Semiconductor Equipment",
+        "GicSubIndustry": "Semiconductors",
+        "Description": "BIWIN Storage Technology Co., Ltd. engages in the research, development, manufacturing, and sales of memory chip application products in China. The company offers embedded storage, memory, and small capacity storage chips. It also provides solid-state disk (SSD) and memory products for industrial control products. The company offers its products for vehicle-mounted multimedia terminal, server storage, medical equipment, gaming, monitors, smart phones, notebooks, smart wears, network products, and special industrial applications. The company was founded in 1995 and is based in Shenzhen, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 1117,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 29589422080,
+        "MarketCapitalizationMln": 29589.4221,
+        "EBITDA": -175191264,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 4.448,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.21,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": -0.0999,
+        "OperatingMarginTTM": -0.0803,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 2749702400,
+        "RevenuePerShareTTM": 6.547,
+        "QuarterlyRevenueGrowthYOY": 0.06,
+        "GrossProfitTTM": 3844047076000,
+        "DilutedEpsTTM": -0.21,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 34893783040,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 430328992,
+        "SharesFloat": 335657351,
+        "PercentInsiders": 34.816,
+        "PercentInstitutions": 18.809,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 116.66,
+        "52WeekLow": 15,
+        "50DayMA": 74.5068,
+        "200DayMA": 59.6557,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.2928,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.0112,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "epsActual": -0.2928
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": -0.0112
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "General": {
+        "Code": "GOS0",
+        "Type": "Common Stock",
+        "Name": "GOLDMANN SACHS GROUP CDR",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA38150F1045",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Investment Banking & Brokerage",
+        "Description": "The Goldman Sachs Group, Inc., a financial institution, provides a range of financial services for corporations, financial institutions, governments, and individuals worldwide. It operates through Global Banking & Markets, Asset & Wealth Management, and Platform Solutions segments. The Global Banking & Markets segment provides financial advisory services, including strategic advisory assignments related to mergers and acquisitions, divestitures, corporate defense activities, restructurings, and spin-offs; and relationship lending, and acquisition financing, as well as secured lending, through structured credit and asset-backed lending and involved in resale agreements. This segment also offers client execution activities for cash and derivative instruments; credit and interest rate products; and provision of mortgages, currencies, commodities, and equities related products, as well as underwriting services. The Asset & Wealth Management segment manages assets across various classes, including equity, fixed income, hedge funds, credit funds, private equity, real estate, currencies, and commodities; and provides customized investment advisory solutions, wealth advisory services, personalized financial planning, and private banking services, as well as invests in corporate equity, credit, real estate, and infrastructure assets. The Platform Solutions segment offers credit cards and point-of-sale financing for purchase of goods or services. This segment also provides cash management services, such as deposit-taking and payment solutions for corporate and institutional clients. The Goldman Sachs Group, Inc. was founded in 1869 and is headquartered in New York, New York.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 44600,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 97770471424,
+        "MarketCapitalizationMln": 97770.4714,
+        "EBITDA": null,
+        "PERatio": 0.5023,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 10.0278,
+        "DividendShare": 10,
+        "DividendYield": 0.0315,
+        "EarningsShare": 22.1,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2021,
+        "OperatingMarginTTM": 0.2995,
+        "ReturnOnAssetsTTM": 0.0056,
+        "ReturnOnEquityTTM": 0.075,
+        "RevenueTTM": 43755999232,
+        "RevenuePerShareTTM": 4.1523,
+        "QuarterlyRevenueGrowthYOY": -0.082,
+        "GrossProfitTTM": 37530000000,
+        "DilutedEpsTTM": 22.1,
+        "QuarterlyEarningsGrowthYOY": -0.601
+    },
+    "Valuation": {
+        "TrailingPE": 0.5023,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -200167522304,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 329671008,
+        "SharesFloat": 10452522353,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.3848,
+        "52WeekHigh": 14.1442,
+        "52WeekLow": 10.2692,
+        "50DayMA": 11.418,
+        "200DayMA": 11.95,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.36,
+        "ForwardAnnualDividendYield": 0.0315,
+        "PayoutRatio": 0.0162,
+        "DividendDate": null,
+        "ExDividendDate": "2023-08-30",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 3
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

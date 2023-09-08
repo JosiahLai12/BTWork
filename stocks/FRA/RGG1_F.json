@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "RGG1",
+        "Type": "Common Stock",
+        "Name": "HELIOSTAR METALS LTD.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA42328Y1025",
+        "LEI": null,
+        "PrimaryTicker": "HSTR.V",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Gold",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Gold",
+        "Description": "Heliostar Metals Ltd. engages in the identification, acquisition, evaluation, and exploration of mineral properties in Alaska and Mexico. It explores for gold and silver deposits. Its primary project is the 100% owned Ana Paula Project covering an area of approximately 600 square kilometers located in Guerrero State, Mexico. The company was formerly known as Redstar Gold Corp. and changed its name to Heliostar Metals Ltd. in October 2020. Heliostar Metals Ltd. was incorporated in 1983 and is based in Vancouver, Canada.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 27169284,
+        "MarketCapitalizationMln": 27.1693,
+        "EBITDA": -6454864,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.175,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.05,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.1991,
+        "ReturnOnEquityTTM": -0.4354,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.05,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 26109110,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 166692992,
+        "SharesFloat": 149174907,
+        "PercentInsiders": 3.94,
+        "PercentInstitutions": 26.868,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.467,
+        "52WeekHigh": 0.4,
+        "52WeekLow": 0.0795,
+        "50DayMA": 0.2013,
+        "200DayMA": 0.1708,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": "1:15",
+        "LastSplitDate": "2020-10-21",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-16",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

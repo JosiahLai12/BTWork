@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "EMAN",
+        "Type": "Common Stock",
+        "Name": "eMan a.s.",
+        "Exchange": "PR",
+        "CurrencyCode": "CZK",
+        "CurrencyName": "Czech koruna",
+        "CurrencySymbol": "K\u010d",
+        "CountryName": "Czech Republic",
+        "CountryISO": "CZ",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Application",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "eMan a.s. develops applications for smartphones, tablets, websites, cars, and other smart devices in the Czech Republic, Europe, and North America. The company also offers various services, including mobile application, web applications, UI/UX design, outsourcing, consulting services, integrated solutions, biometric and electronic signatures, mobile device management, support and service, and other services. It serves banking and finance, power engineering and utility, industry and transport, telecommunication and service, retail, nonprofit and public, and other sectors. The company was founded in 2010 and is headquartered in Prague, the Czech Republic.",
+        "Address": "U Pergamenky 1145/12, Prague, Czech Republic, 170 00",
+        "AddressData": {
+            "Street": "U Pergamenky 1145/12",
+            "City": "Prague",
+            "Country": "Czech Republic",
+            "ZIP": "170 00"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Jir\u00ed  Horyna",
+                "Title": "Co-Owner and Managing Director",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Jan  Horyna",
+                "Title": "Co-Owner and Sales Director",
+                "YearBorn": "NA"
+            },
+            "2": {
+                "Name": "Mr. Michal  Ko?ek",
+                "Title": "Co-Owner, Operation Director and Production Director",
+                "YearBorn": "NA"
+            },
+            "3": {
+                "Name": "Mr. Tom\u00e1?  Cerm\u00e1k",
+                "Title": "Co-Owner and Marketing Director",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "420 2 2220 2222",
+        "WebURL": "https://www.eman.cz",
+        "LogoURL": "",
+        "FullTimeEmployees": 30,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 166600000,
+        "MarketCapitalizationMln": 166.6,
+        "EBITDA": 19683000,
+        "PERatio": 32.0513,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 30.51,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 2.652,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2020-12-31",
+        "ProfitMargin": 0.0111,
+        "OperatingMarginTTM": 0.0818,
+        "ReturnOnAssetsTTM": 0.0724,
+        "ReturnOnEquityTTM": 0.0432,
+        "RevenueTTM": 227920000,
+        "RevenuePerShareTTM": 116.286,
+        "QuarterlyRevenueGrowthYOY": 0.02,
+        "GrossProfitTTM": 8819000,
+        "DilutedEpsTTM": 2.652,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 32.0513,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0.7488,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 200960992,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1960000,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 4.796,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.3461,
+        "52WeekHigh": 94,
+        "52WeekLow": 78.5,
+        "50DayMA": 86.22,
+        "200DayMA": 83.145,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

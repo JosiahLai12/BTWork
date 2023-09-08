@@ -1,0 +1,179 @@
+{
+    "General": {
+        "Code": "301363",
+        "Type": "Common Stock",
+        "Name": "MeHow Innovative Ltd. A",
+        "Exchange": "SHE",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "GicSector": "Health Care",
+        "GicGroup": "Health Care Equipment & Services",
+        "GicIndustry": "Health Care Equipment & Supplies",
+        "GicSubIndustry": "Health Care Equipment",
+        "Description": "Mehow Innovative Ltd. focuses to design, develop, manufacture, and sell medical equipment. It primarily offers home ventilators and cochlear implant components. The company was founded in 2010 and is based in Shenzhen, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 2410,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 13411646464,
+        "MarketCapitalizationMln": 13411.6465,
+        "EBITDA": 496393696,
+        "PERatio": 28.188,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 54.27,
+        "BookValue": 7.43,
+        "DividendShare": 0.35,
+        "DividendYield": 0.0105,
+        "EarningsShare": 1.17,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3058,
+        "OperatingMarginTTM": 0.2816,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0.1946,
+        "RevenueTTM": 1495455232,
+        "RevenuePerShareTTM": 3.792,
+        "QuarterlyRevenueGrowthYOY": -0.008,
+        "GrossProfitTTM": 609186046,
+        "DilutedEpsTTM": 1.17,
+        "QuarterlyEarningsGrowthYOY": -0.043
+    },
+    "Valuation": {
+        "TrailingPE": 28.188,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 10.1871,
+        "PriceBookMRQ": 5.3986,
+        "EnterpriseValue": 14328918016,
+        "EnterpriseValueRevenue": 10.263,
+        "EnterpriseValueEbitda": 30.4873
+    },
+    "SharesStats": {
+        "SharesOutstanding": 406660000,
+        "SharesFloat": 83183293,
+        "PercentInsiders": 88.112,
+        "PercentInstitutions": 5.251,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 52.7604,
+        "52WeekLow": 32.31,
+        "50DayMA": 41.9686,
+        "200DayMA": 42.2121,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.35,
+        "ForwardAnnualDividendYield": 0.0105,
+        "PayoutRatio": 0.7752,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-06-13",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-29",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.3259,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-17",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.2665,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.185,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.5924
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.185
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "General": {
+        "Code": "ROAR",
+        "Type": "Common Stock",
+        "Name": "Lion Rock Resources Inc.",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Other Industrial Metals & Mining",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Diversified Metals & Mining",
+        "Description": "Lion Rock Resources Inc. engages in acquiring, exploring, developing, and evaluating mineral resource properties in Canada. It holds 100% interest in the Maybrun property, a gold-copper project located in southeast of Kenora, Ontario. The company was formerly known as King's Bay Resources Corp. and changed its name to Lion Rock Resources Inc. in July 2022. Lion Rock Resources Inc. was incorporated in 1998 and is headquartered in Vancouver, Canada.",
+        "Address": "789 West Pender Street, Vancouver, BC, Canada, V6C 1H2",
+        "AddressData": {
+            "Street": "789 West Pender Street",
+            "City": "Vancouver",
+            "State": "BC",
+            "Country": "Canada",
+            "ZIP": "V6C 1H2"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Kevin James Bottomley",
+                "Title": "Pres, CEO & Director",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Patrick Joseph Meagher C.A., CPA, CA, CPA",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1986"
+            },
+            "2": {
+                "Name": "Ms. Frances  Petryshen Acc.Dir., FCIS",
+                "Title": "Corp. Sec.",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": "https://www.kingsbayres.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 4538992,
+        "MarketCapitalizationMln": 4.539,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.047,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.04,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.1855,
+        "ReturnOnEquityTTM": -1.1996,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.04,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 3.1048,
+        "EnterpriseValue": 2975138,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": -4.7391
+    },
+    "SharesStats": {
+        "SharesOutstanding": 28368700,
+        "SharesFloat": 17465267,
+        "PercentInsiders": 3.3099999999999996,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.0559,
+        "52WeekHigh": 0.23,
+        "52WeekLow": 0.05,
+        "50DayMA": 0.1318,
+        "200DayMA": 0.143,
+        "SharesShort": 394,
+        "SharesShortPriorMonth": 88,
+        "ShortRatio": 0.02,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "2021-01-22",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "4:10",
+        "LastSplitDate": "2023-03-06",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

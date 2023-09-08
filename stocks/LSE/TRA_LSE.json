@@ -1,0 +1,151 @@
+{
+    "General": {
+        "Code": "TRA",
+        "Type": "Common Stock",
+        "Name": "Tertre Rouge Assets PLC",
+        "Exchange": "LSE",
+        "CurrencyCode": "GBX",
+        "CurrencyName": "Pence sterling",
+        "CurrencySymbol": "p",
+        "CountryName": "UK",
+        "CountryISO": "GB",
+        "OpenFigi": null,
+        "ExchangeMarket": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Shell Companies",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "Description": "Tertre Rouge Assets PLC is a blank check company. It intends to acquire a business in the automobile sector. The company was formerly known as Tertre Rouge Assets Limited and changed its name to Tertre Rouge Assets PLC in Janurary 2022. Tertre Rouge Assets PLC was incorporated in 2020 and is based in London, the United Kingdom.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 3315000,
+        "MarketCapitalizationMln": 3.315,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.12,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.12,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 5100000,
+        "SharesFloat": 0,
+        "PercentInsiders": 65.098,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 65,
+        "52WeekLow": 60,
+        "50DayMA": 0.65,
+        "200DayMA": 0.65,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-12-31": {
+                "reportDate": "2023-02-15",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.05,
+                "epsEstimate": 0,
+                "epsDifference": -0.05,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": -0.05
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

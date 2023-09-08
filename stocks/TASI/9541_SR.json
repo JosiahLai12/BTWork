@@ -1,0 +1,174 @@
+{
+    "General": {
+        "Code": "9541",
+        "Type": "Common Stock",
+        "Name": "Academy Of Learning Company",
+        "Exchange": "SR",
+        "CurrencyCode": "SAR",
+        "CurrencyName": "Saudi riyal",
+        "CurrencySymbol": "SR",
+        "CountryName": "Saudi Arabia",
+        "CountryISO": "SA",
+        "OpenFigi": null,
+        "ISIN": "SA15J0K4L2H7",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Defensive",
+        "Industry": "Education & Training Services",
+        "GicSector": "Consumer Discretionary",
+        "GicGroup": "Consumer Services",
+        "GicIndustry": "Diversified Consumer Services",
+        "GicSubIndustry": "Education Services",
+        "Description": "Academy Of Learning Company operates education and training institutes in the Kingdom of Saudi Arabia. The company provides higher, administrative, and management training, as well as languages and skills institutes. It operates twelve education and training institutes, and six centers in Dammam, Khobar, Al-Ahsa, Jubail, and Qatif. The company also offers educational training courses and diploma programs for insurance principles, social field and self-development, administrative, and financial field, photography, travel and tourism, teaching languages and conversational skill, human resource management, public relation, and media business, as well as administration, administrative technology, marketing specialization, and computer fields. In addition, it engages in the wholesale business of computers and accessories, including printers and inks. The company was founded in 2004 and is headquartered in Dammam, the Kingdom of Saudi Arabia.",
+        "Address": "Gulf Street, Dammam, Saudi Arabia, 31471",
+        "AddressData": {
+            "Street": "Gulf Street",
+            "City": "Dammam",
+            "Country": "Saudi Arabia",
+            "ZIP": "31471"
+        },
+        "Listings": {},
+        "Officers": {},
+        "Phone": "966 13 809 1169",
+        "WebURL": "https://www.aol.edu.sa",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-03"
+    },
+    "Highlights": {
+        "MarketCapitalization": 550200000,
+        "MarketCapitalizationMln": 550.2,
+        "EBITDA": null,
+        "PERatio": 19.5106,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": 0,
+        "DividendYield": 0.0383,
+        "EarningsShare": 0.47,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0.47,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 19.5106,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 60000000,
+        "SharesFloat": 0,
+        "PercentInsiders": 46.827999999999996,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 2656.6697,
+        "52WeekLow": 2.4035,
+        "50DayMA": 7.8626,
+        "200DayMA": 6.1676,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.35,
+        "ForwardAnnualDividendYield": 0.0383,
+        "PayoutRatio": 0.7663,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-09-17",
+        "LastSplitFactor": "10:1",
+        "LastSplitDate": "2023-06-15",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-06-30": {
+                "reportDate": "2022-08-18",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 1.23,
+                "epsEstimate": 0,
+                "epsDifference": 1.23,
+                "surprisePercent": null
+            },
+            "2022-03-31": {
+                "reportDate": "2022-05-31",
+                "date": "2022-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 1.47,
+                "epsEstimate": 0,
+                "epsDifference": 1.47,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2022-06-30": {
+                "date": "2022-06-30",
+                "epsActual": 2.7
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

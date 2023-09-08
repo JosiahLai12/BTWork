@@ -1,0 +1,170 @@
+{
+    "General": {
+        "Code": "DDX",
+        "Type": "Common Stock",
+        "Name": "WESANA HEALTH HOLD. INC.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA95081C1059",
+        "LEI": null,
+        "PrimaryTicker": "WSNAF.US",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Healthcare",
+        "Industry": "Biotechnology",
+        "GicSector": "Health Care",
+        "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "GicIndustry": "Biotechnology",
+        "GicSubIndustry": "Biotechnology",
+        "Description": "Wesana Health Holdings Inc. does not have significant operations. Previously, it was developing evidence-based formulations and protocols that empower patients to overcome neurological, psychological, and mental health ailments caused by trauma. The company is headquartered in Chicago, Illinois.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 783659,
+        "MarketCapitalizationMln": 0.7837,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.016,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.09,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-03-31",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.2127,
+        "ReturnOnEquityTTM": -0.5616,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.09,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 198543,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 20920300,
+        "SharesFloat": 17811087,
+        "PercentInsiders": 1.629,
+        "PercentInstitutions": 13.776,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.8871,
+        "52WeekHigh": 0.128,
+        "52WeekLow": 0.0085,
+        "50DayMA": 0.0259,
+        "200DayMA": 0.0326,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-09-30": {
+                "reportDate": "2022-11-30",
+                "date": "2022-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.01,
+                "epsEstimate": -0.07,
+                "epsDifference": 0.08,
+                "surprisePercent": 114.2857
+            },
+            "2022-06-30": {
+                "reportDate": "2022-08-28",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.07,
+                "epsEstimate": -0.1,
+                "epsDifference": 0.03,
+                "surprisePercent": 30
+            },
+            "2022-03-31": {
+                "reportDate": "2022-05-01",
+                "date": "2022-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.15,
+                "epsEstimate": -0.12,
+                "epsDifference": -0.03,
+                "surprisePercent": -25
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2022-09-30": {
+                "date": "2022-09-30",
+                "epsActual": -0.21
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

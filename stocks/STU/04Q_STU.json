@@ -1,0 +1,268 @@
+{
+    "General": {
+        "Code": "04Q",
+        "Type": "Common Stock",
+        "Name": "Nordea Bank Abp",
+        "Exchange": "STU",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "FI4000297767",
+        "LEI": null,
+        "PrimaryTicker": "NDA-FI.HE",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": null,
+        "Industry": null,
+        "GicSector": null,
+        "GicGroup": null,
+        "GicIndustry": null,
+        "GicSubIndustry": null,
+        "Description": null,
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": null,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 31098615808,
+        "MarketCapitalizationMln": 31098.6158,
+        "EBITDA": null,
+        "PERatio": 18.4071,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 13.15,
+        "BookValue": null,
+        "DividendShare": 0.69,
+        "DividendYield": 0.0681,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 8770000000,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 18.4071,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 12.14,
+        "52WeekLow": 8.493,
+        "50DayMA": 6.663,
+        "200DayMA": 6.663,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2019,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2018-09-30": {
+                "reportDate": "2018-09-30",
+                "date": "2018-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.17,
+                "epsEstimate": 0.18,
+                "epsDifference": -0.01,
+                "surprisePercent": -5.5556
+            },
+            "2018-06-30": {
+                "reportDate": "2018-06-30",
+                "date": "2018-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.27,
+                "epsEstimate": 0.24,
+                "epsDifference": 0.03,
+                "surprisePercent": 12.5
+            },
+            "2018-03-31": {
+                "reportDate": "2018-03-31",
+                "date": "2018-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2,
+                "epsEstimate": 0.19,
+                "epsDifference": 0.01,
+                "surprisePercent": 5.2632
+            },
+            "2017-12-31": {
+                "reportDate": "2017-12-31",
+                "date": "2017-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.15,
+                "epsEstimate": 0.19,
+                "epsDifference": -0.04,
+                "surprisePercent": -21.0526
+            }
+        },
+        "Trend": {
+            "2019-12-31": {
+                "date": "2019-12-31",
+                "period": "+1y",
+                "growth": null,
+                "earningsEstimateAvg": "0.0000",
+                "earningsEstimateLow": "0.0000",
+                "earningsEstimateHigh": "0.0000",
+                "earningsEstimateYearAgoEps": null,
+                "earningsEstimateNumberOfAnalysts": "0.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "9096080000.00",
+                "revenueEstimateLow": "8643000000.00",
+                "revenueEstimateHigh": "9731000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "12.00",
+                "revenueEstimateGrowth": "-0.0040",
+                "epsTrendCurrent": "0.0000",
+                "epsTrend7daysAgo": "0.7700",
+                "epsTrend30daysAgo": "0.7700",
+                "epsTrend60daysAgo": "0.7700",
+                "epsTrend90daysAgo": "0.7700",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": "0.0000",
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2019-03-31": {
+                "date": "2019-03-31",
+                "period": "+1q",
+                "growth": null,
+                "earningsEstimateAvg": "0.0000",
+                "earningsEstimateLow": "0.0000",
+                "earningsEstimateHigh": "0.0000",
+                "earningsEstimateYearAgoEps": "0.2000",
+                "earningsEstimateNumberOfAnalysts": "0.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "2294000000.00",
+                "revenueEstimateLow": "2294000000.00",
+                "revenueEstimateHigh": "2294000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "1.00",
+                "revenueEstimateGrowth": "-0.0090",
+                "epsTrendCurrent": "0.0000",
+                "epsTrend7daysAgo": "0.2000",
+                "epsTrend30daysAgo": "0.2000",
+                "epsTrend60daysAgo": "0.2000",
+                "epsTrend90daysAgo": "0.2000",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": "0.0000",
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2018-12-31": {
+                "date": "2018-12-31",
+                "period": "0y",
+                "growth": null,
+                "earningsEstimateAvg": "0.0000",
+                "earningsEstimateLow": "0.0000",
+                "earningsEstimateHigh": "0.0000",
+                "earningsEstimateYearAgoEps": null,
+                "earningsEstimateNumberOfAnalysts": "0.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "9128600000.00",
+                "revenueEstimateLow": "9040000000.00",
+                "revenueEstimateHigh": "9198000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "10.00",
+                "revenueEstimateGrowth": "-0.0360",
+                "epsTrendCurrent": "0.0000",
+                "epsTrend7daysAgo": "0.7900",
+                "epsTrend30daysAgo": "0.7900",
+                "epsTrend60daysAgo": "0.7900",
+                "epsTrend90daysAgo": "0.7900",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "1.0000",
+                "epsRevisionsDownLast7days": "2.0000",
+                "epsRevisionsDownLast30days": "2.0000"
+            }
+        },
+        "Annual": {
+            "2018-09-30": {
+                "date": "2018-09-30",
+                "epsActual": 0.64
+            },
+            "2017-12-31": {
+                "date": "2017-12-31",
+                "epsActual": 0.15
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

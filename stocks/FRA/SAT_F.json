@@ -1,0 +1,276 @@
+{
+    "General": {
+        "Code": "SAT",
+        "Type": "Common Stock",
+        "Name": "SAGA PURE ASA NK 1",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "NO0010572589",
+        "LEI": null,
+        "PrimaryTicker": "SAGA.OL",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Chemicals",
+        "GicSubIndustry": "Specialty Chemicals",
+        "Description": "Saga Pure ASA, an investment company, focusing on opportunities within renewable energy sector. It focuses on investment and management related to industry, energy, real estate, and other businesses. The company was formerly known as Saga Tankers ASA and changed its name to Saga Pure ASA in November 2020. The company was incorporated in 2010 and is headquartered in Oslo, Norway.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 5,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 65565012,
+        "MarketCapitalizationMln": 65.565,
+        "EBITDA": -36881000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1.902,
+        "DividendShare": 0.1,
+        "DividendYield": 0.2104,
+        "EarningsShare": -0.03,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 1.5273,
+        "ReturnOnAssetsTTM": -0.0543,
+        "ReturnOnEquityTTM": -0.2786,
+        "RevenueTTM": -62161000,
+        "RevenuePerShareTTM": -0.129,
+        "QuarterlyRevenueGrowthYOY": -0.994,
+        "GrossProfitTTM": 1819000,
+        "DilutedEpsTTM": -0.03,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -760619584,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 479878016,
+        "SharesFloat": 204812594,
+        "PercentInsiders": 58.177,
+        "PercentInstitutions": 0.486,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.5295,
+        "52WeekHigh": 0.2189,
+        "52WeekLow": 0.0902,
+        "50DayMA": 0.0994,
+        "200DayMA": 0.121,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.02,
+        "ForwardAnnualDividendYield": 0.2104,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": "2022-09-06",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2020,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "2": {
+                "Year": 2022,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2011-09-30": {
+                "reportDate": "2011-09-30",
+                "date": "2011-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.04,
+                "epsEstimate": -0.02,
+                "epsDifference": -0.02,
+                "surprisePercent": -100
+            },
+            "2011-06-30": {
+                "reportDate": "2011-06-30",
+                "date": "2011-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.01,
+                "epsEstimate": 0,
+                "epsDifference": -0.01,
+                "surprisePercent": null
+            },
+            "2011-03-31": {
+                "reportDate": "2011-03-31",
+                "date": "2011-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0,
+                "epsEstimate": 0,
+                "epsDifference": 0,
+                "surprisePercent": null
+            },
+            "2010-12-31": {
+                "reportDate": "2010-12-31",
+                "date": "2010-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.03,
+                "epsEstimate": 0.01,
+                "epsDifference": -0.04,
+                "surprisePercent": -400
+            }
+        },
+        "Trend": {
+            "2012-12-31": {
+                "date": "2012-12-31",
+                "period": "+1y",
+                "growth": null,
+                "earningsEstimateAvg": "0.0000",
+                "earningsEstimateLow": "0.0000",
+                "earningsEstimateHigh": "0.0000",
+                "earningsEstimateYearAgoEps": null,
+                "earningsEstimateNumberOfAnalysts": "0.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "25500000.00",
+                "revenueEstimateLow": "8000000.00",
+                "revenueEstimateHigh": "45000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "4.00",
+                "revenueEstimateGrowth": "-0.3010",
+                "epsTrendCurrent": "0.0000",
+                "epsTrend7daysAgo": "0.0400",
+                "epsTrend30daysAgo": "0.0400",
+                "epsTrend60daysAgo": "0.0400",
+                "epsTrend90daysAgo": "0.0400",
+                "epsRevisionsUpLast7days": "3.0000",
+                "epsRevisionsUpLast30days": "2.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2012-03-31": {
+                "date": "2012-03-31",
+                "period": "+1q",
+                "growth": null,
+                "earningsEstimateAvg": "0.0000",
+                "earningsEstimateLow": "0.0000",
+                "earningsEstimateHigh": "0.0000",
+                "earningsEstimateYearAgoEps": "0.0000",
+                "earningsEstimateNumberOfAnalysts": "0.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "9000000.00",
+                "revenueEstimateLow": "9000000.00",
+                "revenueEstimateHigh": "9000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "1.00",
+                "revenueEstimateGrowth": "-0.1110",
+                "epsTrendCurrent": "0.0000",
+                "epsTrend7daysAgo": "0.0000",
+                "epsTrend30daysAgo": "0.0000",
+                "epsTrend60daysAgo": "0.0000",
+                "epsTrend90daysAgo": "0.0000",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2011-12-31": {
+                "date": "2011-12-31",
+                "period": "0y",
+                "growth": null,
+                "earningsEstimateAvg": "0.0000",
+                "earningsEstimateLow": "0.0000",
+                "earningsEstimateHigh": "0.0000",
+                "earningsEstimateYearAgoEps": null,
+                "earningsEstimateNumberOfAnalysts": "0.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "36500000.00",
+                "revenueEstimateLow": "29000000.00",
+                "revenueEstimateHigh": "44000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "4.00",
+                "revenueEstimateGrowth": "0.7720",
+                "epsTrendCurrent": "0.0000",
+                "epsTrend7daysAgo": "0.0000",
+                "epsTrend30daysAgo": "0.0000",
+                "epsTrend60daysAgo": "0.0000",
+                "epsTrend90daysAgo": "0.0000",
+                "epsRevisionsUpLast7days": "3.0000",
+                "epsRevisionsUpLast30days": "2.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            }
+        },
+        "Annual": {
+            "2011-09-30": {
+                "date": "2011-09-30",
+                "epsActual": -0.05
+            },
+            "2010-12-31": {
+                "date": "2010-12-31",
+                "epsActual": -0.03
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

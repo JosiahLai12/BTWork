@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "ACE",
+        "Type": "Common Stock",
+        "Name": "Acusensus Ltd",
+        "Exchange": "AU",
+        "CurrencyCode": "AUD",
+        "CurrencyName": "Australian Dollar",
+        "CurrencySymbol": "A$",
+        "CountryName": "Australia",
+        "CountryISO": "AU",
+        "OpenFigi": "BBG00YD0P501",
+        "ISIN": "AU0000259582",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Infrastructure",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Acusensus Limited designs, develops, and commercializes technology focuses on the detection of distracted drivers in Australia. It offers Heads Up solution used to detect and capture prosecutable evidence of illegal mobile phone use, seatbelt non-compliance, and speeding; Heads-Up Real Time solution that provides real-time alerts to police officers of drivers using a phone, speeding, and not wearing of seatbelt; and Harmony enforcement camera system for use in developed and developing countries. The company was incorporated in 2018 and is based in Melbourne, Australia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 127,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 96504730,
+        "MarketCapitalizationMln": 96.5047,
+        "EBITDA": 3858945,
+        "PERatio": 65.4966,
+        "PEGRatio": 0,
+        "WallStreetTargetPrice": 1.1,
+        "BookValue": 0.285,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0013,
+        "OperatingMarginTTM": 0.0258,
+        "ReturnOnAssetsTTM": 0.0182,
+        "ReturnOnEquityTTM": 0.0021,
+        "RevenueTTM": 42004524,
+        "RevenuePerShareTTM": 0.374,
+        "QuarterlyRevenueGrowthYOY": 0.21,
+        "GrossProfitTTM": 18439193,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": -0.885
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 73893360,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 126149975,
+        "SharesFloat": 81496668,
+        "PercentInsiders": 57.035000000000004,
+        "PercentInstitutions": 5.210999999999999,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.82,
+        "52WeekLow": 0.598,
+        "50DayMA": 0.6683,
+        "200DayMA": 0.6779,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "5:1",
+        "LastSplitDate": "2023-07-27",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-12-31": {
+                "reportDate": "2023-02-23",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.01,
+                "epsEstimate": 0,
+                "epsDifference": -0.01,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": -0.01
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

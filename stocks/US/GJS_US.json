@@ -1,0 +1,213 @@
+{
+    "General": {
+        "Code": "GJS",
+        "Type": "Common Stock",
+        "Name": "STRATSSM Certificates series supplement 2006-2 Trust IC",
+        "Exchange": "NYSE",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": null,
+        "ISIN": "US86311R3012",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CUSIP": "86311R301",
+        "CIK": "1356284",
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": "2006-04-28",
+        "InternationalDomestic": null,
+        "Sector": "Financials",
+        "Industry": "Investment Banking & Investment Services",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "HomeCategory": null,
+        "IsDelisted": false,
+        "Description": "No Description Available",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-07-07"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": 0,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": null,
+        "DividendYield": 0.0391,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 22.4981,
+        "52WeekLow": 19.6967,
+        "50DayMA": 22.0614,
+        "200DayMA": 21.5416,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0.0391,
+        "PayoutRatio": 0,
+        "DividendDate": "2023-08-15",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2006,
+                "Count": 8
+            },
+            "1": {
+                "Year": 2007,
+                "Count": 12
+            },
+            "2": {
+                "Year": 2008,
+                "Count": 12
+            },
+            "3": {
+                "Year": 2009,
+                "Count": 12
+            },
+            "4": {
+                "Year": 2010,
+                "Count": 12
+            },
+            "5": {
+                "Year": 2011,
+                "Count": 12
+            },
+            "6": {
+                "Year": 2012,
+                "Count": 12
+            },
+            "7": {
+                "Year": 2013,
+                "Count": 12
+            },
+            "8": {
+                "Year": 2014,
+                "Count": 12
+            },
+            "9": {
+                "Year": 2015,
+                "Count": 12
+            },
+            "10": {
+                "Year": 2016,
+                "Count": 12
+            },
+            "11": {
+                "Year": 2017,
+                "Count": 12
+            },
+            "12": {
+                "Year": 2018,
+                "Count": 12
+            },
+            "13": {
+                "Year": 2019,
+                "Count": 12
+            },
+            "14": {
+                "Year": 2020,
+                "Count": 11
+            },
+            "15": {
+                "Year": 2021,
+                "Count": 12
+            },
+            "16": {
+                "Year": 2022,
+                "Count": 12
+            },
+            "17": {
+                "Year": 2023,
+                "Count": 8
+            }
+        }
+    },
+    "Holders": {
+        "Institutions": {},
+        "Funds": {}
+    },
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

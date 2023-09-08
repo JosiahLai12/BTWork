@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "VHM",
+        "Type": "Common Stock",
+        "Name": "VHM Ltd.",
+        "Exchange": "AU",
+        "CurrencyCode": "AUD",
+        "CurrencyName": "Australian Dollar",
+        "CurrencySymbol": "A$",
+        "CountryName": "Australia",
+        "CountryISO": "AU",
+        "OpenFigi": "BBG01BPK4HQ2",
+        "ISIN": "AU0000253189",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Other Industrial Metals & Mining",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Diversified Metals & Mining",
+        "Description": "VHM Limited engages in the exploration and development of mineral properties in Australia. The company's flagship project is the Goschen rare earth mineral and mineral sands project covering 2,860 km2 located in Victoria, Australia. It also operates the Australian Rare Earth Mineral Refinery, which is involved in the downstream processing of mixed rare earth carbonate to produce minerals, such as neodymium, praseodymium, dysprosium, and terbium. The company was formerly known as VHM Exploration Limited and changed its name to VHM Limited in November 2018. VHM Limited was incorporated in 2014 and is based in Subiaco, Australia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 76084220,
+        "MarketCapitalizationMln": 76.0842,
+        "EBITDA": -9811967,
+        "PERatio": 0,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 1.6,
+        "BookValue": 0.238,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": -246.498,
+        "ReturnOnAssetsTTM": -0.0822,
+        "ReturnOnEquityTTM": -0.4396,
+        "RevenueTTM": 40000,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 8,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 75949984,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 203101902,
+        "SharesFloat": 111121324,
+        "PercentInsiders": 49.095,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 1.245,
+        "52WeekLow": 0.425,
+        "50DayMA": 0.603,
+        "200DayMA": 0.7856,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-12-31": {
+                "reportDate": "2023-03-15",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.07,
+                "epsEstimate": 0,
+                "epsDifference": -0.07,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": -0.07
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

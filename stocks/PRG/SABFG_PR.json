@@ -1,0 +1,152 @@
+{
+    "General": {
+        "Code": "SABFG",
+        "Type": "Common Stock",
+        "Name": "SAB Finance as",
+        "Exchange": "PR",
+        "CurrencyCode": "CZK",
+        "CurrencyName": "Czech koruna",
+        "CurrencySymbol": "K\u010d",
+        "CountryName": "Czech Republic",
+        "CountryISO": "CZ",
+        "OpenFigi": null,
+        "ISIN": "CZ0009009940",
+        "LEI": null,
+        "PrimaryTicker": "SABFG.PR",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Investment Banking & Brokerage",
+        "Description": "SAB Finance a.s. provides various foreign exchange service in Czech Republic. SAB Finance a.s. was founded in 1999 and is headquartered in Zl\u00edn, Czech Republic. SAB Finance a.s. is a subsidiary of SAB Financial Group a.s.",
+        "Address": "Kv\u00edtkov\u00e1 4352, Zl\u00edn, Czech Republic, 76001",
+        "AddressData": {
+            "Street": "Kv\u00edtkov\u00e1 4352",
+            "City": "Zl\u00edn",
+            "Country": "Czech Republic",
+            "ZIP": "76001"
+        },
+        "Listings": {},
+        "Officers": {},
+        "Phone": "420 2 6722 0209",
+        "WebURL": "https://www.sab.cz",
+        "LogoURL": "",
+        "FullTimeEmployees": 64,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 2731959296,
+        "MarketCapitalizationMln": 2731.9593,
+        "EBITDA": 455959008,
+        "PERatio": 10.1251,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 603.586,
+        "DividendShare": 89.68,
+        "DividendYield": 0.0524,
+        "EarningsShare": 104.69,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0.3292,
+        "OperatingMarginTTM": 0.5356,
+        "ReturnOnAssetsTTM": 0.0306,
+        "ReturnOnEquityTTM": 0.1759,
+        "RevenueTTM": 819406976,
+        "RevenuePerShareTTM": 317.93,
+        "QuarterlyRevenueGrowthYOY": 0.229,
+        "GrossProfitTTM": 785767000,
+        "DilutedEpsTTM": 104.69,
+        "QuarterlyEarningsGrowthYOY": -0.266
+    },
+    "Valuation": {
+        "TrailingPE": 10.1251,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 9.835,
+        "PriceBookMRQ": 1.7736,
+        "EnterpriseValue": 2271109120,
+        "EnterpriseValueRevenue": 346.2999,
+        "EnterpriseValueEbitda": 10.55
+    },
+    "SharesStats": {
+        "SharesOutstanding": 2577320,
+        "SharesFloat": 0,
+        "PercentInsiders": 86.48,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.0066,
+        "52WeekHigh": 1080,
+        "52WeekLow": 962.9485,
+        "50DayMA": 1046.2,
+        "200DayMA": 1043.75,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 55,
+        "ForwardAnnualDividendYield": 0.0524,
+        "PayoutRatio": 0.7767,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-05-02",
+        "LastSplitFactor": "10:1",
+        "LastSplitDate": "2021-10-01",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

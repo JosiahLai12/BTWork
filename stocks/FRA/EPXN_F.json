@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "EPXN",
+        "Type": "Common Stock",
+        "Name": "AIRIQ INC.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA0091204036",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Application",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "AirIQ Inc. provides wireless asset management and location services in Canada. The company also develops and operates telematics asset management system by digitized mapping, wireless communications, internet, and the global positioning system. Its web-based platform provides fleet operators and vehicle owners with a suite of asset management solutions to monitor, manage, and protect their assets. In addition, the company offers its services through online or a mobile app, including instant vehicle locating, boundary notification, automated inventory reports, maintenance reminders, security alerts, and vehicle disabling and unauthorized movement alerts. AirIQ Inc. was incorporated in 1997 and is headquartered in Pickering, Canada.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 7635575,
+        "MarketCapitalizationMln": 7.6356,
+        "EBITDA": 1076000,
+        "PERatio": 2.8889,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.25,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.09,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.6788,
+        "OperatingMarginTTM": 0.149,
+        "ReturnOnAssetsTTM": 0.0731,
+        "ReturnOnEquityTTM": 0.7053,
+        "RevenueTTM": 5572000,
+        "RevenuePerShareTTM": 0.19,
+        "QuarterlyRevenueGrowthYOY": 0.425,
+        "GrossProfitTTM": 3009000,
+        "DilutedEpsTTM": 0.09,
+        "QuarterlyEarningsGrowthYOY": 0.158
+    },
+    "Valuation": {
+        "TrailingPE": 2.8889,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 3995277,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 29367600,
+        "SharesFloat": 18299229,
+        "PercentInsiders": 33.276,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.6156,
+        "52WeekHigh": 0.272,
+        "52WeekLow": 0.165,
+        "50DayMA": 0.2166,
+        "200DayMA": 0.19,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2024-06-30": {
+                "reportDate": "2024-07-11",
+                "date": "2024-06-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-12-31": {
+                "reportDate": "2024-02-14",
+                "date": "2023-12-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-09-30": {
+                "reportDate": "2023-11-15",
+                "date": "2023-09-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

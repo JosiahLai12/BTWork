@@ -1,0 +1,147 @@
+{
+    "General": {
+        "Code": "2PT",
+        "Type": "Common Stock",
+        "Name": "NORTH PACIFIC BANK LTD",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "JP3843400007",
+        "LEI": "549300A1ZLTL4KX3DZ92",
+        "PrimaryTicker": "8524.TSE",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Banks-Regional",
+        "GicSector": "Financials",
+        "GicGroup": "Banks",
+        "GicIndustry": "Banks",
+        "GicSubIndustry": "Regional Banks",
+        "Description": "North Pacific Bank,Ltd. provides various banking products and services for individuals and corporations in Japan. It offers deposits and negotiable certificates of deposit, as well as loans, including housing, car, education, renovation, and card loan. The company also provides insurance, ATM, foreign exchange, investment trust, consultation, and trust business seervices. The company was formerly known as Hokuyo Sogo Bank, Ltd. and changed its name to North Pacific Bank,Ltd. in 1989. North Pacific Bank,Ltd. was incorporated in 1917 and is headquartered in Sapporo, Japan.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 2867,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 734834816,
+        "MarketCapitalizationMln": 734.8348,
+        "EBITDA": null,
+        "PERatio": 15.4167,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1080.336,
+        "DividendShare": 10,
+        "DividendYield": 0.0376,
+        "EarningsShare": 0.12,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0639,
+        "OperatingMarginTTM": 0.1253,
+        "ReturnOnAssetsTTM": 0.0006,
+        "ReturnOnEquityTTM": 0.0186,
+        "RevenueTTM": 119549001728,
+        "RevenuePerShareTTM": 310.389,
+        "QuarterlyRevenueGrowthYOY": 0.019,
+        "GrossProfitTTM": 117145000000,
+        "DilutedEpsTTM": 0.12,
+        "QuarterlyEarningsGrowthYOY": -0.382
+    },
+    "Valuation": {
+        "TrailingPE": 15.4167,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -1670583549952,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 385152992,
+        "SharesFloat": 296579638,
+        "PercentInsiders": 11.942,
+        "PercentInstitutions": 39.728,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.4833,
+        "52WeekHigh": 2.26,
+        "52WeekLow": -3.07,
+        "50DayMA": 1.7902,
+        "200DayMA": 1.8191,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.07,
+        "ForwardAnnualDividendYield": 0.0376,
+        "PayoutRatio": 0.5038,
+        "DividendDate": null,
+        "ExDividendDate": "2023-09-28",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

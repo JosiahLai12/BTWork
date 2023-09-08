@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "HWIO",
+        "Type": "Common Stock",
+        "Name": "HARDWARIO as",
+        "Exchange": "PR",
+        "CurrencyCode": "CZK",
+        "CurrencyName": "Czech koruna",
+        "CurrencySymbol": "K\u010d",
+        "CountryName": "Czech Republic",
+        "CountryISO": "CZ",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "IT Services",
+        "GicSubIndustry": "IT Consulting & Other Services",
+        "Description": "Hardwario A.S. provides configurable Internet-of-Things (IoT) devices, connectivity, and cloud services. It offers IoT gateways and open-source IoT kits, as well as cloud services for device management and data handling for the manufacturing, facility management, construction, agriculture, forestry, energy, security, health care, and mining industries. The company is based in Liberec, the Czech Republic.",
+        "Address": "U Jezu 525/4, Liberec, Czech Republic, 460 01",
+        "AddressData": {
+            "Street": "U Jezu 525/4",
+            "City": "Liberec",
+            "Country": "Czech Republic",
+            "ZIP": "460 01"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Alan  Fabik",
+                "Title": "CEO & Chairman",
+                "YearBorn": "1972"
+            },
+            "1": {
+                "Name": "Tomas  Morava",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1979"
+            },
+            "2": {
+                "Name": "Pavel  Hubner",
+                "Title": "CTO & Director",
+                "YearBorn": "1986"
+            },
+            "3": {
+                "Name": "Michal  Bures",
+                "Title": "Chief Scientific Officer",
+                "YearBorn": "1985"
+            },
+            "4": {
+                "Name": "Lukas  Fabik",
+                "Title": "CMO & Director",
+                "YearBorn": "1989"
+            }
+        },
+        "Phone": null,
+        "WebURL": "https://www.hardwario.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 3,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 200886000,
+        "MarketCapitalizationMln": 200.886,
+        "EBITDA": 6250000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 4.871,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2021-12-31",
+        "ProfitMargin": 0.0509,
+        "OperatingMarginTTM": 0.0822,
+        "ReturnOnAssetsTTM": 0.0239,
+        "ReturnOnEquityTTM": 0.0383,
+        "RevenueTTM": 30764000,
+        "RevenuePerShareTTM": 2.144,
+        "QuarterlyRevenueGrowthYOY": 0.497,
+        "GrossProfitTTM": 6657000,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 199170496,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 14349000,
+        "SharesFloat": 6048964,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 18,
+        "52WeekLow": 11,
+        "50DayMA": 12.23,
+        "200DayMA": 15.105,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "GOTL-A",
+        "Type": "Common Stock",
+        "Name": "Gotland Rederi AB Series A",
+        "Exchange": "ST",
+        "CurrencyCode": "SEK",
+        "CurrencyName": "Swedish krone",
+        "CurrencySymbol": "kr",
+        "CountryName": "Sweden",
+        "CountryISO": "SE",
+        "OpenFigi": null,
+        "ISIN": "SE0000105371",
+        "LEI": "549300A64U24QVHYJ135",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Marine Shipping",
+        "GicSector": "Industrials",
+        "GicGroup": "Transportation",
+        "GicIndustry": "Marine Transportation",
+        "GicSubIndustry": "Marine Transportation",
+        "Description": "Rederiaktiebolaget Gotland (publ), together with its subsidiaries, operates as a passenger and freight shipping company in Sweden. The company primarily owns and operates a fleet of ships that transports passengers; and cargo, including refined petroleum products, vegetable oils and chemicals, and other liquid products, such as methanol. It also owns, manages, and operates hotels and properties comprising Scandic Visby, Visby Gustavsvik, and Strandvillan located in Visby. Rederiaktiebolaget Gotland (publ)was founded in 1865 and is headquartered in Visby, Sweden.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 773,
+        "UpdatedAt": "2023-09-04"
+    },
+    "Highlights": {
+        "MarketCapitalization": 4846452224,
+        "MarketCapitalizationMln": 4846.4522,
+        "EBITDA": 322174016,
+        "PERatio": 7.1238,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 2020.2,
+        "DividendShare": 8.2,
+        "DividendYield": 0.0044,
+        "EarningsShare": 273.73,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2642,
+        "OperatingMarginTTM": -0.0133,
+        "ReturnOnAssetsTTM": -0.0145,
+        "ReturnOnEquityTTM": 0.06,
+        "RevenueTTM": 2590914048,
+        "RevenuePerShareTTM": 1036.91,
+        "QuarterlyRevenueGrowthYOY": -0.258,
+        "GrossProfitTTM": 2911100000,
+        "DilutedEpsTTM": 273.73,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 7.1238,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 1125600000,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1811690,
+        "SharesFloat": 418225,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.1283,
+        "52WeekHigh": 2488.9785,
+        "52WeekLow": 1792.0645,
+        "50DayMA": 1947,
+        "200DayMA": 2008.758,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 8.2,
+        "ForwardAnnualDividendYield": 0.0044,
+        "PayoutRatio": 0.0801,
+        "DividendDate": null,
+        "ExDividendDate": "2023-06-02",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 130.4,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -28,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 102.4
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

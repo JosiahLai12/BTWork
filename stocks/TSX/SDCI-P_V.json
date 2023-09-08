@@ -1,0 +1,151 @@
+{
+    "General": {
+        "Code": "SDCI-P",
+        "Type": "Common Stock",
+        "Name": "St. Davids Capital Inc.",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "August",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Shell Companies",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "Description": "St. Davids Capital Inc. does not have significant operations. It intends to identify and evaluate assets or businesses with a view to complete a qualifying transaction. The company was incorporated in 2021 and is headquartered in Toronto, Canada.",
+        "Address": "TD Centre North Tower, Toronto, ON, Canada, M5K 1G8",
+        "AddressData": {
+            "Street": "TD Centre North Tower",
+            "City": "Toronto",
+            "State": "ON",
+            "Country": "Canada",
+            "ZIP": "M5K 1G8"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Rocco A. Racioppo",
+                "Title": "Director, Chief Exec. Officer, Pres & Corp. Sec.",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Philip M. Hampson C.A.",
+                "Title": "Director and Chief Financial Officer",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 330103,
+        "MarketCapitalizationMln": 0.3301,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.043,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.01,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-05-31",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.0708,
+        "ReturnOnEquityTTM": -0.1799,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.01,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 56477,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 5078500,
+        "SharesFloat": 0,
+        "PercentInsiders": 55.13400000000001,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.21,
+        "52WeekLow": 0.055,
+        "50DayMA": 0.0883,
+        "200DayMA": 0.0757,
+        "SharesShort": 142,
+        "SharesShortPriorMonth": 250,
+        "ShortRatio": 0.04,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

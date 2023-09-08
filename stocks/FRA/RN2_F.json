@@ -1,0 +1,147 @@
+{
+    "General": {
+        "Code": "RN2",
+        "Type": "Common Stock",
+        "Name": "NORTH ENERGY ASA NK 1",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "NO0010550056",
+        "LEI": null,
+        "PrimaryTicker": "NORTH.OL",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "Description": "North Energy ASA, an industrial investment company, owns, manages, and provides financing for activities within the energy and other industries in Norway. The company was founded in 2007 and is headquartered in Oslo, Norway.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 3,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 23593092,
+        "MarketCapitalizationMln": 23.5931,
+        "EBITDA": -18970000,
+        "PERatio": 9.15,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 2.929,
+        "DividendShare": 0.1,
+        "DividendYield": 0.0482,
+        "EarningsShare": 0.02,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 757.6451,
+        "OperatingMarginTTM": -588.4516,
+        "ReturnOnAssetsTTM": -0.0324,
+        "ReturnOnEquityTTM": 0.0696,
+        "RevenueTTM": 31000,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": -1,
+        "GrossProfitTTM": 113000,
+        "DilutedEpsTTM": 0.02,
+        "QuarterlyEarningsGrowthYOY": 0.65
+    },
+    "Valuation": {
+        "TrailingPE": 9.15,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -116510584,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 117252000,
+        "SharesFloat": 42020626,
+        "PercentInsiders": 63.108,
+        "PercentInstitutions": 0.015,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.9133,
+        "52WeekHigh": 0.2455,
+        "52WeekLow": 0.1475,
+        "50DayMA": 0.1715,
+        "200DayMA": 0.1762,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.01,
+        "ForwardAnnualDividendYield": 0.0482,
+        "PayoutRatio": 0.5263,
+        "DividendDate": null,
+        "ExDividendDate": "2023-06-02",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2019,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "2": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

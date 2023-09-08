@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "688432",
+        "Type": "Common Stock",
+        "Name": "GRINM Semiconductor Materials Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "GicSector": "Information Technology",
+        "GicGroup": "Semiconductors & Semiconductor Equipment",
+        "GicIndustry": "Semiconductors & Semiconductor Equipment",
+        "GicSubIndustry": "Semiconductor Materials & Equipment",
+        "Description": "GRINM Semiconductor Materials Co., Ltd. engages in the research, development, production, and operation of silicon and other semiconductor materials and equipment in China. The company offers large-diameter silicon single crystals and products, such as silicon rods, rings, and slices; zone-melted silicon single crystals; and heavily doped, lightly doped, and zone fused wafers, as well as corrosion sheets. It also provides related technology development, technology transfer and technical consulting services. In addition, the company exports its products to the United States, Japan, South Korea, Taiwan, and other regions. GRINM Semiconductor Materials Co., Ltd. was founded in 2001 and is based in Beijing, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 748,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 18152869888,
+        "MarketCapitalizationMln": 18152.8699,
+        "EBITDA": 334438368,
+        "PERatio": 50.1724,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 17,
+        "BookValue": 3.31,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.29,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3025,
+        "OperatingMarginTTM": 0.232,
+        "ReturnOnAssetsTTM": 0.0497,
+        "ReturnOnEquityTTM": 0.13,
+        "RevenueTTM": 1090717824,
+        "RevenuePerShareTTM": 0.923,
+        "QuarterlyRevenueGrowthYOY": -0.184,
+        "GrossProfitTTM": 1175319300,
+        "DilutedEpsTTM": 0.29,
+        "QuarterlyEarningsGrowthYOY": -0.342
+    },
+    "Valuation": {
+        "TrailingPE": 50.1724,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 14.3324,
+        "PriceBookMRQ": 8.7465,
+        "EnterpriseValue": 15889156096,
+        "EnterpriseValueRevenue": 15.3284,
+        "EnterpriseValueEbitda": 42.5249
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1247619968,
+        "SharesFloat": 231358849,
+        "PercentInsiders": 80.753,
+        "PercentInstitutions": 5.462,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 22.35,
+        "52WeekLow": 12.94,
+        "50DayMA": 14.7796,
+        "200DayMA": 15.7363,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-09",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.0675,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0619,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.1294
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

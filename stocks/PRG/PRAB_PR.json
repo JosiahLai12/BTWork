@@ -1,0 +1,159 @@
+{
+    "General": {
+        "Code": "PRAB",
+        "Type": "Common Stock",
+        "Name": "Prabos Plus a.s.",
+        "Exchange": "PR",
+        "CurrencyCode": "CZK",
+        "CurrencyName": "Czech koruna",
+        "CurrencySymbol": "K\u010d",
+        "CountryName": "Czech Republic",
+        "CountryISO": "CZ",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Cyclical",
+        "Industry": "Footwear & Accessories",
+        "GicSector": "Consumer Discretionary",
+        "GicGroup": "Consumer Durables & Apparel",
+        "GicIndustry": "Textiles, Apparel & Luxury Goods",
+        "GicSubIndustry": "Footwear",
+        "Description": "Prabos plus a.s. manufactures and sells footwear in the Czech Republic. It offers workwear, free time, fire and rescue, and uniform footwear. The company was founded in 1860 and is based in Slavic\u00edn, the Czech Republic.",
+        "Address": "Komensk\u00e9ho 9, Slavic\u00edn, Czech Republic, 763 21",
+        "AddressData": {
+            "Street": "Komensk\u00e9ho 9",
+            "City": "Slavic\u00edn",
+            "Country": "Czech Republic",
+            "ZIP": "763 21"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Engineer Juraj  Voz\u00e1r",
+                "Title": "Chairman of the Exec. Board",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Japis Jan Pivecka",
+                "Title": "Founder",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "420 5 7730 3283",
+        "WebURL": "https://prabos.cz",
+        "LogoURL": "",
+        "FullTimeEmployees": 217,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 242000000,
+        "MarketCapitalizationMln": 242,
+        "EBITDA": 78852000,
+        "PERatio": 4.4566,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 190.948,
+        "DividendShare": 0,
+        "DividendYield": 0.0373,
+        "EarningsShare": 54.301,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1256,
+        "OperatingMarginTTM": 0.1548,
+        "ReturnOnAssetsTTM": 0.1414,
+        "ReturnOnEquityTTM": 0.3171,
+        "RevenueTTM": 432521984,
+        "RevenuePerShareTTM": 432.522,
+        "QuarterlyRevenueGrowthYOY": 0.369,
+        "GrossProfitTTM": 175301000,
+        "DilutedEpsTTM": 54.301,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 4.4566,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0.4763,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 254022000,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1000000,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 6.2,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.0156,
+        "52WeekHigh": 398,
+        "52WeekLow": 161,
+        "50DayMA": 216.28,
+        "200DayMA": 199.35,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 14.9,
+        "ForwardAnnualDividendYield": 0.0373,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2021-06-04",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2019,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2021,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

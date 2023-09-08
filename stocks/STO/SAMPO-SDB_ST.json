@@ -1,0 +1,139 @@
+{
+    "General": {
+        "Code": "SAMPO-SDB",
+        "Type": "Common Stock",
+        "Name": "Sampo A SDB",
+        "Exchange": "ST",
+        "CurrencyCode": "SEK",
+        "CurrencyName": "Swedish krone",
+        "CurrencySymbol": "kr",
+        "CountryName": "Sweden",
+        "CountryISO": "SE",
+        "OpenFigi": null,
+        "ISIN": "SE0018768707",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Insurance-Diversified",
+        "GicSector": "Financials",
+        "GicGroup": "Insurance",
+        "GicIndustry": "Insurance",
+        "GicSubIndustry": "Multi-line Insurance",
+        "Description": "Sampo Oyj, through its subsidiaries, provides life and non-life insurance products and services in Finland, Sweden, Norway, Denmark, and the Baltic countries. It operates through If, Topdanmark, Hastings, Mandatum, and Holding segments. The company offers household, homeowner, motor, accident, travel, boat, forest, livestock, property, casualty, liability, car, van, bike, and cargo insurance. It also provides life, individual and group pension, home and content, illness, animal, electronics, change of ownership, workers' compensation, rewards, marine, aviation, and transport insurance, as well as wealth management and asset management services. The company was founded in 1909 and is based in Helsinki, Finland.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 13272,
+        "UpdatedAt": "2023-09-04"
+    },
+    "Highlights": {
+        "MarketCapitalization": 243622445056,
+        "MarketCapitalizationMln": 243622.4451,
+        "EBITDA": 2188000000,
+        "PERatio": 28.7278,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 16.449,
+        "DividendShare": 1.8,
+        "DividendYield": 0.0435,
+        "EarningsShare": 16.9,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0394,
+        "OperatingMarginTTM": 0.2358,
+        "ReturnOnAssetsTTM": 0.0271,
+        "ReturnOnEquityTTM": 0.0896,
+        "RevenueTTM": 8727000064,
+        "RevenuePerShareTTM": 16.91,
+        "QuarterlyRevenueGrowthYOY": 0.073,
+        "GrossProfitTTM": 3797000000,
+        "DilutedEpsTTM": 16.9,
+        "QuarterlyEarningsGrowthYOY": -0.641
+    },
+    "Valuation": {
+        "TrailingPE": 28.7278,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 231865958400,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 501796992,
+        "SharesFloat": 443688198,
+        "PercentInsiders": 7.471,
+        "PercentInstitutions": 7.927,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.7528,
+        "52WeekHigh": 600,
+        "52WeekLow": 436,
+        "50DayMA": 469.5,
+        "200DayMA": 504.0421,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 20.94,
+        "ForwardAnnualDividendYield": 0.0435,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-19",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

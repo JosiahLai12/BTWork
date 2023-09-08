@@ -1,0 +1,228 @@
+{
+    "General": {
+        "Code": "STHO",
+        "Type": "Common Stock",
+        "Name": "Star Holdings",
+        "Exchange": "NASDAQ",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": "BBG01C70G346",
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CUSIP": null,
+        "CIK": "1953366",
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": "2023-03-31",
+        "InternationalDomestic": null,
+        "Sector": "Real Estate",
+        "Industry": "Real Estate Services",
+        "GicSector": "Real Estate",
+        "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+        "GicIndustry": "Real Estate Management & Development",
+        "GicSubIndustry": "Real Estate Development",
+        "HomeCategory": null,
+        "IsDelisted": false,
+        "Description": "Star Holdings engages in the non-ground lease related commercial real estate businesses in the United States. Its portfolio primarily comprises interest in the Asbury Park Waterfront and Magnolia Green residential development projects; and commercial real estate properties and loans that are marketed for sale or monetized. The company is based in New York, New York.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-07-07"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": null,
+        "DividendYield": null,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": null,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": null,
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 20.79,
+        "52WeekLow": 12.92,
+        "50DayMA": 0,
+        "200DayMA": 0,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": {
+        "Institutions": {},
+        "Funds": {}
+    },
+    "InsiderTransactions": {
+        "0": {
+            "date": "2023-05-23",
+            "ownerCik": null,
+            "ownerName": "Brett Asnas",
+            "transactionDate": "2023-05-23",
+            "transactionCode": "S",
+            "transactionAmount": 8380,
+            "transactionPrice": 16.23,
+            "transactionAcquiredDisposed": "D",
+            "postTransactionAmount": null,
+            "secLink": "http://www.sec.gov/Archives/edgar/data/1913456/000141588923008678/xslF345X04/form4-05242023_120555.xml"
+        },
+        "1": {
+            "date": "2023-05-17",
+            "ownerCik": null,
+            "ownerName": "Garett Rosenblum",
+            "transactionDate": "2023-05-17",
+            "transactionCode": "S",
+            "transactionAmount": 4580,
+            "transactionPrice": 15.98,
+            "transactionAcquiredDisposed": "D",
+            "postTransactionAmount": 2397,
+            "secLink": "http://www.sec.gov/Archives/edgar/data/1847950/000141588923008226/xslF345X04/form4-05172023_100512.xml"
+        },
+        "2": {
+            "date": "2023-05-16",
+            "ownerCik": null,
+            "ownerName": "Marcos Alvarado",
+            "transactionDate": "2023-05-16",
+            "transactionCode": "S",
+            "transactionAmount": 16783,
+            "transactionPrice": 16.46,
+            "transactionAcquiredDisposed": "D",
+            "postTransactionAmount": null,
+            "secLink": "http://www.sec.gov/Archives/edgar/data/1516720/000141588923008288/xslF345X04/form4-05182023_050501.xml"
+        }
+    },
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {
+            "0": {
+                "date": "2023-Q2",
+                "dateFormatted": "2023-06-30",
+                "sharesMln": "13.0000",
+                "shares": 13000000
+            },
+            "1": {
+                "date": "2023-Q1",
+                "dateFormatted": "2023-03-31",
+                "sharesMln": "13.0000",
+                "shares": 13000000
+            },
+            "2": {
+                "date": "2022-Q2",
+                "dateFormatted": "2022-06-30",
+                "sharesMln": "13.0000",
+                "shares": 13000000
+            },
+            "3": {
+                "date": "2022-Q1",
+                "dateFormatted": "2022-03-31",
+                "sharesMln": "13.0000",
+                "shares": 13000000
+            }
+        }
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -6.7541,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -6.8104,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": -13.5645
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

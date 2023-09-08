@@ -1,0 +1,179 @@
+{
+    "General": {
+        "Code": "688498",
+        "Type": "Common Stock",
+        "Name": "Yuanjie Semiconductor Technology Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "GicSector": "Information Technology",
+        "GicGroup": "Semiconductors & Semiconductor Equipment",
+        "GicIndustry": "Semiconductors & Semiconductor Equipment",
+        "GicSubIndustry": "Semiconductors",
+        "Description": "Yuanjie Semiconductor Technology Co., Ltd. engages in the research and development, design, production, and sale of high-speed semiconductor chips in China and internationally. It offers 2.5G to 50G InP laser chips for use in fiber-to-the-home, data center and cloud computing, 5G mobile communication network, communication backbone network, industrial internet of things, etc. The company was founded in 2013 and is based in Xi'an, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 559,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 13659014144,
+        "MarketCapitalizationMln": 13659.0141,
+        "EBITDA": 72004200,
+        "PERatio": 193.9759,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 157.64,
+        "BookValue": 24.933,
+        "DividendShare": 0.464,
+        "DividendYield": 0.0038,
+        "EarningsShare": 0.83,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3191,
+        "OperatingMarginTTM": 0.1726,
+        "ReturnOnAssetsTTM": 0.0157,
+        "ReturnOnEquityTTM": 0.0508,
+        "RevenueTTM": 221421488,
+        "RevenuePerShareTTM": 3.584,
+        "QuarterlyRevenueGrowthYOY": -0.587,
+        "GrossProfitTTM": 282905300,
+        "DilutedEpsTTM": 0.83,
+        "QuarterlyEarningsGrowthYOY": -0.516
+    },
+    "Valuation": {
+        "TrailingPE": 193.9759,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 13055376384,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 84838600,
+        "SharesFloat": 66599149,
+        "PercentInsiders": 49.458999999999996,
+        "PercentInstitutions": 4.455,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 339.6,
+        "52WeekLow": 81.3762,
+        "50DayMA": 211.143,
+        "200DayMA": 159.0249,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.65,
+        "ForwardAnnualDividendYield": 0.0038,
+        "PayoutRatio": 1.2753,
+        "DividendDate": null,
+        "ExDividendDate": "2023-06-09",
+        "LastSplitFactor": "1.4:1",
+        "LastSplitDate": "2023-06-09",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-24",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-25",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.1955,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3142,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.1955
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.3142
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

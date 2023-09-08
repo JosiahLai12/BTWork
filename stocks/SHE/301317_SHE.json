@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "301317",
+        "Type": "Common Stock",
+        "Name": "Xinlei Compressor Co. Ltd. A",
+        "Exchange": "SHE",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "GicSector": "Industrials",
+        "GicGroup": "Capital Goods",
+        "GicIndustry": "Machinery",
+        "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+        "Description": "Xinlei Compressor Co., Ltd. engages in the research and development, manufacture, and sale of air compressors and blowers in China. The company offers screw air compressors, small piston air compressors, and centrifugal blowers. Its products have applications in the machinery manufacturing, petrochemical, chemical, mining and metallurgy, textiles and clothing, medical treatment, food, cement, sewage treatment, power, and other industries, as well as households. The company was founded in 2006 and is based in Taizhou, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 880,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 3660955136,
+        "MarketCapitalizationMln": 3660.9551,
+        "EBITDA": 91683040,
+        "PERatio": 35.2879,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 6.994,
+        "DividendShare": 0.3,
+        "DividendYield": 0.0131,
+        "EarningsShare": 0.66,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1093,
+        "OperatingMarginTTM": 0.0906,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 618285952,
+        "RevenuePerShareTTM": 4.567,
+        "QuarterlyRevenueGrowthYOY": -0.151,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0.66,
+        "QuarterlyEarningsGrowthYOY": -0.598
+    },
+    "Valuation": {
+        "TrailingPE": 35.2879,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 2688134400,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 157190000,
+        "SharesFloat": 44271434,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 31.28,
+        "52WeekLow": 21.4,
+        "50DayMA": 25.1064,
+        "200DayMA": 24.9125,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.3,
+        "ForwardAnnualDividendYield": 0.0131,
+        "PayoutRatio": 0.0265,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-23",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0799,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1134,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.1933
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

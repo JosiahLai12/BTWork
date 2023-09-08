@@ -1,0 +1,170 @@
+{
+    "General": {
+        "Code": "NX5",
+        "Type": "Common Stock",
+        "Name": "NEXE INNOVATIONS INC.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA65344W1077",
+        "LEI": null,
+        "PrimaryTicker": "NEXE.V",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "May",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Cyclical",
+        "Industry": "Packaging & Containers",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Containers & Packaging",
+        "GicSubIndustry": "Paper & Plastic Packaging Products & Materials",
+        "Description": "NEXE Innovations Inc. manufactures and sells plant-based single-serve coffee pods for use in single-serve coffee machines in Canada. The company was founded in 2015 and is headquartered in Surrey, Canada.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 24445146,
+        "MarketCapitalizationMln": 24.4451,
+        "EBITDA": -6455335,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.431,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.04,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-02-28",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": -100.9122,
+        "ReturnOnAssetsTTM": -0.0926,
+        "ReturnOnEquityTTM": -0.1331,
+        "RevenueTTM": 70278,
+        "RevenuePerShareTTM": 0.001,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": -204718,
+        "DilutedEpsTTM": -0.04,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 1166520,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 97293296,
+        "SharesFloat": 83139068,
+        "PercentInsiders": 14.548,
+        "PercentInstitutions": 1.233,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.9452,
+        "52WeekHigh": 0.4432,
+        "52WeekLow": 0.1561,
+        "50DayMA": 0.2633,
+        "200DayMA": 0.279,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2024-02-29": {
+                "reportDate": "2024-04-30",
+                "date": "2024-02-29",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-11-30": {
+                "reportDate": "2024-01-30",
+                "date": "2023-11-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-08-31": {
+                "reportDate": "2023-09-26",
+                "date": "2023-08-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-08-31": {
+                "date": "2023-08-31",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

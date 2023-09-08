@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "0267",
+        "Type": "Common Stock",
+        "Name": "ECA",
+        "Exchange": "KLSE",
+        "CurrencyCode": "MYR",
+        "CurrencyName": "Malaysian Ringgit",
+        "CurrencySymbol": "RM",
+        "CountryName": "Malaysia",
+        "CountryISO": "MY",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "October",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "GicSector": "Industrials",
+        "GicGroup": "Capital Goods",
+        "GicIndustry": "Machinery",
+        "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+        "Description": "ECA Integrated Solution Berhad, an investment holding company, provides integrated production systems and standalone automated equipment in Malaysia, Europe, rest of Asia, North America, and internationally. The company also provides after sales services to its customers for the provision of technical support services and spare parts. It serves multinational manufacturers of semiconductor products, electric vehicles and automotive electronic components, solar system components, 5G telecommunication equipment components, and digital display tags. The company was founded in 2016 and is based in Simpang Ampat, Malaysia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 76,
+        "UpdatedAt": "2023-09-03"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": 6453514,
+        "PERatio": 40,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 0.73,
+        "BookValue": 0.098,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.02,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-04-30",
+        "ProfitMargin": 0.2836,
+        "OperatingMarginTTM": 0.2287,
+        "ReturnOnAssetsTTM": 0.1275,
+        "ReturnOnEquityTTM": 0.3727,
+        "RevenueTTM": 27529912,
+        "RevenuePerShareTTM": 0.064,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 11730126,
+        "DilutedEpsTTM": 0.02,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 40,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 13.7678,
+        "PriceBookMRQ": 10.4178,
+        "EnterpriseValue": 454385696,
+        "EnterpriseValueRevenue": 12.9694,
+        "EnterpriseValueEbitda": 34.8237
+    },
+    "SharesStats": {
+        "SharesOutstanding": 577500032,
+        "SharesFloat": 187150498,
+        "PercentInsiders": 67.593,
+        "PercentInstitutions": 3.2239999999999998,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 1.13,
+        "52WeekLow": 0.65,
+        "50DayMA": 0.8766,
+        "200DayMA": 0.8799,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-04-30": {
+                "reportDate": "2023-04-30",
+                "date": "2023-04-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0061,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-01-31": {
+                "reportDate": "2023-01-31",
+                "date": "2023-01-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0071,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-04-30": {
+                "date": "2023-04-30",
+                "epsActual": 0.0132
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

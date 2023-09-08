@@ -1,0 +1,276 @@
+{
+    "General": {
+        "Code": "7S9",
+        "Type": "Common Stock",
+        "Name": "SALCEF GROUP S.P.A.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "IT0005388266",
+        "LEI": "815600DB65870B3F2A12",
+        "PrimaryTicker": "SCF.MI",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "GicSector": "Industrials",
+        "GicGroup": "Capital Goods",
+        "GicIndustry": "Construction & Engineering",
+        "GicSubIndustry": "Construction & Engineering",
+        "Description": "As of August 14, 2019, Spectrum ASA was acquired by TGS ASA. Spectrum ASA produces and sells multi-client seismic surveys and seismic data imaging for multi-client survey and proprietary customers in the oil and gas market. The company operates through two segments, Multi-Client and Seismic Imaging. Its multi-client library comprises approximately 3.35 million kilometers of 2D seismic data covering various oil and gas producing regions worldwide; and 200 thousand square kilometers of 3D seismic data from East Mediterranean, West Africa, North Sea, Australia, Brazil, and Gulf of Mexico. The company was founded in 1986 and is based in Oslo, Norway.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 158,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 1478650752,
+        "MarketCapitalizationMln": 1478.6508,
+        "EBITDA": 130583000,
+        "PERatio": 23.8614,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 3.217,
+        "DividendShare": 0.173,
+        "DividendYield": 0.0207,
+        "EarningsShare": 1.01,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2019-03-31",
+        "ProfitMargin": 0.2164,
+        "OperatingMarginTTM": 0.3271,
+        "ReturnOnAssetsTTM": 0.1118,
+        "ReturnOnEquityTTM": 0.2323,
+        "RevenueTTM": 168788992,
+        "RevenuePerShareTTM": 3.089,
+        "QuarterlyRevenueGrowthYOY": 1.919,
+        "GrossProfitTTM": 138526000,
+        "DilutedEpsTTM": 1.01,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 23.8614,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 1016902912,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 61228300,
+        "SharesFloat": 34222062,
+        "PercentInsiders": 10.073,
+        "PercentInstitutions": 67.292,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.4513,
+        "52WeekHigh": 24.7,
+        "52WeekLow": 12.5211,
+        "50DayMA": 23.159,
+        "200DayMA": 20.1388,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.5,
+        "ForwardAnnualDividendYield": 0.0207,
+        "PayoutRatio": 0.495,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-15",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "2": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2018-09-30": {
+                "reportDate": "2018-09-30",
+                "date": "2018-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.02,
+                "epsEstimate": 0.05,
+                "epsDifference": -0.07,
+                "surprisePercent": -140
+            },
+            "2018-06-30": {
+                "reportDate": "2018-06-30",
+                "date": "2018-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.07,
+                "epsEstimate": 0.12,
+                "epsDifference": -0.05,
+                "surprisePercent": -41.6667
+            },
+            "2018-03-31": {
+                "reportDate": "2018-03-31",
+                "date": "2018-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.13,
+                "epsEstimate": 0.05,
+                "epsDifference": -0.18,
+                "surprisePercent": -360
+            },
+            "2017-12-31": {
+                "reportDate": "2017-12-31",
+                "date": "2017-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.19,
+                "epsEstimate": 0.22,
+                "epsDifference": -0.03,
+                "surprisePercent": -13.6364
+            }
+        },
+        "Trend": {
+            "2019-12-31": {
+                "date": "2019-12-31",
+                "period": "+1y",
+                "growth": null,
+                "earningsEstimateAvg": "0.0000",
+                "earningsEstimateLow": "0.0000",
+                "earningsEstimateHigh": "0.0000",
+                "earningsEstimateYearAgoEps": null,
+                "earningsEstimateNumberOfAnalysts": "0.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "171670000.00",
+                "revenueEstimateLow": "152000000.00",
+                "revenueEstimateHigh": "183000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "8.00",
+                "revenueEstimateGrowth": "0.2860",
+                "epsTrendCurrent": "0.0000",
+                "epsTrend7daysAgo": "0.6600",
+                "epsTrend30daysAgo": "0.6600",
+                "epsTrend60daysAgo": "0.6600",
+                "epsTrend90daysAgo": "0.6600",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "1.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "1.0000"
+            },
+            "2019-03-31": {
+                "date": "2019-03-31",
+                "period": "+1q",
+                "growth": null,
+                "earningsEstimateAvg": "0.0000",
+                "earningsEstimateLow": "0.0000",
+                "earningsEstimateHigh": "0.0000",
+                "earningsEstimateYearAgoEps": "-0.1300",
+                "earningsEstimateNumberOfAnalysts": "0.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "38000000.00",
+                "revenueEstimateLow": "38000000.00",
+                "revenueEstimateHigh": "38000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "1.00",
+                "revenueEstimateGrowth": "1.4310",
+                "epsTrendCurrent": "0.0000",
+                "epsTrend7daysAgo": "0.1400",
+                "epsTrend30daysAgo": "0.1400",
+                "epsTrend60daysAgo": "0.1400",
+                "epsTrend90daysAgo": "0.1400",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2018-12-31": {
+                "date": "2018-12-31",
+                "period": "0y",
+                "growth": null,
+                "earningsEstimateAvg": "0.0000",
+                "earningsEstimateLow": "0.0000",
+                "earningsEstimateHigh": "0.0000",
+                "earningsEstimateYearAgoEps": null,
+                "earningsEstimateNumberOfAnalysts": "0.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "133540000.00",
+                "revenueEstimateLow": "124290000.00",
+                "revenueEstimateHigh": "150000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "8.00",
+                "revenueEstimateGrowth": "0.1240",
+                "epsTrendCurrent": "0.0000",
+                "epsTrend7daysAgo": "0.2900",
+                "epsTrend30daysAgo": "0.2900",
+                "epsTrend60daysAgo": "0.2900",
+                "epsTrend90daysAgo": "0.2900",
+                "epsRevisionsUpLast7days": "1.0000",
+                "epsRevisionsUpLast30days": "2.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "1.0000"
+            }
+        },
+        "Annual": {
+            "2018-09-30": {
+                "date": "2018-09-30",
+                "epsActual": -0.08
+            },
+            "2017-12-31": {
+                "date": "2017-12-31",
+                "epsActual": 0.19
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

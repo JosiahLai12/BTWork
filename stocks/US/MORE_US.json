@@ -1,0 +1,274 @@
+{
+    "General": {
+        "Code": "MORE",
+        "Type": "ETF",
+        "Name": "ASYMmetric Smart Income ETF",
+        "Exchange": "NYSE ARCA",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": null,
+        "Description": null,
+        "Category": null,
+        "UpdatedAt": "2023-09-04"
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 26,
+        "52WeekLow": 21.28,
+        "50DayMA": 0,
+        "200DayMA": 0
+    },
+    "ETF_Data": {
+        "ISIN": null,
+        "Company_Name": null,
+        "Company_URL": null,
+        "ETF_URL": null,
+        "Domicile": null,
+        "Index_Name": null,
+        "Yield": null,
+        "Dividend_Paying_Frequency": null,
+        "Inception_Date": null,
+        "Max_Annual_Mgmt_Charge": null,
+        "Ongoing_Charge": null,
+        "Date_Ongoing_Charge": null,
+        "NetExpenseRatio": null,
+        "AnnualHoldingsTurnover": null,
+        "TotalAssets": null,
+        "Average_Mkt_Cap_Mil": "No Data",
+        "Market_Capitalisation": {},
+        "Asset_Allocation": {},
+        "World_Regions": {},
+        "Sector_Weights": {},
+        "Fixed_Income": {},
+        "Holdings_Count": 10,
+        "Top_10_Holdings": {
+            "PLD.US": {
+                "Code": "PLD",
+                "Exchange": "US",
+                "Name": "Prologis Inc",
+                "Sector": "Real Estate",
+                "Industry": "REIT-Industrial",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 6.22818
+            },
+            "AMT.US": {
+                "Code": "AMT",
+                "Exchange": "US",
+                "Name": "American Tower Corp",
+                "Sector": "Real Estate",
+                "Industry": "REIT-Specialty",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 4.8046
+            },
+            "EQIX.US": {
+                "Code": "EQIX",
+                "Exchange": "US",
+                "Name": "Equinix Inc",
+                "Sector": "Real Estate",
+                "Industry": "REIT-Specialty",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 4.13543
+            },
+            "MMP.US": {
+                "Code": "MMP",
+                "Exchange": "US",
+                "Name": "Magellan Midstream Partners LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.94205
+            },
+            "PAA.US": {
+                "Code": "PAA",
+                "Exchange": "US",
+                "Name": "Plains All American Pipeline LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.9273
+            },
+            "MPLX.US": {
+                "Code": "MPLX",
+                "Exchange": "US",
+                "Name": "MPLX LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.89595
+            },
+            "ET.US": {
+                "Code": "ET",
+                "Exchange": "US",
+                "Name": "Energy Transfer Equity LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.85383
+            },
+            "WES.US": {
+                "Code": "WES",
+                "Exchange": "US",
+                "Name": "Western Midstream Partners LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.82674
+            },
+            "EPD.US": {
+                "Code": "EPD",
+                "Exchange": "US",
+                "Name": "Enterprise Products Partners LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.78234
+            },
+            "CCI.US": {
+                "Code": "CCI",
+                "Exchange": "US",
+                "Name": "Crown Castle",
+                "Sector": "Real Estate",
+                "Industry": "REIT-Specialty",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.53428
+            }
+        },
+        "Holdings": {
+            "PLD.US": {
+                "Code": "PLD",
+                "Exchange": "US",
+                "Name": "Prologis Inc",
+                "Sector": "Real Estate",
+                "Industry": "REIT-Industrial",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 6.22818
+            },
+            "AMT.US": {
+                "Code": "AMT",
+                "Exchange": "US",
+                "Name": "American Tower Corp",
+                "Sector": "Real Estate",
+                "Industry": "REIT-Specialty",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 4.8046
+            },
+            "EQIX.US": {
+                "Code": "EQIX",
+                "Exchange": "US",
+                "Name": "Equinix Inc",
+                "Sector": "Real Estate",
+                "Industry": "REIT-Specialty",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 4.13543
+            },
+            "MMP.US": {
+                "Code": "MMP",
+                "Exchange": "US",
+                "Name": "Magellan Midstream Partners LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.94205
+            },
+            "PAA.US": {
+                "Code": "PAA",
+                "Exchange": "US",
+                "Name": "Plains All American Pipeline LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.9273
+            },
+            "MPLX.US": {
+                "Code": "MPLX",
+                "Exchange": "US",
+                "Name": "MPLX LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.89595
+            },
+            "ET.US": {
+                "Code": "ET",
+                "Exchange": "US",
+                "Name": "Energy Transfer Equity LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.85383
+            },
+            "WES.US": {
+                "Code": "WES",
+                "Exchange": "US",
+                "Name": "Western Midstream Partners LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.82674
+            },
+            "EPD.US": {
+                "Code": "EPD",
+                "Exchange": "US",
+                "Name": "Enterprise Products Partners LP",
+                "Sector": "Energy",
+                "Industry": "Oil & Gas Midstream",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.78234
+            },
+            "CCI.US": {
+                "Code": "CCI",
+                "Exchange": "US",
+                "Name": "Crown Castle",
+                "Sector": "Real Estate",
+                "Industry": "REIT-Specialty",
+                "Country": "United States",
+                "Region": "North America",
+                "Assets_%": 2.53428
+            }
+        },
+        "Valuations_Growth": {
+            "Valuations_Rates_Portfolio": {},
+            "Valuations_Rates_To_Category": {},
+            "Growth_Rates_Portfolio": {},
+            "Growth_Rates_To_Category": {}
+        },
+        "MorningStar": {
+            "Ratio": null,
+            "Category_Benchmark": null,
+            "Sustainability_Ratio": null
+        },
+        "Performance": {
+            "1y_Volatility": null,
+            "3y_Volatility": null,
+            "3y_ExpReturn": null,
+            "3y_SharpRatio": null,
+            "Returns_YTD": null,
+            "Returns_1Y": null,
+            "Returns_3Y": null,
+            "Returns_5Y": null,
+            "Returns_10Y": null
+        }
+    }
+}

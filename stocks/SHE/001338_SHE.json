@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "001338",
+        "Type": "Common Stock",
+        "Name": "GDH Supertime Group Co. Ltd. A",
+        "Exchange": "SHE",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages-Non-Alcoholic",
+        "GicSector": "Consumer Staples",
+        "GicGroup": "Food, Beverage & Tobacco",
+        "GicIndustry": "Beverages",
+        "GicSubIndustry": "Soft Drinks & Non-alcoholic Beverages",
+        "Description": "GDH Supertime Group Company Limited engages in the development, production, and sale of malt to beer manufacturers in China. The company offers basic barley malt and other products. It exports its products in Southeast Asia, South Korea, Japan, and internationally. The company was founded in 2017 and is headquartered in Guangzhou, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 767,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 7872159232,
+        "MarketCapitalizationMln": 7872.1592,
+        "EBITDA": 261640496,
+        "PERatio": 52.3,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 6.437,
+        "DividendShare": 0.06,
+        "DividendYield": 0.0038,
+        "EarningsShare": 0.3,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0.0372,
+        "OperatingMarginTTM": 0.047,
+        "ReturnOnAssetsTTM": 0.0329,
+        "ReturnOnEquityTTM": 0.0566,
+        "RevenueTTM": 4191933696,
+        "RevenuePerShareTTM": 10.747,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 270173277,
+        "DilutedEpsTTM": 0.3,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 52.3,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 2.1197,
+        "PriceBookMRQ": 4.6188,
+        "EnterpriseValue": 7837035520,
+        "EnterpriseValueRevenue": 3.074,
+        "EnterpriseValueEbitda": 98.0595
+    },
+    "SharesStats": {
+        "SharesOutstanding": 501731008,
+        "SharesFloat": 243254160,
+        "PercentInsiders": 70.864,
+        "PercentInstitutions": 0.063,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 31.0906,
+        "52WeekLow": 8.1539,
+        "50DayMA": 17.5542,
+        "200DayMA": 18.4621,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.06,
+        "ForwardAnnualDividendYield": 0.0038,
+        "PayoutRatio": 0.4777,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-06-21",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0557,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0699,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.1256
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

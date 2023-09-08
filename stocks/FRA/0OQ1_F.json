@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "0OQ1",
+        "Type": "Common Stock",
+        "Name": "INEO TECH CORP.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA45674Q1028",
+        "LEI": null,
+        "PrimaryTicker": "INEO.V",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "June",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Communication Services",
+        "Industry": "Advertising Agencies",
+        "GicSector": "Communication Services",
+        "GicGroup": "Media & Entertainment",
+        "GicIndustry": "Media",
+        "GicSubIndustry": "Publishing",
+        "Description": "INEO Tech Corp., through its subsidiary, INEO Solutions Inc., offers location-based advertising, analytics, and theft detection platform for retailers. Its technology integrates and monetizes digital screens with theft detection sensor gates at the entrance of retail stores. The company's cloud-based platform uses Internet of Things and artificial intelligence technology to deliver digital advertising to each retail location based on the demographic mix, such as age and gender, of customer traffic at each location. It also offers INEO Welcoming Network technology through a SaaS-based solution to retail chains. INEO Tech Corp. is headquartered in Surrey, Canada.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 2068448,
+        "MarketCapitalizationMln": 2.0684,
+        "EBITDA": -3056242,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.022,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.03,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-03-31",
+        "ProfitMargin": -2.0479,
+        "OperatingMarginTTM": -1.9931,
+        "ReturnOnAssetsTTM": -0.5374,
+        "ReturnOnEquityTTM": -1.3313,
+        "RevenueTTM": 1615110,
+        "RevenuePerShareTTM": 0.024,
+        "QuarterlyRevenueGrowthYOY": 0.188,
+        "GrossProfitTTM": 503932,
+        "DilutedEpsTTM": -0.03,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 1044085,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 76143696,
+        "SharesFloat": 58886499,
+        "PercentInsiders": 22.845,
+        "PercentInstitutions": 7.7410000000000005,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.1264,
+        "52WeekHigh": 0.137,
+        "52WeekLow": 0.0155,
+        "50DayMA": 0.0203,
+        "200DayMA": 0.0488,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": "1:1.6191",
+        "LastSplitDate": "2020-01-29",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2024-03-31": {
+                "reportDate": "2024-05-28",
+                "date": "2024-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-12-31": {
+                "reportDate": "2024-02-26",
+                "date": "2023-12-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-09-30": {
+                "reportDate": "2023-10-23",
+                "date": "2023-09-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

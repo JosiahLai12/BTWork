@@ -1,0 +1,163 @@
+{
+    "General": {
+        "Code": "PEYA",
+        "Type": "Common Stock",
+        "Name": "PRINC.PR.EQ.HLDGS EO-001",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "GG00B28C2R28",
+        "LEI": "54930038LU8RDPFFVJ57",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "",
+        "Industry": "",
+        "GicSector": "Energy",
+        "GicGroup": "Energy",
+        "GicIndustry": "Oil, Gas & Consumable Fuels",
+        "GicSubIndustry": "Coal & Consumable Fuels",
+        "Description": "Princess Private Equity Holding Limited specializes in private equity and debt investments in non-public companies or assets through privately negotiated transactions. The fund invests in primary and secondary fund investments, direct investments, and listed private equity. It makes private equity investments in buyout, venture capital, and special situation and private debt investments in mezzanine, second lien, or senior debt investments. The fund makes investments without limitations as to geographic regions, financing stage, vintage year, and industry. It also makes investments as limited partnerships in the form of private equity and private debt funds in the form of common and preferred equity, convertible securities, subordinated debt and warrants, or other derivatives.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 745615552,
+        "MarketCapitalizationMln": 745.6156,
+        "EBITDA": null,
+        "PERatio": 4.1634,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 14.767,
+        "DividendShare": 0.38,
+        "DividendYield": 0.0355,
+        "EarningsShare": 2.57,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.6498,
+        "OperatingMarginTTM": 0.7596,
+        "ReturnOnAssetsTTM": 0.0655,
+        "ReturnOnEquityTTM": 0.0961,
+        "RevenueTTM": 145874000,
+        "RevenuePerShareTTM": 2.109,
+        "QuarterlyRevenueGrowthYOY": 0.543,
+        "GrossProfitTTM": 24959000,
+        "DilutedEpsTTM": 2.57,
+        "QuarterlyEarningsGrowthYOY": 1.465
+    },
+    "Valuation": {
+        "TrailingPE": 4.1634,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 747301504,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 69151200,
+        "SharesFloat": 0,
+        "PercentInsiders": 18.397,
+        "PercentInstitutions": 32.092999999999996,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.5091,
+        "52WeekHigh": 11.2849,
+        "52WeekLow": 7.1455,
+        "50DayMA": 10.1628,
+        "200DayMA": 9.3739,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2013,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2014,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2015,
+                "Count": 2
+            },
+            "3": {
+                "Year": 2016,
+                "Count": 2
+            },
+            "4": {
+                "Year": 2017,
+                "Count": 2
+            },
+            "5": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "6": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

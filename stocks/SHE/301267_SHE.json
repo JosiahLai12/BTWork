@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "301267",
+        "Type": "Common Stock",
+        "Name": "Huaxia Eye Hospital Group Co. Ltd. A",
+        "Exchange": "SHE",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Healthcare",
+        "Industry": "Medical Care Facilities",
+        "GicSector": "Health Care",
+        "GicGroup": "Health Care Equipment & Services",
+        "GicIndustry": "Health Care Providers & Services",
+        "GicSubIndustry": "Health Care Facilities",
+        "Description": "Huaxia Eye Hospital Group Co.,Ltd. operates an ophthalmic medical chain in China and internationally. The company provides general ophthalmology diagnosis and treatment services for patients with ophthalmic diseases. It offers services in the areas of refractive surgery, optometry, pediatric strabismus, cataract, fundus disease, ocular surface and corneal disease, glaucoma, eye trauma, and eye plastic surgery. The company was founded in 1997 and is based in Xiamen, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 6653,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 36321599488,
+        "MarketCapitalizationMln": 36321.5995,
+        "EBITDA": 995272640,
+        "PERatio": 58.4324,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 63.03,
+        "BookValue": 18.226,
+        "DividendShare": 0.187,
+        "DividendYield": 0.0068,
+        "EarningsShare": 0.74,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1727,
+        "OperatingMarginTTM": 0.2335,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 3648367360,
+        "RevenuePerShareTTM": 4.573,
+        "QuarterlyRevenueGrowthYOY": 0.381,
+        "GrossProfitTTM": 1553521301,
+        "DilutedEpsTTM": 0.74,
+        "QuarterlyEarningsGrowthYOY": 0.364
+    },
+    "Valuation": {
+        "TrailingPE": 58.4324,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 10.0291,
+        "PriceBookMRQ": 16.7407,
+        "EnterpriseValue": 8605638656,
+        "EnterpriseValueRevenue": 11.1136,
+        "EnterpriseValueEbitda": 48.9495
+    },
+    "SharesStats": {
+        "SharesOutstanding": 840000000,
+        "SharesFloat": 46595792,
+        "PercentInsiders": 83.997,
+        "PercentInstitutions": 9.796000000000001,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 62.7955,
+        "52WeekLow": 35.56,
+        "50DayMA": 40.0076,
+        "200DayMA": 48.1466,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.28,
+        "ForwardAnnualDividendYield": 0.0068,
+        "PayoutRatio": 1.0432,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-07-11",
+        "LastSplitFactor": "1.5:1",
+        "LastSplitDate": "2023-07-11",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-29",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-23",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.2684,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.2684
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

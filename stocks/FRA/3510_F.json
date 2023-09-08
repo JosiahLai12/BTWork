@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "3510",
+        "Type": "Common Stock",
+        "Name": "LIVEONE INC. DL-001",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US53814X1028",
+        "LEI": null,
+        "PrimaryTicker": "LIVX.US",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "GicSector": "Communication Services",
+        "GicGroup": "Media & Entertainment",
+        "GicIndustry": "Entertainment",
+        "GicSubIndustry": "Movies & Entertainment",
+        "Description": "LiveOne, Inc., a digital media company, engages in the acquisition, distribution, and monetization of live music, Internet radio, podcasting/vodcasting, and music-related streaming and video content. It operates LiveXLive, a live music streaming platform; PodcastOne, a podcasting platform; and Slacker, an integrated membership and advertising streaming music service, as well as produces original music-related content. The company also produces, edits, curates, and streams live music events through broadband transmission over the Internet and satellite networks to its users; provides digital Internet radio and music services to users online and through automotive and mobile original equipment manufacturers on a white label basis; and offers ancillary products and services, such as regulatory and post-implementation support services. In addition, it develops, manufactures, and distributes personalized merchandise and gifts through wholesale and direct-to-consumer distribution channels. Further, the company offers LiveOne App, an application that provides access to live events, audio streams, original episodic content, podcasts, vodcasts, video on demand, real-time livestreams, and social sharing of content. The company was formerly known as LiveXLive Media, Inc. and changed its name to LiveOne, Inc. in October 2021. LiveOne, Inc. was incorporated in 2009 and is headquartered in Beverly Hills, California.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 165,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 135805200,
+        "MarketCapitalizationMln": 135.8052,
+        "EBITDA": 5388000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": -0.212,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.14,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": -0.1141,
+        "OperatingMarginTTM": -0.0127,
+        "ReturnOnAssetsTTM": -0.0121,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 104156000,
+        "RevenuePerShareTTM": 1.211,
+        "QuarterlyRevenueGrowthYOY": 0.196,
+        "GrossProfitTTM": 24039000,
+        "DilutedEpsTTM": -0.14,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 161435632,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 90198400,
+        "SharesFloat": 69483575,
+        "PercentInsiders": 20.143,
+        "PercentInstitutions": 24.542,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.6055,
+        "52WeekHigh": 1.95,
+        "52WeekLow": 0.462,
+        "50DayMA": 1.5142,
+        "200DayMA": 1.0637,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-10",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

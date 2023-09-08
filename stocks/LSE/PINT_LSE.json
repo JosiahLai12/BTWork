@@ -1,0 +1,186 @@
+{
+    "General": {
+        "Code": "PINT",
+        "Type": "Common Stock",
+        "Name": "Pantheon Infrastructure PLC",
+        "Exchange": "LSE",
+        "CurrencyCode": "GBX",
+        "CurrencyName": "Pence sterling",
+        "CurrencySymbol": "p",
+        "CountryName": "UK",
+        "CountryISO": "GB",
+        "OpenFigi": null,
+        "ExchangeMarket": null,
+        "ISIN": "GB00BLNNFL88",
+        "LEI": "213800CKJXQX64XMRK69",
+        "PrimaryTicker": "PINT.LSE",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financials",
+        "Industry": "Investment Banking & Investment Services",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "Description": "Pantheon Infrastructure PLC focuses on investing in infrastructure assets worldwide. It invests to invest in various infrastructure sectors, such as digital infrastructure, renewables and energy efficiency, power and utilities, transport and logistics, and social and other infrastructure. The company was founded in 1982 and is based in London, the United Kingdom.",
+        "Address": "10 Finsbury Square, London, United Kingdom, EC2A 1AF",
+        "AddressData": {
+            "Street": "10 Finsbury Square",
+            "City": "London",
+            "Country": "United Kingdom",
+            "ZIP": "EC2A 1AF"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Richard  Sem",
+                "Title": "Partner and Head of Europe - Global Infrastructure & Real Assets",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Ms. Andrea  Echberg",
+                "Title": "Partner and Head of Global Infrastructure & Real Assets",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "44 20 3356 1800",
+        "WebURL": "https://www.pantheoninfrastructure.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 360762624,
+        "MarketCapitalizationMln": 360.7626,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 100,
+        "BookValue": null,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 478464992,
+        "SharesFloat": 0,
+        "PercentInsiders": 0.124,
+        "PercentInstitutions": 71.188,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 101.3503,
+        "52WeekLow": 73.8,
+        "50DayMA": 80.31,
+        "200DayMA": 87.447,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.04,
+        "ForwardAnnualDividendYield": 0.05,
+        "PayoutRatio": 1,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-03-09",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-12-31": {
+                "reportDate": "2023-03-02",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.02,
+                "epsEstimate": 0,
+                "epsDifference": 0.02,
+                "surprisePercent": null
+            },
+            "2022-06-30": {
+                "reportDate": "2022-09-22",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0,
+                "epsEstimate": 0,
+                "epsDifference": 0,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.02
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

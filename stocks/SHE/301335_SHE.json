@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "301335",
+        "Type": "Common Stock",
+        "Name": "Hangzhou Tianyuan Pet Products Co. Ltd. A",
+        "Exchange": "SHE",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Cyclical",
+        "Industry": "Specialty Retail",
+        "GicSector": "Consumer Discretionary",
+        "GicGroup": "Consumer Discretionary Distribution & Retail",
+        "GicIndustry": "Specialty Retail",
+        "GicSubIndustry": "Other Specialty Retail",
+        "Description": "Hangzhou Tianyuan Pet Products CO., LTD produces and sells pet products in China and internationally. It offers beds and furniture, outdoor products, apparel, collars, harness, leashes, grooming tools, food and water feeder, toys, and training products for dogs; and beds, outdoor products, collars and leashes, toys, food and water feeders, cleaning products, and scratchers for cats. The company was founded in 1998 and is headquartered in Hangzhou, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 1407,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 2992499968,
+        "MarketCapitalizationMln": 2992.5,
+        "EBITDA": 154428896,
+        "PERatio": 19.958,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 30,
+        "BookValue": 14.794,
+        "DividendShare": 0.357,
+        "DividendYield": 0.0218,
+        "EarningsShare": 1.19,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.055,
+        "OperatingMarginTTM": 0.0635,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 2027197824,
+        "RevenuePerShareTTM": 17.886,
+        "QuarterlyRevenueGrowthYOY": 0.313,
+        "GrossProfitTTM": 369140340,
+        "DilutedEpsTTM": 1.19,
+        "QuarterlyEarningsGrowthYOY": -0.558
+    },
+    "Valuation": {
+        "TrailingPE": 19.958,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 1.3282,
+        "PriceBookMRQ": 4.14,
+        "EnterpriseValue": 2567256576,
+        "EnterpriseValueRevenue": 1.8666,
+        "EnterpriseValueEbitda": 25.8787
+    },
+    "SharesStats": {
+        "SharesOutstanding": 126000000,
+        "SharesFloat": 47942729,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 32.8688,
+        "52WeekLow": 21.32,
+        "50DayMA": 24.3406,
+        "200DayMA": 25.2499,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.5,
+        "ForwardAnnualDividendYield": 0.0218,
+        "PayoutRatio": 0.0464,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-06-13",
+        "LastSplitFactor": "1.44:1",
+        "LastSplitDate": "2023-06-13",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-28",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.1347,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1078,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.2425
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

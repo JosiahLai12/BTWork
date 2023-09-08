@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "688435",
+        "Type": "Common Stock",
+        "Name": "Shanghai Information2 Software Inc. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Application",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Shanghai Information2 Software Inc. operates as a technology company that provides disaster recovery and business applications in China. It also operates i2yun.com, a cloud service platform to provide users with migration, and disaster recovery and service. In addition, the company offers disaster recovery, backup, cloud disaster recovery, and big data products. Further, it offers software and hardware integrated machine products; and software related services. Shanghai Information2 Software Inc. was founded in 2011 and is headquartered in Shanghai, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 472,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 6148939776,
+        "MarketCapitalizationMln": 6148.9398,
+        "EBITDA": 33656792,
+        "PERatio": 96.8947,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 12.938,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.76,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1966,
+        "OperatingMarginTTM": 0.1352,
+        "ReturnOnAssetsTTM": 0.0238,
+        "ReturnOnEquityTTM": 0.0591,
+        "RevenueTTM": 221970896,
+        "RevenuePerShareTTM": 3.096,
+        "QuarterlyRevenueGrowthYOY": 0.261,
+        "GrossProfitTTM": 196892700,
+        "DilutedEpsTTM": 0.76,
+        "QuarterlyEarningsGrowthYOY": 0.261
+    },
+    "Valuation": {
+        "TrailingPE": 96.8947,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 5593107968,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 83500000,
+        "SharesFloat": 44274698,
+        "PercentInsiders": 65.902,
+        "PercentInstitutions": 7.002,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 133,
+        "52WeekLow": 61.01,
+        "50DayMA": 73.2604,
+        "200DayMA": 97.1235,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-28",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-25",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": -0.0444,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": -0.0444
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

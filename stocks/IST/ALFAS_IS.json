@@ -1,0 +1,183 @@
+{
+    "General": {
+        "Code": "ALFAS",
+        "Type": "Common Stock",
+        "Name": "Alfas Solar Enerji Sanayi ve Ticaret A.S.",
+        "Exchange": "IS",
+        "CurrencyCode": "TRY",
+        "CurrencyName": "Turkish lira",
+        "CurrencySymbol": "\u20ba",
+        "CountryName": "Turkey",
+        "CountryISO": "TR",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Solar",
+        "GicSector": "Information Technology",
+        "GicGroup": "Semiconductors & Semiconductor Equipment",
+        "GicIndustry": "Semiconductors & Semiconductor Equipment",
+        "GicSubIndustry": "Semiconductors",
+        "Description": "Alfa Solar Enerji Sanayi Ve Ticaret Anonim Sirketi engages in the manufacture of photovoltaic (PV) panels. The company is based in Yahsihan, Turkey.",
+        "Address": "Balgat Mahallesi Mevlana Boulevard No 139/A Floor 9, Ankara, Turkey",
+        "AddressData": {
+            "Street": "Balgat Mahallesi Mevlana Boulevard No 139/A Floor 9",
+            "City": "Ankara",
+            "Country": "Turkey"
+        },
+        "Listings": {},
+        "Officers": {},
+        "Phone": "90 312 230 32 57",
+        "WebURL": "https://www.alfasolarenerji.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 746,
+        "UpdatedAt": "2023-09-03"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": 903801728,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 3.539,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2181,
+        "OperatingMarginTTM": 0.209,
+        "ReturnOnAssetsTTM": 0.2036,
+        "ReturnOnEquityTTM": 1.0187,
+        "RevenueTTM": 4278904576,
+        "RevenuePerShareTTM": 12.302,
+        "QuarterlyRevenueGrowthYOY": 2.114,
+        "GrossProfitTTM": 483050420,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 1.433
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 52085153792,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 73600000,
+        "PercentInsiders": 80,
+        "PercentInstitutions": 0.77,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 158.9,
+        "52WeekLow": 7.3211,
+        "50DayMA": 0,
+        "200DayMA": 0,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0.0176,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-05-03",
+        "LastSplitFactor": "800:100",
+        "LastSplitDate": "2023-08-29",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.7777,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.6609,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.8398,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 1.4386
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.8398
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "General": {
+        "Code": "DVW1",
+        "Type": "Common Stock",
+        "Name": "DANAOS CORP. DL -01",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "MHY1968P1218",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Marine Shipping",
+        "GicSector": "Industrials",
+        "GicGroup": "Transportation",
+        "GicIndustry": "Marine Transportation",
+        "GicSubIndustry": "Marine Transportation",
+        "Description": "Danaos Corporation, together with its subsidiaries, owns and operates containerships in Australia, Asia, Europe, and the United States. The company offers seaborne transportation services, such as chartering its vessels to liner companies. As of March 7, 2023, it had a fleet of 68 containerships aggregating 421,293 twenty-foot equivalent units in capacity. The company was formerly known as Danaos Holdings Limited and changed its name to Danaos Corporation in October 2005. Danaos Corporation was founded in 1963 and is based in Piraeus, Greece.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 4,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 1231675392,
+        "MarketCapitalizationMln": 1231.6754,
+        "EBITDA": 705854016,
+        "PERatio": 2.6013,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 90,
+        "BookValue": 141.225,
+        "DividendShare": 3,
+        "DividendYield": 0.0456,
+        "EarningsShare": 23.45,
+        "EPSEstimateCurrentYear": 13.8,
+        "EPSEstimateNextYear": 19.17,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 3.68,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.514,
+        "OperatingMarginTTM": 0.6135,
+        "ReturnOnAssetsTTM": 0.1059,
+        "ReturnOnEquityTTM": 0.1981,
+        "RevenueTTM": 997572992,
+        "RevenuePerShareTTM": 49.281,
+        "QuarterlyRevenueGrowthYOY": -0.038,
+        "GrossProfitTTM": 787057000,
+        "DilutedEpsTTM": 23.45,
+        "QuarterlyEarningsGrowthYOY": 17.415
+    },
+    "Valuation": {
+        "TrailingPE": 2.6013,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 1246105728,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 19752000,
+        "SharesFloat": 10455932,
+        "PercentInsiders": 46.676,
+        "PercentInstitutions": 22.356,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.5812,
+        "52WeekHigh": 64.5619,
+        "52WeekLow": 44.9854,
+        "50DayMA": 61.496,
+        "200DayMA": 54.2355,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 2.76,
+        "ForwardAnnualDividendYield": 0.0456,
+        "PayoutRatio": 0.1182,
+        "DividendDate": null,
+        "ExDividendDate": "2023-08-22",
+        "LastSplitFactor": "1:14",
+        "LastSplitDate": "2019-05-02",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2021,
+                "Count": 3
+            },
+            "1": {
+                "Year": 2022,
+                "Count": 4
+            },
+            "2": {
+                "Year": 2023,
+                "Count": 3
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2021-06-30": {
+                "reportDate": "2021-06-30",
+                "date": "2021-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 3.34,
+                "epsEstimate": 3.25,
+                "epsDifference": 0.09,
+                "surprisePercent": 2.7692
+            },
+            "2021-03-31": {
+                "reportDate": "2021-03-31",
+                "date": "2021-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 2.83,
+                "epsEstimate": 2.9,
+                "epsDifference": -0.07,
+                "surprisePercent": -2.4138
+            },
+            "2020-12-31": {
+                "reportDate": "2020-12-31",
+                "date": "2020-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 2.29,
+                "epsEstimate": 2.27,
+                "epsDifference": 0.02,
+                "surprisePercent": 0.8811
+            },
+            "2020-09-30": {
+                "reportDate": "2020-09-30",
+                "date": "2020-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 1.91,
+                "epsEstimate": 1.86,
+                "epsDifference": 0.05,
+                "surprisePercent": 2.6882
+            }
+        },
+        "Trend": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "period": "+1y",
+                "growth": "0.3890",
+                "earningsEstimateAvg": "19.1700",
+                "earningsEstimateLow": "15.7200",
+                "earningsEstimateHigh": "21.6400",
+                "earningsEstimateYearAgoEps": "13.8000",
+                "earningsEstimateNumberOfAnalysts": "3.0000",
+                "earningsEstimateGrowth": "0.3890",
+                "revenueEstimateAvg": "743590000.00",
+                "revenueEstimateLow": "629930000.00",
+                "revenueEstimateHigh": "810010000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "3.00",
+                "revenueEstimateGrowth": "0.2260",
+                "epsTrendCurrent": "19.1700",
+                "epsTrend7daysAgo": "19.1700",
+                "epsTrend30daysAgo": "19.1700",
+                "epsTrend60daysAgo": "14.9100",
+                "epsTrend90daysAgo": "13.6700",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2021-12-31": {
+                "date": "2021-12-31",
+                "period": "0y",
+                "growth": "0.9220",
+                "earningsEstimateAvg": "13.8000",
+                "earningsEstimateLow": "13.1000",
+                "earningsEstimateHigh": "14.5000",
+                "earningsEstimateYearAgoEps": "7.1800",
+                "earningsEstimateNumberOfAnalysts": "2.0000",
+                "earningsEstimateGrowth": "0.9220",
+                "revenueEstimateAvg": "606310000.00",
+                "revenueEstimateLow": "591780000.00",
+                "revenueEstimateHigh": "629350000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "3.00",
+                "revenueEstimateGrowth": "0.3140",
+                "epsTrendCurrent": "13.8000",
+                "epsTrend7daysAgo": "13.8000",
+                "epsTrend30daysAgo": "13.8000",
+                "epsTrend60daysAgo": "13.5200",
+                "epsTrend90daysAgo": "13.3100",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2021-09-30": {
+                "date": "2021-09-30",
+                "period": "0q",
+                "growth": "0.9270",
+                "earningsEstimateAvg": "3.6800",
+                "earningsEstimateLow": "3.2600",
+                "earningsEstimateHigh": "4.3700",
+                "earningsEstimateYearAgoEps": "1.9100",
+                "earningsEstimateNumberOfAnalysts": "3.0000",
+                "earningsEstimateGrowth": "0.9270",
+                "revenueEstimateAvg": "165440000.00",
+                "revenueEstimateLow": "157880000.00",
+                "revenueEstimateHigh": "173000000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "2.00",
+                "revenueEstimateGrowth": null,
+                "epsTrendCurrent": "3.6800",
+                "epsTrend7daysAgo": "3.6800",
+                "epsTrend30daysAgo": "3.6800",
+                "epsTrend60daysAgo": "3.5600",
+                "epsTrend90daysAgo": "3.4700",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            }
+        },
+        "Annual": {
+            "2021-06-30": {
+                "date": "2021-06-30",
+                "epsActual": 6.17
+            },
+            "2020-12-31": {
+                "date": "2020-12-31",
+                "epsActual": 4.2
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

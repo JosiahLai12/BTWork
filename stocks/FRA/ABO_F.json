@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "ABO",
+        "Type": "Common Stock",
+        "Name": "CLEARVISE AG INH O.N.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "DE000A1EWXA4",
+        "LEI": "391200Y1PCQR9Y3F4C76",
+        "PrimaryTicker": "ABO.DU",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Utilities",
+        "Industry": "Utilities-Renewable",
+        "GicSector": "Utilities",
+        "GicGroup": "Utilities",
+        "GicIndustry": "Independent Power and Renewable Electricity Producers",
+        "GicSubIndustry": "Renewable Electricity",
+        "Description": "clearvise AG operates as an independent electricity producer from renewable energies in Europe. Its operational portfolio consists of wind and solar parks, and a biogas plant in four countries with an installed capacity of approximately 303 MW. The company was formerly known as ABO Invest AG and changed its name to clearvise AG in 2020. clearvise AG was founded in 2010 and is based in Wiesbaden, Germany.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 10,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 153725232,
+        "MarketCapitalizationMln": 153.7252,
+        "EBITDA": 46357000,
+        "PERatio": 12.75,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1.393,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.16,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0.1815,
+        "OperatingMarginTTM": 0.3716,
+        "ReturnOnAssetsTTM": 0.0505,
+        "ReturnOnEquityTTM": 0.1442,
+        "RevenueTTM": 64032000,
+        "RevenuePerShareTTM": 0.827,
+        "QuarterlyRevenueGrowthYOY": 1.22,
+        "GrossProfitTTM": 27897000,
+        "DilutedEpsTTM": 0.16,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 12.75,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 280241504,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 75355504,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 17.052,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.2077,
+        "52WeekHigh": 3,
+        "52WeekLow": 1.955,
+        "50DayMA": 2.2192,
+        "200DayMA": 2.3393,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2024-03-31": {
+                "reportDate": "2024-04-08",
+                "date": "2024-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-06-30": {
+                "reportDate": "2023-09-05",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

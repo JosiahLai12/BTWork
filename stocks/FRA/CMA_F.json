@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "CMA",
+        "Type": "Common Stock",
+        "Name": "MAPFRE S.A.ADR 2 / EO-10",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US5651001043",
+        "LEI": "95980020140005693107",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Insurance-Diversified",
+        "GicSector": "Financials",
+        "GicGroup": "Insurance",
+        "GicIndustry": "Insurance",
+        "GicSubIndustry": "Multi-line Insurance",
+        "Description": "Mapfre, S.A. operates in the insurance, property, financial, and services sectors worldwide. It offers life, health, accident, savings and investment, retirement, burial, and travel and leisure insurance; and homeowner's, automobile, third-party liability, and other insurance. The company also provides vehicle, third-party liability and asset, agriculture and livestock, commercial establishment, and other insurance products. In addition, it offers solutions for large risks for aviation, energy, industry, construction, and other companies; and reinsurance services. In addition, it engages in the real estate, real estate investment management, and IT businesses; and provision of advisory and management services. The company offers its services to individuals, professionals, entrepreneurs, self-employed people, small and medium-sized enterprises, and large corporations. The company was formerly known as Corporacion Mapfre and changed its name to Mapfre, S.A. in December 2006. Mapfre, S.A. was founded in 1933 and is headquartered in Majadahonda, Spain. Mapfre, S.A. operates as a subsidiary of Cartera Mapfre, S.L.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 30918,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 5942439936,
+        "MarketCapitalizationMln": 5942.4399,
+        "EBITDA": 1817299968,
+        "PERatio": 8.8571,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 5.344,
+        "DividendShare": 0.086,
+        "DividendYield": 0.0773,
+        "EarningsShare": 0.42,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0294,
+        "OperatingMarginTTM": 0.0769,
+        "ReturnOnAssetsTTM": 0.0179,
+        "ReturnOnEquityTTM": 0.1299,
+        "RevenueTTM": 21636900864,
+        "RevenuePerShareTTM": 13.672,
+        "QuarterlyRevenueGrowthYOY": -0.056,
+        "GrossProfitTTM": 2470300000,
+        "DilutedEpsTTM": 0.42,
+        "QuarterlyEarningsGrowthYOY": -0.08
+    },
+    "Valuation": {
+        "TrailingPE": 8.8571,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -6328099328,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1531559936,
+        "SharesFloat": 458487595,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.7706,
+        "52WeekHigh": 3.72,
+        "52WeekLow": 3.38,
+        "50DayMA": 3.5192,
+        "200DayMA": 3.551,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.29,
+        "ForwardAnnualDividendYield": 0.0773,
+        "PayoutRatio": 0.6929,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-22",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2018-06-30": {
+                "reportDate": "2018-07-17",
+                "date": "2018-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 1.87,
+                "epsEstimate": 1.64,
+                "epsDifference": 0.23,
+                "surprisePercent": 14.0244
+            },
+            "2018-03-31": {
+                "reportDate": "2018-04-17",
+                "date": "2018-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 1.59,
+                "epsEstimate": 1.5,
+                "epsDifference": 0.09,
+                "surprisePercent": 6
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2018-06-30": {
+                "date": "2018-06-30",
+                "epsActual": 3.46
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

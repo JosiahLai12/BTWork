@@ -1,0 +1,151 @@
+{
+    "General": {
+        "Code": "6EQ",
+        "Type": "Common Stock",
+        "Name": "EQT AB",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "SE0012853455",
+        "LEI": "213800U7P9GOIRKCTB34",
+        "PrimaryTicker": "EQT.ST",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "Description": "EQT AB (publ) is a global private equity firm specializing in Private Capital & Real Asset segments. It owns portfolio companies and assets in Europe, Asia-Pacific and the Americas. EQT AB (publ) was founded in 1994 and is based in Stockholm, Sweden.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 1716,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 22248878080,
+        "MarketCapitalizationMln": 22248.8781,
+        "EBITDA": 868300032,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 5.046,
+        "DividendShare": 0.269,
+        "DividendYield": 0.0153,
+        "EarningsShare": -0.06,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": -0.0264,
+        "OperatingMarginTTM": 0.3189,
+        "ReturnOnAssetsTTM": 0.0468,
+        "ReturnOnEquityTTM": -0.0101,
+        "RevenueTTM": 1770300032,
+        "RevenuePerShareTTM": 1.568,
+        "QuarterlyRevenueGrowthYOY": 0.372,
+        "GrossProfitTTM": 1006000000,
+        "DilutedEpsTTM": -0.06,
+        "QuarterlyEarningsGrowthYOY": -0.961
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 22616887296,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1183869952,
+        "SharesFloat": 445414042,
+        "PercentInsiders": 55.43599999999999,
+        "PercentInstitutions": 34.628,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.0769,
+        "52WeekHigh": 22.077,
+        "52WeekLow": 15.1078,
+        "50DayMA": 18.9993,
+        "200DayMA": 19.884,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.27,
+        "ForwardAnnualDividendYield": 0.0153,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": "2023-11-29",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2020,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2021,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "3": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "General": {
+        "Code": "BLRN",
+        "Type": "Common Stock",
+        "Name": "Bladeranger Ltd",
+        "Exchange": "TA",
+        "CurrencyCode": "ILA",
+        "CurrencyName": "Israeli Agora",
+        "CurrencySymbol": "ILA",
+        "CountryName": "Israel",
+        "CountryISO": "Il",
+        "OpenFigi": null,
+        "ISIN": "IL0011705139",
+        "LEI": null,
+        "PrimaryTicker": "BLRN.TA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "GicSector": "Information Technology",
+        "GicGroup": "Technology Hardware & Equipment",
+        "GicIndustry": "Technology Hardware, Storage & Peripherals",
+        "GicSubIndustry": "Technology Hardware, Storage & Peripherals",
+        "Description": "BladeRanger Ltd develops autonomous mobile robotic systems for cleaning and inspection of solar panels on rooftops and commercial solar power farms. It offers PLECO, an autonomous waterless solar panel cleaning robot; and DeepSolar, a software that analysis and monitor for utility scale solar sites. The company was incorporated in 2015 and is based in Ramat Gan, Israel.",
+        "Address": "1 Hayasmin street, Ramat Gan, Israel",
+        "AddressData": {
+            "Street": "1 Hayasmin street",
+            "City": "Ramat Gan",
+            "Country": "Israel"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Assaf  Friedler",
+                "Title": "Co-Founder, CBO & Director",
+                "YearBorn": "1971"
+            },
+            "1": {
+                "Name": "Mr. Shimshon  Wiesel",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1966"
+            },
+            "2": {
+                "Name": "Mr. Oded  Fruchtman",
+                "Title": "Chief Exec. Officer",
+                "YearBorn": "NA"
+            },
+            "3": {
+                "Name": "Mr. Omri  Dagan",
+                "Title": "Head of Operations",
+                "YearBorn": "NA"
+            },
+            "4": {
+                "Name": "Mr. Ehud  Epstein",
+                "Title": "Chief Scientist",
+                "YearBorn": "NA"
+            },
+            "5": {
+                "Name": "Tamir  Friedman",
+                "Title": "Head of R&D",
+                "YearBorn": "NA"
+            },
+            "6": {
+                "Name": "Guy  Globermann",
+                "Title": "Head of Deep Solar",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "972 3 679 2121",
+        "WebURL": "https://www.bladeranger.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 22,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 28605852,
+        "MarketCapitalizationMln": 28.6059,
+        "EBITDA": -11638000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.938,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -1.04,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.425,
+        "ReturnOnEquityTTM": -0.9316,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": -13000,
+        "DilutedEpsTTM": -1.04,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 22443084,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 7837220,
+        "SharesFloat": 2490352,
+        "PercentInsiders": 63.12,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.3671,
+        "52WeekHigh": 879.9,
+        "52WeekLow": 282,
+        "50DayMA": 390.742,
+        "200DayMA": 451.44,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-31",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

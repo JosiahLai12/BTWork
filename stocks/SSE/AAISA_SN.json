@@ -1,0 +1,147 @@
+{
+    "General": {
+        "Code": "AAISA",
+        "Type": "Common Stock",
+        "Name": "Administradora Americana de Inversiones S.A.",
+        "Exchange": "SN",
+        "CurrencyCode": "CLP",
+        "CurrencyName": "Chilean Peso",
+        "CurrencySymbol": "\u20b1",
+        "CountryName": "Chile",
+        "CountryISO": "CL",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "Description": "Administradora Americana de Inversiones S.A. operates independently of Administradora de Fondos de Pensiones Capital S.A. as of December 1, 2021.",
+        "Address": "Apoquindo N\u00b0 6750, Santiago, Chile",
+        "AddressData": {
+            "Street": "Apoquindo N\u00b0 6750",
+            "City": "Santiago",
+            "Country": "Chile"
+        },
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 217979994112,
+        "MarketCapitalizationMln": 217979.9941,
+        "EBITDA": 33871593472,
+        "PERatio": 10.8125,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 254.869,
+        "DividendShare": 10,
+        "DividendYield": 0.0459,
+        "EarningsShare": 20.16,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.38,
+        "OperatingMarginTTM": 0.3653,
+        "ReturnOnAssetsTTM": 0.0663,
+        "ReturnOnEquityTTM": 0.1303,
+        "RevenueTTM": 87989764096,
+        "RevenuePerShareTTM": 87.99,
+        "QuarterlyRevenueGrowthYOY": 0.876,
+        "GrossProfitTTM": 66939529000,
+        "DilutedEpsTTM": 20.16,
+        "QuarterlyEarningsGrowthYOY": 5.901
+    },
+    "Valuation": {
+        "TrailingPE": 10.8125,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0.9226,
+        "PriceBookMRQ": 0.4986,
+        "EnterpriseValue": 154393034752,
+        "EnterpriseValueRevenue": 0.9908,
+        "EnterpriseValueEbitda": 1.846
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1000000000,
+        "SharesFloat": 159050000,
+        "PercentInsiders": 86.766,
+        "PercentInstitutions": 7.89,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 250,
+        "52WeekLow": 117.9102,
+        "50DayMA": 210.239,
+        "200DayMA": 174.2757,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 10,
+        "ForwardAnnualDividendYield": 0.0459,
+        "PayoutRatio": 0.6695,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-05-02",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

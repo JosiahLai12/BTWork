@@ -1,0 +1,155 @@
+{
+    "General": {
+        "Code": "DIMAND",
+        "Type": "Common Stock",
+        "Name": "Dimand S.A.",
+        "Exchange": "AT",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Greece",
+        "CountryISO": "GR",
+        "OpenFigi": null,
+        "ISIN": "GRS525003000",
+        "LEI": null,
+        "PrimaryTicker": "DIMAND.AT",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Real Estate",
+        "Industry": "Real Estate-Development",
+        "GicSector": "Real Estate",
+        "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+        "GicIndustry": "Real Estate Management & Development",
+        "GicSubIndustry": "Real Estate Development",
+        "Description": "Dimand S.A. develops and sells real estate properties in Greece. It develops offices, residences, hotels, tourist complexes, warehouses/logistics centers, and mixed-use urban regeneration projects. The company also provides project and construction management, retail expansion management, technical advisory, and facility management services. Dimand S.A. was founded in 2002 and is based in Maroussi, Greece.",
+        "Address": "115 Neratziotissis Street, Maroussi, Greece, 151 24",
+        "AddressData": {
+            "Street": "115 Neratziotissis Street",
+            "City": "Maroussi",
+            "Country": "Greece",
+            "ZIP": "151 24"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Dimitris  Andriopoulos",
+                "Title": "Chairman and Managing Director",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Nikos  Dimtsas",
+                "Title": "Chief Financial & Admin. Officer",
+                "YearBorn": "NA"
+            },
+            "2": {
+                "Name": "Mr. Panos  Panayiotides",
+                "Title": "Chief Operating Officer and Gen. Mang.",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "30 210 87 74 200",
+        "WebURL": "https://www.dimand.gr",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 226031632,
+        "MarketCapitalizationMln": 226.0316,
+        "EBITDA": -3696683,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 6.554,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.51,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": -0.7349,
+        "OperatingMarginTTM": -0.3562,
+        "ReturnOnAssetsTTM": -0.0158,
+        "ReturnOnEquityTTM": -0.0975,
+        "RevenueTTM": 10621314,
+        "RevenuePerShareTTM": 0.69,
+        "QuarterlyRevenueGrowthYOY": 0.51,
+        "GrossProfitTTM": 10600000,
+        "DilutedEpsTTM": -0.51,
+        "QuarterlyEarningsGrowthYOY": -0.987
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 38.1032,
+        "PriceBookMRQ": 6.9292,
+        "EnterpriseValue": 265535888,
+        "EnterpriseValueRevenue": 43.8657,
+        "EnterpriseValueEbitda": 30.3362
+    },
+    "SharesStats": {
+        "SharesOutstanding": 18680300,
+        "SharesFloat": 6724348,
+        "PercentInsiders": 62.364,
+        "PercentInstitutions": 1.696,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 15,
+        "52WeekLow": 11,
+        "50DayMA": 12.664,
+        "200DayMA": 13.0328,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

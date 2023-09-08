@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "04I",
+        "Type": "Common Stock",
+        "Name": "INVIVO THERAPEU.DL-00001",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US46186M6057",
+        "LEI": null,
+        "PrimaryTicker": "NVIV.US",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Healthcare",
+        "Industry": "Biotechnology",
+        "GicSector": "Health Care",
+        "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "GicIndustry": "Biotechnology",
+        "GicSubIndustry": "Biotechnology",
+        "Description": "InVivo Therapeutics Holdings Corp. operates as a research and clinical-stage biomaterials and biotechnology company in the United States. The company engages in developing and commercializing biopolymer scaffolding devices for the treatment of spinal cord injuries (SCI). It is developing a Neuro-Spinal Scaffold implant comprise of biocompatible and bioresorbable polymers, which includes Poly lactic-co-glycolic acid, a polymer which is widely used in resorbable sutures and provides the biocompatible support for Neuro-Spinal Scaffold implant; and Poly-L-Lysine, a positively charged polymer used to coat surfaces to promote cellular attachment. The company was incorporated in 2003 and is headquartered in Cambridge, Massachusetts.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 6,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 3461878,
+        "MarketCapitalizationMln": 3.4619,
+        "EBITDA": -9765000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 3.728,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -4.14,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.4178,
+        "ReturnOnEquityTTM": -0.7696,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -4.14,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -6661805,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 3105450,
+        "SharesFloat": 2767418,
+        "PercentInsiders": 10.738,
+        "PercentInstitutions": 3.749,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.8095,
+        "52WeekHigh": 6.3,
+        "52WeekLow": 0.8,
+        "50DayMA": 1.1361,
+        "200DayMA": 1.4947,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": "1:25",
+        "LastSplitDate": "2022-04-27",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-09",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "General": {
+        "Code": "301301",
+        "Type": "Common Stock",
+        "Name": "Yili Chuanning Biotechnology Co. Ltd. A",
+        "Exchange": "SHE",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Healthcare",
+        "Industry": "Biotechnology",
+        "GicSector": "Health Care",
+        "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "GicIndustry": "Biotechnology",
+        "GicSubIndustry": "Biotechnology",
+        "Description": "Yili Chuannig Biotechnology Co., Ltd. engages in the research and development, and industrialization of pharmaceutical intermediates in China. It offers antibiotic intermediates, such as thiocyanate erythromycin acid, 7-aminocephalosporanic acid, deacetyl-7-aminocephalosporanic acid, 7-aminodeacetoxycephalosporanic acid, 6-aminopenicillanic acid, penicillium G, potassium salt, etc.; and biomedicine fermentation products, including ursodeoxycholic acid. The company was founded in 2010 and is based in Yining, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 2779,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 20294162432,
+        "MarketCapitalizationMln": 20294.1624,
+        "EBITDA": 1393090816,
+        "PERatio": 33.8148,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 11.2,
+        "BookValue": 2.877,
+        "DividendShare": 0.093,
+        "DividendYield": 0.0104,
+        "EarningsShare": 0.27,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1329,
+        "OperatingMarginTTM": 0.1982,
+        "ReturnOnAssetsTTM": 0.0494,
+        "ReturnOnEquityTTM": 0.0871,
+        "RevenueTTM": 4253993984,
+        "RevenuePerShareTTM": 2.068,
+        "QuarterlyRevenueGrowthYOY": 0.163,
+        "GrossProfitTTM": 921114113,
+        "DilutedEpsTTM": 0.27,
+        "QuarterlyEarningsGrowthYOY": 0.424
+    },
+    "Valuation": {
+        "TrailingPE": 33.8148,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 20961077248,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 2222799872,
+        "SharesFloat": 330663728,
+        "PercentInsiders": 89.693,
+        "PercentInstitutions": 0.8380000000000001,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 12.1617,
+        "52WeekLow": 8.3588,
+        "50DayMA": 8.8798,
+        "200DayMA": 9.1881,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.09,
+        "ForwardAnnualDividendYield": 0.0104,
+        "PayoutRatio": 0.4399,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-29",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-21",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.0969,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-24",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.0789,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2023-03-12",
+                "date": "2022-12-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.0356,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.1758
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.0356
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

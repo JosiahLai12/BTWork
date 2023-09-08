@@ -1,0 +1,174 @@
+{
+    "General": {
+        "Code": "688252",
+        "Type": "Common Stock",
+        "Name": "Jadard Technology Inc. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "GicSector": "Information Technology",
+        "GicGroup": "Semiconductors & Semiconductor Equipment",
+        "GicIndustry": "Semiconductors & Semiconductor Equipment",
+        "GicSubIndustry": "Semiconductors",
+        "Description": "Jadard Technology Inc. manufactures and sells mobile terminal ICs, electronic price tag solutions, and IOT equipment ICs. The company was founded in 2010 and is headquartered in Shenzhen, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 188,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 7681414656,
+        "MarketCapitalizationMln": 7681.4147,
+        "EBITDA": 21012340,
+        "PERatio": 313,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 4.579,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.06,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0297,
+        "OperatingMarginTTM": -0.0156,
+        "ReturnOnAssetsTTM": -0.006,
+        "ReturnOnEquityTTM": 0.0215,
+        "RevenueTTM": 1051823104,
+        "RevenuePerShareTTM": 2.621,
+        "QuarterlyRevenueGrowthYOY": -0.259,
+        "GrossProfitTTM": 130283633,
+        "DilutedEpsTTM": 0.06,
+        "QuarterlyEarningsGrowthYOY": -0.694
+    },
+    "Valuation": {
+        "TrailingPE": 313,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 5.3472,
+        "PriceBookMRQ": 4.1255,
+        "EnterpriseValue": 6255459840,
+        "EnterpriseValueRevenue": 4.8882,
+        "EnterpriseValueEbitda": 23.4169
+    },
+    "SharesStats": {
+        "SharesOutstanding": 409020992,
+        "SharesFloat": 99559885,
+        "PercentInsiders": 78.836,
+        "PercentInstitutions": 7.734000000000001,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 29.49,
+        "52WeekLow": 16.13,
+        "50DayMA": 18.946,
+        "200DayMA": 20.0445,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-03-31": {
+                "reportDate": "2023-04-26",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.026,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2023-03-30",
+                "date": "2022-12-31",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": -0.0658,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-09-30": {
+                "reportDate": "2022-09-30",
+                "date": "2022-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0278,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "epsActual": 0.026
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": -0.038
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

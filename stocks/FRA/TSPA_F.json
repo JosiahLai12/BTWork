@@ -1,0 +1,872 @@
+{
+    "General": {
+        "Code": "TSPA",
+        "Type": "Common Stock",
+        "Name": "TELEFONICA BRASIL ADR 1",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US87936R2058",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "GicSector": "Communication Services",
+        "GicGroup": "Telecommunication Services",
+        "GicIndustry": "Diversified Telecommunication Services",
+        "GicSubIndustry": "Integrated Telecommunication Services",
+        "Description": "Telef\u00f4nica Brasil S.A., together with its subsidiaries, operates as a mobile telecommunications company in Brazil. Its fixed line services portfolio includes local, domestic long-distance, and international long-distance calls; and mobile portfolio comprises voice and broadband internet access through 3G, 4G, 4.5G, and 5G, as well as mobile value-added and wireless roaming services. The company also offers data services, including broadband and mobile data services. In addition, it provides pay TV services through IPTV technologies; network services, such as rental of facilities; other services comprising internet access, private network connectivity, computer equipment leasing, extended service, caller identification, voice mail, cellular blocker, and others; wholesale services, including interconnection services to users of other network providers; and digital services, such as entertainment, cloud, and security and financial services. Further, the company offers multimedia communication services, which include audio, data, voice and other sounds, images, texts, and other information, as well as sells devices, such as smartphones, broadband USB modems, and other devices. Additionally, it provides telecommunications solutions and IT support to various industries, such as retail, manufacturing, services, financial institutions, government, etc. It markets and sells its solutions through own stores, dealers, retail and distribution channels, door-to-door sales, and outbound tele sales. The company was formerly known as Telecomunica\u00e7\u00f5es de S\u00e3o Paulo S.A. - TELESP and changed its name to Telef\u00f4nica Brasil S.A. in October 2011. The company was incorporated in 1998 and is headquartered in S\u00e3o Paulo, Brazil.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 12847028224,
+        "MarketCapitalizationMln": 12847.0282,
+        "EBITDA": 15107942400,
+        "PERatio": 15,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 10.12,
+        "BookValue": 41.399,
+        "DividendShare": 1.902,
+        "DividendYield": 0.0257,
+        "EarningsShare": 0.51,
+        "EPSEstimateCurrentYear": 0.46,
+        "EPSEstimateNextYear": 0.54,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0.14,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0899,
+        "OperatingMarginTTM": 0.1465,
+        "ReturnOnAssetsTTM": 0.0384,
+        "ReturnOnEquityTTM": 0.0661,
+        "RevenueTTM": 50311852032,
+        "RevenuePerShareTTM": 30.229,
+        "QuarterlyRevenueGrowthYOY": 0.076,
+        "GrossProfitTTM": 22515040000,
+        "DilutedEpsTTM": 0.51,
+        "QuarterlyEarningsGrowthYOY": 0.483
+    },
+    "Valuation": {
+        "TrailingPE": 15,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 26206087168,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1658279936,
+        "SharesFloat": 414005419,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 6.686,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.0278,
+        "52WeekHigh": 8.2639,
+        "52WeekLow": 5.7918,
+        "50DayMA": 7.885,
+        "200DayMA": 7.303,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.21,
+        "ForwardAnnualDividendYield": 0.0257,
+        "PayoutRatio": 0.4339,
+        "DividendDate": null,
+        "ExDividendDate": "2023-09-01",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2020,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2021,
+                "Count": 7
+            },
+            "2": {
+                "Year": 2022,
+                "Count": 6
+            },
+            "3": {
+                "Year": 2023,
+                "Count": 7
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1255,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0901,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1261,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-09-30": {
+                "reportDate": "2022-09-30",
+                "date": "2022-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.16,
+                "epsEstimate": 0.14,
+                "epsDifference": 0.02,
+                "surprisePercent": 14.2857
+            },
+            "2022-06-30": {
+                "reportDate": "2022-06-30",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0869,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-03-31": {
+                "reportDate": "2022-03-31",
+                "date": "2022-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.09,
+                "epsEstimate": 0.14,
+                "epsDifference": -0.05,
+                "surprisePercent": -35.7143
+            },
+            "2021-12-31": {
+                "reportDate": "2021-12-31",
+                "date": "2021-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.28,
+                "epsEstimate": 0.17,
+                "epsDifference": 0.11,
+                "surprisePercent": 64.7059
+            },
+            "2021-09-30": {
+                "reportDate": "2021-09-30",
+                "date": "2021-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.15,
+                "epsEstimate": 0.15,
+                "epsDifference": 0,
+                "surprisePercent": 0
+            },
+            "2021-06-30": {
+                "reportDate": "2021-06-30",
+                "date": "2021-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.125,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2021-03-31": {
+                "reportDate": "2021-03-31",
+                "date": "2021-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0846,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2020-12-31": {
+                "reportDate": "2020-12-31",
+                "date": "2020-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.119,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2020-09-30": {
+                "reportDate": "2020-09-30",
+                "date": "2020-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1142,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2020-06-30": {
+                "reportDate": "2020-06-30",
+                "date": "2020-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1112,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2020-03-31": {
+                "reportDate": "2020-03-31",
+                "date": "2020-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1389,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2019-12-31": {
+                "reportDate": "2019-12-31",
+                "date": "2019-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1656,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2019-09-30": {
+                "reportDate": "2019-09-30",
+                "date": "2019-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1295,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2019-06-30": {
+                "reportDate": "2019-06-30",
+                "date": "2019-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1908,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2019-03-31": {
+                "reportDate": "2019-03-31",
+                "date": "2019-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1858,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2018-12-31": {
+                "reportDate": "2018-12-31",
+                "date": "2018-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2026,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2018-09-30": {
+                "reportDate": "2018-09-30",
+                "date": "2018-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.4095,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2018-06-30": {
+                "reportDate": "2018-06-30",
+                "date": "2018-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.4364,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2018-03-31": {
+                "reportDate": "2018-03-31",
+                "date": "2018-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.163,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2017-12-31": {
+                "reportDate": "2017-12-31",
+                "date": "2017-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2349,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2017-09-30": {
+                "reportDate": "2017-09-30",
+                "date": "2017-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1949,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2017-06-30": {
+                "reportDate": "2017-06-30",
+                "date": "2017-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.146,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2017-03-31": {
+                "reportDate": "2017-03-31",
+                "date": "2017-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1761,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2016-12-31": {
+                "reportDate": "2016-12-31",
+                "date": "2016-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2024,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2016-09-30": {
+                "reportDate": "2016-09-30",
+                "date": "2016-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1557,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2016-06-30": {
+                "reportDate": "2016-06-30",
+                "date": "2016-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1045,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2016-03-31": {
+                "reportDate": "2016-03-31",
+                "date": "2016-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1677,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2015-12-31": {
+                "reportDate": "2015-12-31",
+                "date": "2015-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1526,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2015-09-30": {
+                "reportDate": "2015-09-30",
+                "date": "2015-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1332,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2015-06-30": {
+                "reportDate": "2015-06-30",
+                "date": "2015-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1758,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2015-03-31": {
+                "reportDate": "2015-03-31",
+                "date": "2015-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1581,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2014-12-31": {
+                "reportDate": "2014-12-31",
+                "date": "2014-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.349,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2014-09-30": {
+                "reportDate": "2014-09-30",
+                "date": "2014-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2985,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2014-06-30": {
+                "reportDate": "2014-06-30",
+                "date": "2014-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.5734,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2014-03-31": {
+                "reportDate": "2014-03-31",
+                "date": "2014-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1796,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2013-12-31": {
+                "reportDate": "2013-12-31",
+                "date": "2013-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3497,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2013-09-30": {
+                "reportDate": "2013-09-30",
+                "date": "2013-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2208,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2013-06-30": {
+                "reportDate": "2013-06-30",
+                "date": "2013-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.298,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2013-03-31": {
+                "reportDate": "2013-03-31",
+                "date": "2013-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2705,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2012-12-31": {
+                "reportDate": "2012-12-31",
+                "date": "2012-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.4862,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2012-09-30": {
+                "reportDate": "2012-09-30",
+                "date": "2012-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3246,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2012-06-30": {
+                "reportDate": "2012-06-30",
+                "date": "2012-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3795,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2012-03-31": {
+                "reportDate": "2012-03-31",
+                "date": "2012-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3636,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2011-12-31": {
+                "reportDate": "2011-12-31",
+                "date": "2011-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.6424,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2011-09-30": {
+                "reportDate": "2011-09-30",
+                "date": "2011-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.6611,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2011-06-30": {
+                "reportDate": "2011-06-30",
+                "date": "2011-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.6784,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2011-03-31": {
+                "reportDate": "2011-03-31",
+                "date": "2011-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3585,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2010-12-31": {
+                "reportDate": "2010-12-31",
+                "date": "2010-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.4847,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2010-09-30": {
+                "reportDate": "2010-09-30",
+                "date": "2010-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.5597,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2010-06-30": {
+                "reportDate": "2010-06-30",
+                "date": "2010-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.5972,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2010-03-31": {
+                "reportDate": "2010-03-31",
+                "date": "2010-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3161,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2009-12-31": {
+                "reportDate": "2009-12-31",
+                "date": "2009-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.4145,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2009-09-30": {
+                "reportDate": "2009-09-30",
+                "date": "2009-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.4393,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2009-06-30": {
+                "reportDate": "2009-06-30",
+                "date": "2009-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3769,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2009-03-31": {
+                "reportDate": "2009-03-31",
+                "date": "2009-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3128,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {
+            "2023-12-31": {
+                "date": "2023-12-31",
+                "period": "+1y",
+                "growth": "0.1740",
+                "earningsEstimateAvg": "0.5400",
+                "earningsEstimateLow": "0.4900",
+                "earningsEstimateHigh": "0.5900",
+                "earningsEstimateYearAgoEps": "0.4600",
+                "earningsEstimateNumberOfAnalysts": "5.0000",
+                "earningsEstimateGrowth": "0.1740",
+                "revenueEstimateAvg": "9639870000.00",
+                "revenueEstimateLow": "9018320000.00",
+                "revenueEstimateHigh": "9993240000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "5.00",
+                "revenueEstimateGrowth": "0.0480",
+                "epsTrendCurrent": "0.5400",
+                "epsTrend7daysAgo": "0.5600",
+                "epsTrend30daysAgo": "0.6100",
+                "epsTrend60daysAgo": "0.6900",
+                "epsTrend90daysAgo": "0.6900",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "1.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "1.0000"
+            },
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "period": "+1q",
+                "growth": "-0.6070",
+                "earningsEstimateAvg": "0.1100",
+                "earningsEstimateLow": "0.1100",
+                "earningsEstimateHigh": "0.1100",
+                "earningsEstimateYearAgoEps": "0.2800",
+                "earningsEstimateNumberOfAnalysts": "2.0000",
+                "earningsEstimateGrowth": "-0.6070",
+                "revenueEstimateAvg": "2362610000.00",
+                "revenueEstimateLow": "2339380000.00",
+                "revenueEstimateHigh": "2385840000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "2.00",
+                "revenueEstimateGrowth": "0.0740",
+                "epsTrendCurrent": "0.1100",
+                "epsTrend7daysAgo": "0.1100",
+                "epsTrend30daysAgo": "0.1300",
+                "epsTrend60daysAgo": "0.1300",
+                "epsTrend90daysAgo": "0.1300",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "1.0000"
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "period": "0y",
+                "growth": "-0.3240",
+                "earningsEstimateAvg": "0.4600",
+                "earningsEstimateLow": "0.4300",
+                "earningsEstimateHigh": "0.4800",
+                "earningsEstimateYearAgoEps": "0.6800",
+                "earningsEstimateNumberOfAnalysts": "5.0000",
+                "earningsEstimateGrowth": "-0.3240",
+                "revenueEstimateAvg": "9194210000.00",
+                "revenueEstimateLow": "8981660000.00",
+                "revenueEstimateHigh": "9292510000.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "4.00",
+                "revenueEstimateGrowth": "0.1270",
+                "epsTrendCurrent": "0.4600",
+                "epsTrend7daysAgo": "0.4400",
+                "epsTrend30daysAgo": "0.4500",
+                "epsTrend60daysAgo": "0.5300",
+                "epsTrend90daysAgo": "0.5300",
+                "epsRevisionsUpLast7days": "2.0000",
+                "epsRevisionsUpLast30days": "4.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            }
+        },
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.2156
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.463
+            },
+            "2021-12-31": {
+                "date": "2021-12-31",
+                "epsActual": 0.6396
+            },
+            "2020-12-31": {
+                "date": "2020-12-31",
+                "epsActual": 0.4833
+            },
+            "2019-12-31": {
+                "date": "2019-12-31",
+                "epsActual": 0.6717
+            },
+            "2018-12-31": {
+                "date": "2018-12-31",
+                "epsActual": 1.2115
+            },
+            "2017-12-31": {
+                "date": "2017-12-31",
+                "epsActual": 0.7519
+            },
+            "2016-12-31": {
+                "date": "2016-12-31",
+                "epsActual": 0.6303
+            },
+            "2015-12-31": {
+                "date": "2015-12-31",
+                "epsActual": 0.6197
+            },
+            "2014-12-31": {
+                "date": "2014-12-31",
+                "epsActual": 1.4005
+            },
+            "2013-12-31": {
+                "date": "2013-12-31",
+                "epsActual": 1.139
+            },
+            "2012-12-31": {
+                "date": "2012-12-31",
+                "epsActual": 1.5539
+            },
+            "2011-12-31": {
+                "date": "2011-12-31",
+                "epsActual": 2.3404
+            },
+            "2010-12-31": {
+                "date": "2010-12-31",
+                "epsActual": 1.9577
+            },
+            "2009-12-31": {
+                "date": "2009-12-31",
+                "epsActual": 1.5435
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

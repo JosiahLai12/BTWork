@@ -1,0 +1,187 @@
+{
+    "General": {
+        "Code": "PPHPR",
+        "Type": "Common Stock",
+        "Name": "PHP Ventures Acquisition Corp. Rights",
+        "Exchange": "NASDAQ",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": "BBG011F50LT0",
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CUSIP": null,
+        "CIK": "1863460",
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": "2021-10-04",
+        "InternationalDomestic": null,
+        "Sector": "",
+        "Industry": "",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Diversified Metals & Mining",
+        "HomeCategory": null,
+        "IsDelisted": false,
+        "Description": "PHP Ventures Acquisition Corp. does not have significant operations. It intends to effect a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses. It intends to focus on consumer-facing companies in Africa. The company was incorporated in 2021 and is based in Subang Jaya, Malaysia.",
+        "Address": "Corporate Tower Subang Square, Subang Jaya, Malaysia, 47500",
+        "AddressData": {
+            "Street": "Corporate Tower Subang Square",
+            "City": "Subang Jaya",
+            "Country": "Malaysia",
+            "ZIP": "47500"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Marcus Choo Yeow Ngoh",
+                "Title": "CEO & Chairman",
+                "YearBorn": "1971"
+            },
+            "1": {
+                "Name": "Mr. Garry Richard Stein",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1946"
+            },
+            "2": {
+                "Name": "Ms. Vanitha Mani Thevaratnam",
+                "Title": "Chief Strategy Officer",
+                "YearBorn": "1973"
+            }
+        },
+        "Phone": "60 3 5888 8485",
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": -1.77,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 277874,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.3095,
+        "52WeekLow": 0.03,
+        "50DayMA": 0,
+        "200DayMA": 0,
+        "SharesShort": 89956,
+        "SharesShortPriorMonth": 89639,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": {
+        "Institutions": {},
+        "Funds": {}
+    },
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2021-06-30": {
+                "reportDate": "2021-09-30",
+                "date": "2021-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.0405,
+                "epsEstimate": 0,
+                "epsDifference": -0.0405,
+                "surprisePercent": null
+            },
+            "2021-03-31": {
+                "reportDate": "2021-06-30",
+                "date": "2021-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.0007,
+                "epsEstimate": 0,
+                "epsDifference": -0.0007,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2021-06-30": {
+                "date": "2021-06-30",
+                "epsActual": -0.0412
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

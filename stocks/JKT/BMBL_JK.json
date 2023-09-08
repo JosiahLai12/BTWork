@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "BMBL",
+        "Type": "Common Stock",
+        "Name": "PT Lavender Bina Cendikia Tbk",
+        "Exchange": "JK",
+        "CurrencyCode": "IDR",
+        "CurrencyName": "Indonesian Rupiah",
+        "CurrencySymbol": "Rp",
+        "CountryName": "Indonesia",
+        "CountryISO": "ID",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Defensive",
+        "Industry": "Education & Training Services",
+        "GicSector": "Consumer Discretionary",
+        "GicGroup": "Consumer Services",
+        "GicIndustry": "Diversified Consumer Services",
+        "GicSubIndustry": "Education Services",
+        "Description": "PT Lavender Bina Cendikia Tbk provides private tutoring education and counseling services. The company was founded in 2013 and is based in Depok, Indonesia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 13,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 30902220000,
+        "MarketCapitalizationMln": 30902.22,
+        "EBITDA": 952827456,
+        "PERatio": 3.3333,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 77.535,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0304,
+        "OperatingMarginTTM": 0.0425,
+        "ReturnOnAssetsTTM": 0.1182,
+        "ReturnOnEquityTTM": 0.238,
+        "RevenueTTM": 11000354816,
+        "RevenuePerShareTTM": 11.521,
+        "QuarterlyRevenueGrowthYOY": -0.325,
+        "GrossProfitTTM": 9045586789,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": -0.999
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 31909812224,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1030070016,
+        "SharesFloat": 279995200,
+        "PercentInsiders": 72.811,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 188,
+        "52WeekLow": 27,
+        "50DayMA": 39.16,
+        "200DayMA": 55.5658,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2024,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.699,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.9014
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

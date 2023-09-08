@@ -1,0 +1,158 @@
+{
+    "General": {
+        "Code": "TOMA",
+        "Type": "Common Stock",
+        "Name": "Toma as",
+        "Exchange": "PR",
+        "CurrencyCode": "CZK",
+        "CurrencyName": "Czech koruna",
+        "CurrencySymbol": "K\u010d",
+        "CountryName": "Czech Republic",
+        "CountryISO": "CZ",
+        "OpenFigi": null,
+        "ISIN": "CZ0005088559",
+        "LEI": null,
+        "PrimaryTicker": "TOMA.PR",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "GicSector": "Industrials",
+        "GicGroup": "Capital Goods",
+        "GicIndustry": "Industrial Conglomerates",
+        "GicSubIndustry": "Industrial Conglomerates",
+        "Description": "TOMA, a.s. engages in the electricity, air, water, steam, and gas distribution businesses in the Czech Republic. The company operates a wastewater treatment plant; produces drinking water; develops residential, commercial, and industrial buildings; and offers sewer cleaning, financial leasing, and hydro analytical laboratory services. It also sells non-residential building and land projects; and rents apartments, commercial and non-residential buildings, and land projects. In addition, the company offers railway siding services; communications management services; disposes hazardous liquid waste; and manages roads in the industrial area. The company was founded in 1991 and is based in Otrokovice, the Czech Republic.",
+        "Address": "tr. Tom\u00e1?e Bati 1566, Otrokovice, Czech Republic, 765 02",
+        "AddressData": {
+            "Street": "tr. Tom\u00e1\u0161e Bati 1566",
+            "City": "Otrokovice",
+            "Country": "Czech Republic",
+            "ZIP": "765 02"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Engineer Pavel  Ratiborsk\u00fd",
+                "Title": "Technical Director & Director",
+                "YearBorn": "1962"
+            }
+        },
+        "Phone": "420 5 7766 2001",
+        "WebURL": "https://www.tomaas.cz",
+        "LogoURL": "",
+        "FullTimeEmployees": 351,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 1851855360,
+        "MarketCapitalizationMln": 1851.8554,
+        "EBITDA": 180055008,
+        "PERatio": 21.6916,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 3255.53,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 64.08,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0.0579,
+        "OperatingMarginTTM": 0.0291,
+        "ReturnOnAssetsTTM": 0.0048,
+        "ReturnOnEquityTTM": 0.0191,
+        "RevenueTTM": 1474919936,
+        "RevenuePerShareTTM": 1107.076,
+        "QuarterlyRevenueGrowthYOY": 0.276,
+        "GrossProfitTTM": 181833000,
+        "DilutedEpsTTM": 64.08,
+        "QuarterlyEarningsGrowthYOY": -0.8
+    },
+    "Valuation": {
+        "TrailingPE": 21.6916,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 1.7151,
+        "PriceBookMRQ": 0.3906,
+        "EnterpriseValue": 2152357632,
+        "EnterpriseValueRevenue": 1.3748,
+        "EnterpriseValueEbitda": 5.063
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1332270,
+        "SharesFloat": 0,
+        "PercentInsiders": 77.56,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.0102,
+        "52WeekHigh": 1390,
+        "52WeekLow": 1290,
+        "50DayMA": 1337.8,
+        "200DayMA": 1327.4,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 28,
+        "ForwardAnnualDividendYield": 0.0212,
+        "PayoutRatio": 0.437,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2022-06-28",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2020,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "2": {
+                "Year": 2022,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

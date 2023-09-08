@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "ELIT",
+        "Type": "Common Stock",
+        "Name": "PT Data Sinergitama Jaya Tbk",
+        "Exchange": "JK",
+        "CurrencyCode": "IDR",
+        "CurrencyName": "Indonesian Rupiah",
+        "CurrencySymbol": "Rp",
+        "CountryName": "Indonesia",
+        "CountryISO": "ID",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "IT Services",
+        "GicSubIndustry": "IT Consulting & Other Services",
+        "Description": "PT Data Sinergitama Jaya Tbk provides IT infrastructure and managed services. The company's services include managed cloud, managed network, collocation, backup as a service, infrastructure as a service, and disaster recovery as a service. It serves the financial, retail, oil and gas, FMCG, and ecommerce sectors. The company was founded in 2011 and is headquartered in Jakarta, Indonesia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 75,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 203149000704,
+        "MarketCapitalizationMln": 203149.0007,
+        "EBITDA": 14545860608,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 54.221,
+        "DividendShare": 3.5,
+        "DividendYield": 0.0579,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0496,
+        "OperatingMarginTTM": 0.0414,
+        "ReturnOnAssetsTTM": 0.0644,
+        "ReturnOnEquityTTM": 0.2598,
+        "RevenueTTM": 252770926592,
+        "RevenuePerShareTTM": 242.477,
+        "QuarterlyRevenueGrowthYOY": 0.911,
+        "GrossProfitTTM": 46979311717,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": -0.662
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 249113411584,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 2031490048,
+        "SharesFloat": 268680441,
+        "PercentInsiders": 86.622,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 323.8888,
+        "52WeekLow": 89,
+        "50DayMA": 123.56,
+        "200DayMA": 172.4581,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 7,
+        "ForwardAnnualDividendYield": 0.0579,
+        "PayoutRatio": 0.3762,
+        "DividendDate": null,
+        "ExDividendDate": "2023-06-06",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 1.6126,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 7.69,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 9.3026
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

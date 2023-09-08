@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "PDPP",
+        "Type": "Common Stock",
+        "Name": "PT Primadaya Plastisindo Tbk",
+        "Exchange": "JK",
+        "CurrencyCode": "IDR",
+        "CurrencyName": "Indonesian Rupiah",
+        "CurrencySymbol": "Rp",
+        "CountryName": "Indonesia",
+        "CountryISO": "ID",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Cyclical",
+        "Industry": "Packaging & Containers",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Containers & Packaging",
+        "GicSubIndustry": "Paper & Plastic Packaging Products & Materials",
+        "Description": "PT Primadaya Plastisindo Tbk manufactures and sells plastic packaging products. It offers PC jugs, PET preforms, PET blow bottles, PP straws, HDPE jug caps/cap-shields, HDPE jerrycans, PP bottles caps, and jug and hand sanitizer tissues. The company was founded in 2005 and is headquartered in Tangerang, Indonesia.",
+        "Address": "Jl. Raya Ps. Kemis No. 84, Tangerang, Indonesia, 15560",
+        "AddressData": {
+            "Street": "Jl. Raya Ps. Kemis No. 84",
+            "City": "Tangerang",
+            "Country": "Indonesia",
+            "ZIP": "15560"
+        },
+        "Listings": {},
+        "Officers": {},
+        "Phone": "62 21 590 4086",
+        "WebURL": "https://pt-pdp.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 89,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 740000000000,
+        "MarketCapitalizationMln": 740000,
+        "EBITDA": 48025313280,
+        "PERatio": 29.6126,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 145.567,
+        "DividendShare": 2.69,
+        "DividendYield": 0.0183,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-03-31",
+        "ProfitMargin": 0.0603,
+        "OperatingMarginTTM": 0.0842,
+        "ReturnOnAssetsTTM": 0.0498,
+        "ReturnOnEquityTTM": 0.0689,
+        "RevenueTTM": 369031970816,
+        "RevenuePerShareTTM": 175.558,
+        "QuarterlyRevenueGrowthYOY": 0.38,
+        "GrossProfitTTM": 58539591409,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0.111
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 1.5988,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 799858229248,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 2500000000,
+        "SharesFloat": 375000000,
+        "PercentInsiders": 85,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 350,
+        "52WeekLow": 186.2317,
+        "50DayMA": 294.52,
+        "200DayMA": 247.5279,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 5.38,
+        "ForwardAnnualDividendYield": 0.0183,
+        "PayoutRatio": 1.1443,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-06-16",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 2.3508,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "epsActual": 2.3508
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

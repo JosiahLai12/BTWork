@@ -1,0 +1,161 @@
+{
+    "General": {
+        "Code": "GRD",
+        "Type": "Common Stock",
+        "Name": "Grounded Lithium Corp.",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Other Industrial Metals & Mining",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Diversified Metals & Mining",
+        "Description": "Grounded Lithium Corp. engages in the exploration and development of lithium brine in Canada. The company is headquartered in Calgary, Canada.",
+        "Address": "112 ? 4th Avenue S.W., Calgary, AB, Canada, T2P 0H3",
+        "AddressData": {
+            "Street": "112 \u2013 4th Avenue S.W.",
+            "City": "Calgary",
+            "State": "AB",
+            "Country": "Canada",
+            "ZIP": "T2P 0H3"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Gregg  Smith",
+                "Title": "Pres, CEO & Director",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Greg G. Phaneuf CA, CFA",
+                "Title": "VP Fin., CFO & Director",
+                "YearBorn": "1970"
+            },
+            "2": {
+                "Name": "Mr. Dale  Shipman P. Eng, P.Eng.",
+                "Title": "VP of Operations",
+                "YearBorn": "NA"
+            },
+            "3": {
+                "Name": "Mr. Geoff  Speers B.Sc., P.Geo.",
+                "Title": "VP of Exploration",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": "https://www.groundedlithium.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 9055332,
+        "MarketCapitalizationMln": 9.0553,
+        "EBITDA": -5966485,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 1.75,
+        "BookValue": 0.034,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.11,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": -199.6695,
+        "ReturnOnAssetsTTM": -1.118,
+        "ReturnOnEquityTTM": -2.8732,
+        "RevenueTTM": 30248,
+        "RevenuePerShareTTM": 0.001,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 19249,
+        "DilutedEpsTTM": -0.11,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 10569822,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 69656400,
+        "SharesFloat": 85052671,
+        "PercentInsiders": 8.251999999999999,
+        "PercentInstitutions": 0.043,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.5,
+        "52WeekLow": 0.11,
+        "50DayMA": 0.154,
+        "200DayMA": 0.272,
+        "SharesShort": 60678,
+        "SharesShortPriorMonth": 102588,
+        "ShortRatio": 0.48,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "2020-10-28",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "1:10",
+        "LastSplitDate": "2020-10-28",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

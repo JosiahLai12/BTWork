@@ -1,0 +1,156 @@
+{
+    "General": {
+        "Code": "TRBC",
+        "Type": "Common Stock",
+        "Name": "Tribeca Resources Corporation",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Copper",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Copper",
+        "Description": "Tribeca Resources Corporation operates as a copper exploration company that focuses on discovering and developing assets in the Coastal IOCG Belt of northern Chile. It holds a 100% interest in the La Higuera Iron Oxide Copper-Gold (IOCG) project consisting of 41 mineral exploitation and two exploration concession covering an area of 4,174 hectares located in Chile. Tribeca Resources Corporation is headquartered in Vancouver, Canada.",
+        "Address": "1090 West Georgia Street, Vancouver, BC, Canada, V6E 3V7",
+        "AddressData": {
+            "Street": "1090 West Georgia Street",
+            "City": "Vancouver",
+            "State": "BC",
+            "Country": "Canada",
+            "ZIP": "V6E 3V7"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Dr. Paul  Gow Ph.D.",
+                "Title": "CEO & Director",
+                "YearBorn": "1968"
+            },
+            "1": {
+                "Name": "Mr. Thomas  Schmidt",
+                "Title": "Pres & Director",
+                "YearBorn": "1977"
+            },
+            "2": {
+                "Name": "Mr. Nick  DeMare CA, CPA",
+                "Title": "CFO, Corp. Sec. & Director",
+                "YearBorn": "1954"
+            }
+        },
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 23623270,
+        "MarketCapitalizationMln": 23.6233,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.03,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.01,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.5066,
+        "ReturnOnEquityTTM": -1.941,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.01,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 5.8853,
+        "EnterpriseValue": 16002295,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": -58.0014
+    },
+    "SharesStats": {
+        "SharesOutstanding": 62166500,
+        "SharesFloat": 27061500,
+        "PercentInsiders": 55.057,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.45,
+        "52WeekLow": 0.06,
+        "50DayMA": 0.3456,
+        "200DayMA": 0.3267,
+        "SharesShort": 103,
+        "SharesShortPriorMonth": 6,
+        "ShortRatio": 0.02,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "1:5",
+        "LastSplitDate": "2022-11-02",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

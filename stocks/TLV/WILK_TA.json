@@ -1,0 +1,164 @@
+{
+    "General": {
+        "Code": "WILK",
+        "Type": "Common Stock",
+        "Name": "Wilk Technologies Ltd",
+        "Exchange": "TA",
+        "CurrencyCode": "ILA",
+        "CurrencyName": "Israeli Agora",
+        "CurrencySymbol": "ILA",
+        "CountryName": "Israel",
+        "CountryISO": "Il",
+        "OpenFigi": null,
+        "ISIN": "IL0002780109",
+        "LEI": null,
+        "PrimaryTicker": "FNTS.TA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Defensive",
+        "Industry": "Farm Products",
+        "GicSector": "Consumer Staples",
+        "GicGroup": "Food, Beverage & Tobacco",
+        "GicIndustry": "Food Products",
+        "GicSubIndustry": "Agricultural Products & Services",
+        "Description": "Wilk Technologies Ltd does not have significant operations. Previously, it was engaged in gaming and cannabis businesses; and operation of gas stations. The company was formerly known as Fantasy Network Ltd. Wilk Technologies Ltd was incorporated in 1986 and is based in Rehovot, Israel.",
+        "Address": "Ben Avigdor 10, Tel Aviv, Israel",
+        "AddressData": {
+            "Street": "Ben Avigdor 10",
+            "City": "Tel Aviv",
+            "Country": "Israel"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Ms. Dana  Yaacov-Garbeli CPA",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1983"
+            },
+            "1": {
+                "Name": "Mr. Tomer  Eisen",
+                "Title": "Chief Exec. Officer",
+                "YearBorn": "1979"
+            },
+            "2": {
+                "Name": "Ms. Nurit Argov Argaman",
+                "Title": "CTO & Director",
+                "YearBorn": "1974"
+            },
+            "3": {
+                "Name": "Meirav  Beiman",
+                "Title": "Head of R&D",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 56971944,
+        "MarketCapitalizationMln": 56.9719,
+        "EBITDA": -12611000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.209,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -3.922,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.4047,
+        "ReturnOnEquityTTM": -1.1656,
+        "RevenueTTM": 102000,
+        "RevenuePerShareTTM": 0.005,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 102000,
+        "DilutedEpsTTM": -3.922,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 1167.5967,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 39344360,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 68640896,
+        "SharesFloat": 30028170,
+        "PercentInsiders": 31.613999999999997,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.5267,
+        "52WeekHigh": 184,
+        "52WeekLow": 79.9,
+        "50DayMA": 92.704,
+        "200DayMA": 108.038,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 1.38,
+        "ForwardAnnualDividendYield": 1.4699,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2014-11-13",
+        "LastSplitFactor": "1:20",
+        "LastSplitDate": "2016-10-30",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2014,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

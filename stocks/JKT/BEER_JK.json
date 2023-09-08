@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "BEER",
+        "Type": "Common Stock",
+        "Name": "PT Jobubu Jarum Minahasa Tbk",
+        "Exchange": "JK",
+        "CurrencyCode": "IDR",
+        "CurrencyName": "Indonesian Rupiah",
+        "CurrencySymbol": "Rp",
+        "CountryName": "Indonesia",
+        "CountryISO": "ID",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages-Wineries & Distilleries",
+        "GicSector": "Consumer Staples",
+        "GicGroup": "Food, Beverage & Tobacco",
+        "GicIndustry": "Beverages",
+        "GicSubIndustry": "Distillers & Vintners",
+        "Description": "PT Jobubu Jarum Minahasa TBK produces and sells alcoholic beverages in Indonesia. The company offers Cap Tikus 1978, Daebak Soju, and Daebak Spark products. It operates in distilled alcoholic beverage, wine fermented alcoholic beverage, and other agricultural products and malt fermented alcoholic beverage industry. The company was founded in 2018 and is based in Minahasa, Indonesia. PT Jobubu Jarum Minahasa TBK is a subsidiary of PT Maju Beverage Minahasa.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 68,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 1287999979520,
+        "MarketCapitalizationMln": 1287999.9795,
+        "EBITDA": 21489821696,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 57.593,
+        "DividendShare": 1.23,
+        "DividendYield": 0.0077,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3097,
+        "OperatingMarginTTM": 0.3938,
+        "ReturnOnAssetsTTM": 0.193,
+        "ReturnOnEquityTTM": 0.3341,
+        "RevenueTTM": 52532441088,
+        "RevenuePerShareTTM": 14.592,
+        "QuarterlyRevenueGrowthYOY": 0.06,
+        "GrossProfitTTM": 30103397680,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": -0.092
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 1243594883072,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 4000000000,
+        "SharesFloat": 800000000,
+        "PercentInsiders": 83.16,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 412.4475,
+        "52WeekLow": 227.145,
+        "50DayMA": 324.64,
+        "200DayMA": 331.6903,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 2.46,
+        "ForwardAnnualDividendYield": 0.0077,
+        "PayoutRatio": 0.5693,
+        "DividendDate": null,
+        "ExDividendDate": "2023-07-11",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 1.2918,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.8688,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 2.1606
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

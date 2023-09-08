@@ -1,0 +1,322 @@
+{
+    "General": {
+        "Code": "EBOR",
+        "Type": "Common Stock",
+        "Name": "ERSTE GP BNK AG ADR 1/2",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US2960363040",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Banks-Regional",
+        "GicSector": "Financials",
+        "GicGroup": "Banks",
+        "GicIndustry": "Banks",
+        "GicSubIndustry": "Regional Banks",
+        "Description": "Erste Group Bank AG provides a range of banking and other financial services to retail, corporate, and public sector customers. The company operates through Retail, Corporates, Group Markets, Asset/Liability Management & Local Corporate Center, Savings Banks, and Group Corporate Center segments. It provides mortgage and consumer loans, investment products, current accounts, savings products, and credit cards, as well as cross selling products, such as leasing, insurance, and building society products. The company also offers factoring and accounts receivable purchasing; investment, acquisition and leveraged, project, and commercial real estate finance; interest rate and currency hedging, letters of credit, documentary collections, and guarantees; account management, payments, digital-banking, cash logistics, and payment factory and cash pooling services; documentary collection, equity interests and investments, revolving export credits lines, customer financing, and export guarantee; and loan syndication, and debt and equity capital market services. In addition, it provides cash management, trade finance, customer referral, markets execution, debt capital markets, and custody and brokerage services. Further, the company offers corporate finance; portfolio management; trading and market; trade execution, market making, and short-term liquidity management; and asset/liability management services, as well as working capital and bridge loans. It operates in Austria, the Czech Republic, Slovakia, Romania, Hungary, Croatia, Serbia, and internationally. The company was founded in 1819 and is headquartered in Vienna, Austria.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 45667,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 13415373824,
+        "MarketCapitalizationMln": 13415.3738,
+        "EBITDA": null,
+        "PERatio": 5.8657,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 22.26,
+        "BookValue": 24.925,
+        "DividendShare": 1.9,
+        "DividendYield": 0.0566,
+        "EarningsShare": 2.83,
+        "EPSEstimateCurrentYear": 2.11,
+        "EPSEstimateNextYear": 2.11,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0.68,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2716,
+        "OperatingMarginTTM": 0.4443,
+        "ReturnOnAssetsTTM": 0.0099,
+        "ReturnOnEquityTTM": 0.1312,
+        "RevenueTTM": 9268703232,
+        "RevenuePerShareTTM": 10.831,
+        "QuarterlyRevenueGrowthYOY": 0.217,
+        "GrossProfitTTM": 8271079000,
+        "DilutedEpsTTM": 2.83,
+        "QuarterlyEarningsGrowthYOY": 0.323
+    },
+    "Valuation": {
+        "TrailingPE": 5.8657,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 60250054656,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 808155008,
+        "SharesFloat": 708703240,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0.475,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.6393,
+        "52WeekHigh": 17.1446,
+        "52WeekLow": 9.8768,
+        "50DayMA": 16.238,
+        "200DayMA": 15.807,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.96,
+        "ForwardAnnualDividendYield": 0.0566,
+        "PayoutRatio": 0.7704,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-16",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2021,
+                "Count": 3
+            },
+            "1": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "2": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-12-31": {
+                "reportDate": "2023-02-28",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.73,
+                "epsEstimate": 0.47,
+                "epsDifference": 0.26,
+                "surprisePercent": 55.3191
+            },
+            "2022-09-30": {
+                "reportDate": "2022-11-04",
+                "date": "2022-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.6,
+                "epsEstimate": 0.57,
+                "epsDifference": 0.03,
+                "surprisePercent": 5.2632
+            },
+            "2022-06-30": {
+                "reportDate": "2022-08-02",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.79,
+                "epsEstimate": 0.76,
+                "epsDifference": 0.03,
+                "surprisePercent": 3.9474
+            },
+            "2022-03-31": {
+                "reportDate": "2022-04-29",
+                "date": "2022-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.59,
+                "epsEstimate": 0.55,
+                "epsDifference": 0.04,
+                "surprisePercent": 7.2727
+            },
+            "2021-12-31": {
+                "reportDate": "2022-02-28",
+                "date": "2021-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.53,
+                "epsEstimate": 0.45,
+                "epsDifference": 0.08,
+                "surprisePercent": 17.7778
+            },
+            "2021-09-30": {
+                "reportDate": "2021-11-02",
+                "date": "2021-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.74,
+                "epsEstimate": 0.63,
+                "epsDifference": 0.11,
+                "surprisePercent": 17.4603
+            }
+        },
+        "Trend": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "period": "+1y",
+                "growth": "0.0000",
+                "earningsEstimateAvg": "2.1100",
+                "earningsEstimateLow": "2.1100",
+                "earningsEstimateHigh": "2.1100",
+                "earningsEstimateYearAgoEps": "2.1100",
+                "earningsEstimateNumberOfAnalysts": "1.0000",
+                "earningsEstimateGrowth": "0.0000",
+                "revenueEstimateAvg": "0.00",
+                "revenueEstimateLow": "0.00",
+                "revenueEstimateHigh": "0.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "0.00",
+                "revenueEstimateGrowth": null,
+                "epsTrendCurrent": "2.1100",
+                "epsTrend7daysAgo": "2.1100",
+                "epsTrend30daysAgo": "2.1100",
+                "epsTrend60daysAgo": "1.8300",
+                "epsTrend90daysAgo": "1.8200",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2021-12-31": {
+                "date": "2021-12-31",
+                "period": "0y",
+                "growth": "1.0100",
+                "earningsEstimateAvg": "2.1100",
+                "earningsEstimateLow": "2.1100",
+                "earningsEstimateHigh": "2.1100",
+                "earningsEstimateYearAgoEps": "1.0500",
+                "earningsEstimateNumberOfAnalysts": "1.0000",
+                "earningsEstimateGrowth": "1.0100",
+                "revenueEstimateAvg": "0.00",
+                "revenueEstimateLow": "0.00",
+                "revenueEstimateHigh": "0.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "0.00",
+                "revenueEstimateGrowth": null,
+                "epsTrendCurrent": "2.1100",
+                "epsTrend7daysAgo": "2.1100",
+                "epsTrend30daysAgo": "2.1100",
+                "epsTrend60daysAgo": "1.8900",
+                "epsTrend90daysAgo": "1.4600",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2021-09-30": {
+                "date": "2021-09-30",
+                "period": "+1q",
+                "growth": null,
+                "earningsEstimateAvg": "0.5300",
+                "earningsEstimateLow": "0.5300",
+                "earningsEstimateHigh": "0.5300",
+                "earningsEstimateYearAgoEps": null,
+                "earningsEstimateNumberOfAnalysts": "1.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "0.00",
+                "revenueEstimateLow": "0.00",
+                "revenueEstimateHigh": "0.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "0.00",
+                "revenueEstimateGrowth": null,
+                "epsTrendCurrent": "0.5300",
+                "epsTrend7daysAgo": "0.5300",
+                "epsTrend30daysAgo": "0.5300",
+                "epsTrend60daysAgo": "0.0000",
+                "epsTrend90daysAgo": "0.0000",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            },
+            "2021-06-30": {
+                "date": "2021-06-30",
+                "period": "0q",
+                "growth": null,
+                "earningsEstimateAvg": "0.6800",
+                "earningsEstimateLow": "0.6800",
+                "earningsEstimateHigh": "0.6800",
+                "earningsEstimateYearAgoEps": null,
+                "earningsEstimateNumberOfAnalysts": "1.0000",
+                "earningsEstimateGrowth": null,
+                "revenueEstimateAvg": "0.00",
+                "revenueEstimateLow": "0.00",
+                "revenueEstimateHigh": "0.00",
+                "revenueEstimateYearAgoEps": null,
+                "revenueEstimateNumberOfAnalysts": "0.00",
+                "revenueEstimateGrowth": null,
+                "epsTrendCurrent": "0.6800",
+                "epsTrend7daysAgo": "0.6800",
+                "epsTrend30daysAgo": "0.6800",
+                "epsTrend60daysAgo": "0.0000",
+                "epsTrend90daysAgo": "0.0000",
+                "epsRevisionsUpLast7days": "0.0000",
+                "epsRevisionsUpLast30days": "0.0000",
+                "epsRevisionsDownLast7days": null,
+                "epsRevisionsDownLast30days": "0.0000"
+            }
+        },
+        "Annual": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 2.71
+            },
+            "2021-12-31": {
+                "date": "2021-12-31",
+                "epsActual": 1.27
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

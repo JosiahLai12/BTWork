@@ -1,0 +1,171 @@
+{
+    "General": {
+        "Code": "CRIP",
+        "Type": "Common Stock",
+        "Name": "UNICREDIT S.P.A. ADR",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US9046784065",
+        "LEI": "549300TRUWO2CD2G5692",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Banks-Regional",
+        "GicSector": "Financials",
+        "GicGroup": "Banks",
+        "GicIndustry": "Banks",
+        "GicSubIndustry": "Regional Banks",
+        "Description": "UniCredit S.p.A. operates as a commercial bank that provides retail and corporate banking services. It also offers payments and liquidity; working capital; and international trade related services. The company provides sustainable finance, patient capital, corporate finance, rating, and capital structure advisory, and financial sponsor solutions. In addition, it offers project finance, structured finance, debt and equity funding, commodity trade, and export finance services. Further, the company provides transactions and payment, risk management, specialized lending, and advisory, and capital market solutions. Additionally, it offers portfolio management, funds, life insurance, brokerage, and asset related services. The company serves corporate, financial institutions, institutional investors, retail, private, and wealth management clients. It operates in Africa, Asia, Australia, North America, Mexico, and European countries. UniCredit S.p.A. was founded in 1870 and is headquartered in Milan, Italy.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 73108,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 44038512640,
+        "MarketCapitalizationMln": 44038.5126,
+        "EBITDA": null,
+        "PERatio": 4.8069,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 17.0375,
+        "DividendShare": 0.987,
+        "DividendYield": 0.0489,
+        "EarningsShare": 2.33,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.4004,
+        "OperatingMarginTTM": 0.5253,
+        "ReturnOnAssetsTTM": 0.0096,
+        "ReturnOnEquityTTM": 0.1372,
+        "RevenueTTM": 21347999744,
+        "RevenuePerShareTTM": 5.5145,
+        "QuarterlyRevenueGrowthYOY": 0.244,
+        "GrossProfitTTM": 18267000000,
+        "DilutedEpsTTM": 2.33,
+        "QuarterlyEarningsGrowthYOY": 0.284
+    },
+    "Valuation": {
+        "TrailingPE": 4.8069,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 53693198336,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 3567980032,
+        "SharesFloat": 3331633600,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0.011000000000000001,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.6575,
+        "52WeekHigh": 11.3,
+        "52WeekLow": 4.4176,
+        "50DayMA": 10.659,
+        "200DayMA": 8.7635,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.54,
+        "ForwardAnnualDividendYield": 0.0489,
+        "PayoutRatio": 1.4681,
+        "DividendDate": null,
+        "ExDividendDate": "2023-04-24",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2019,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2020,
+                "Count": 1
+            },
+            "2": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "3": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "4": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-12-31": {
+                "reportDate": "2023-01-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.37,
+                "epsEstimate": 0.31,
+                "epsDifference": 0.06,
+                "surprisePercent": 19.3548
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.37
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

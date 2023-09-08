@@ -1,0 +1,329 @@
+{
+    "General": {
+        "Code": "ZENG",
+        "Type": "Common Stock",
+        "Name": "Zenergy International Inc",
+        "Exchange": "OTCCE",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": "BBG000C2MG38",
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CUSIP": null,
+        "CIK": "1506678",
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "",
+        "Industry": "",
+        "GicSector": null,
+        "GicGroup": null,
+        "GicIndustry": null,
+        "GicSubIndustry": null,
+        "HomeCategory": null,
+        "IsDelisted": false,
+        "Description": "Zenergy International, Inc. offers biofuel solutions worldwide. The company develops and acquires biofuel sites, including constructing, acquiring existing facilities, and operating fuel-grade biodiesel and ethanol plants. The company focuses on ethanol and other chemicals, which are produced by using sugarcane, sorghum, and bio-waste as the raw materials; and biodiesel produced by using low cost vegetable oils. Zenergy International, Inc. was founded in 2006 and is based in Chicago, Illinois.",
+        "Address": "429 West Ohio Street, Chicago, IL, United States, 60610",
+        "AddressData": {
+            "Street": "429 West Ohio Street",
+            "City": "Chicago",
+            "State": "IL",
+            "Country": "United States",
+            "ZIP": "60610"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Robert J. Luiten",
+                "Title": "Chairman, CEO, Pres & Sole Director",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "312-281-2907",
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 5,
+        "UpdatedAt": "2023-09-04"
+    },
+    "Highlights": {
+        "MarketCapitalization": 53200,
+        "MarketCapitalizationMln": 0.0532,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2009-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 53623,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 532232000,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.0001,
+        "52WeekLow": 0,
+        "50DayMA": 0.0001,
+        "200DayMA": 0.0001,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2010,
+                "Count": 242
+            },
+            "1": {
+                "Year": 2011,
+                "Count": 277
+            },
+            "2": {
+                "Year": 2012,
+                "Count": 286
+            },
+            "3": {
+                "Year": 2013,
+                "Count": 280
+            },
+            "4": {
+                "Year": 2014,
+                "Count": 292
+            },
+            "5": {
+                "Year": 2015,
+                "Count": 287
+            },
+            "6": {
+                "Year": 2016,
+                "Count": 290
+            },
+            "7": {
+                "Year": 2017,
+                "Count": 288
+            },
+            "8": {
+                "Year": 2018,
+                "Count": 166
+            },
+            "9": {
+                "Year": 2022,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {
+                "2009-06-30": {
+                    "date": "2009-06-30",
+                    "filing_date": null,
+                    "currency_symbol": "USD",
+                    "totalAssets": "0.00",
+                    "intangibleAssets": "0.00",
+                    "earningAssets": null,
+                    "otherCurrentAssets": "0.00",
+                    "totalLiab": "0.00",
+                    "totalStockholderEquity": "0.00",
+                    "deferredLongTermLiab": "0.00",
+                    "otherCurrentLiab": "0.00",
+                    "commonStock": "0.00",
+                    "capitalStock": null,
+                    "retainedEarnings": "0.00",
+                    "otherLiab": "0.00",
+                    "goodWill": "0.00",
+                    "otherAssets": "0.00",
+                    "cash": "0.00",
+                    "cashAndEquivalents": null,
+                    "totalCurrentLiabilities": "0.00",
+                    "currentDeferredRevenue": null,
+                    "netDebt": null,
+                    "shortTermDebt": "0.00",
+                    "shortLongTermDebt": "0.00",
+                    "shortLongTermDebtTotal": null,
+                    "otherStockholderEquity": "0.00",
+                    "propertyPlantEquipment": "0.00",
+                    "totalCurrentAssets": "0.00",
+                    "longTermInvestments": "0.00",
+                    "netTangibleAssets": "0.00",
+                    "shortTermInvestments": "0.00",
+                    "netReceivables": "0.00",
+                    "longTermDebt": "0.00",
+                    "inventory": "0.00",
+                    "accountsPayable": "0.00",
+                    "totalPermanentEquity": "0.00",
+                    "noncontrollingInterestInConsolidatedEntity": "0.00",
+                    "temporaryEquityRedeemableNoncontrollingInterests": "0.00",
+                    "accumulatedOtherComprehensiveIncome": "0.00",
+                    "additionalPaidInCapital": "0.00",
+                    "commonStockTotalEquity": "0.00",
+                    "preferredStockTotalEquity": "0.00",
+                    "retainedEarningsTotalEquity": "0.00",
+                    "treasuryStock": "0.00",
+                    "accumulatedAmortization": "0.00",
+                    "nonCurrrentAssetsOther": "0.00",
+                    "deferredLongTermAssetCharges": "0.00",
+                    "nonCurrentAssetsTotal": "0.00",
+                    "capitalLeaseObligations": "0.00",
+                    "longTermDebtTotal": "0.00",
+                    "nonCurrentLiabilitiesOther": "0.00",
+                    "nonCurrentLiabilitiesTotal": "0.00",
+                    "negativeGoodwill": "0.00",
+                    "warrants": "0.00",
+                    "preferredStockRedeemable": "0.00",
+                    "capitalSurpluse": "0.00",
+                    "liabilitiesAndStockholdersEquity": "0.00",
+                    "cashAndShortTermInvestments": "0.00",
+                    "propertyPlantAndEquipmentGross": "0.00",
+                    "propertyPlantAndEquipmentNet": null,
+                    "accumulatedDepreciation": "0.00",
+                    "netWorkingCapital": null,
+                    "netInvestedCapital": null,
+                    "commonStockSharesOutstanding": "0.00"
+                }
+            },
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {
+                "2009-06-30": {
+                    "date": "2009-06-30",
+                    "filing_date": null,
+                    "currency_symbol": "USD",
+                    "investments": "0.00",
+                    "changeToLiabilities": "0.00",
+                    "totalCashflowsFromInvestingActivities": "0.00",
+                    "netBorrowings": "0.00",
+                    "totalCashFromFinancingActivities": "0.00",
+                    "changeToOperatingActivities": "0.00",
+                    "netIncome": "-1204.00",
+                    "changeInCash": "0.00",
+                    "beginPeriodCashFlow": null,
+                    "endPeriodCashFlow": null,
+                    "totalCashFromOperatingActivities": "0.00",
+                    "issuanceOfCapitalStock": null,
+                    "depreciation": "0.00",
+                    "otherCashflowsFromInvestingActivities": "0.00",
+                    "dividendsPaid": "0.00",
+                    "changeToInventory": "0.00",
+                    "changeToAccountReceivables": "0.00",
+                    "salePurchaseOfStock": "0.00",
+                    "otherCashflowsFromFinancingActivities": "0.00",
+                    "changeToNetincome": "0.00",
+                    "capitalExpenditures": "0",
+                    "changeReceivables": "0.00",
+                    "cashFlowsOtherOperating": "0.00",
+                    "exchangeRateChanges": "0.00",
+                    "cashAndCashEquivalentsChanges": "0.00",
+                    "changeInWorkingCapital": null,
+                    "stockBasedCompensation": null,
+                    "otherNonCashItems": null,
+                    "freeCashFlow": null
+                }
+            },
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {
+                "2009-06-30": {
+                    "date": "2009-06-30",
+                    "filing_date": null,
+                    "currency_symbol": "USD",
+                    "researchDevelopment": "0.00",
+                    "effectOfAccountingCharges": "0.00",
+                    "incomeBeforeTax": "-1204.00",
+                    "minorityInterest": "0.00",
+                    "netIncome": "-1204.00",
+                    "sellingGeneralAdministrative": "1204.00",
+                    "sellingAndMarketingExpenses": null,
+                    "grossProfit": "0.00",
+                    "reconciledDepreciation": null,
+                    "ebit": "-1204.00",
+                    "ebitda": null,
+                    "depreciationAndAmortization": null,
+                    "nonOperatingIncomeNetOther": "0.00",
+                    "operatingIncome": "-1204.00",
+                    "otherOperatingExpenses": "0.00",
+                    "interestExpense": "0.00",
+                    "taxProvision": null,
+                    "interestIncome": null,
+                    "netInterestIncome": null,
+                    "extraordinaryItems": "0.00",
+                    "nonRecurring": "0.00",
+                    "otherItems": "0.00",
+                    "incomeTaxExpense": "0.00",
+                    "totalRevenue": "0.00",
+                    "totalOperatingExpenses": "1204.00",
+                    "costOfRevenue": "0.00",
+                    "totalOtherIncomeExpenseNet": "0.00",
+                    "discontinuedOperations": "0.00",
+                    "netIncomeFromContinuingOps": "-1204.00",
+                    "netIncomeApplicableToCommonShares": "-1204.00",
+                    "preferredStockAndOtherAdjustments": "0.00"
+                }
+            },
+            "yearly": {}
+        }
+    }
+}

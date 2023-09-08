@@ -1,0 +1,179 @@
+{
+    "General": {
+        "Code": "42BB",
+        "Type": "Common Stock",
+        "Name": "BERKELEY GR.HL LS-054141",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "GB00BLJNXL82",
+        "LEI": "2138009OQSSLVVHQAL78",
+        "PrimaryTicker": "BKG.LSE",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "April",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Cyclical",
+        "Industry": "Residential Construction",
+        "GicSector": "Consumer Discretionary",
+        "GicGroup": "Consumer Durables & Apparel",
+        "GicIndustry": "Household Durables",
+        "GicSubIndustry": "Homebuilding",
+        "Description": "The Berkeley Group Holdings plc, together with its subsidiaries, engages in the residential-led and mixed-use property development and ancillary activities in the United Kingdom. The company is involved in land selling activities. It operates under the Berkeley, St Edward, St George, St James, St Joseph, and St William brand names. The Berkeley Group Holdings plc was founded in 1976 and is headquartered in Cobham, the United Kingdom.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 2802,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 4945874432,
+        "MarketCapitalizationMln": 4945.8744,
+        "EBITDA": 521200000,
+        "PERatio": 9.2641,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 30.998,
+        "DividendShare": 1.287,
+        "DividendYield": 0.0331,
+        "EarningsShare": 4.96,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-04-30",
+        "ProfitMargin": 0.1826,
+        "OperatingMarginTTM": 0.2032,
+        "ReturnOnAssetsTTM": 0.0482,
+        "ReturnOnEquityTTM": 0.144,
+        "RevenueTTM": 2550200064,
+        "RevenuePerShareTTM": 23.375,
+        "QuarterlyRevenueGrowthYOY": 0.197,
+        "GrossProfitTTM": 696800000,
+        "DilutedEpsTTM": 4.96,
+        "QuarterlyEarningsGrowthYOY": 0.051
+    },
+    "Valuation": {
+        "TrailingPE": 9.2641,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 4432200192,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 106266000,
+        "SharesFloat": 98377550,
+        "PercentInsiders": 5.159,
+        "PercentInstitutions": 78.159,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.1416,
+        "52WeekHigh": 49.6766,
+        "52WeekLow": 34.0512,
+        "50DayMA": 46.465,
+        "200DayMA": 45.8288,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 1.48,
+        "ForwardAnnualDividendYield": 0.0331,
+        "PayoutRatio": 0.2147,
+        "DividendDate": null,
+        "ExDividendDate": "2023-08-17",
+        "LastSplitFactor": "92.35:100",
+        "LastSplitDate": "2021-09-06",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2013,
+                "Count": 3
+            },
+            "1": {
+                "Year": 2014,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2015,
+                "Count": 2
+            },
+            "3": {
+                "Year": 2016,
+                "Count": 1
+            },
+            "4": {
+                "Year": 2017,
+                "Count": 2
+            },
+            "5": {
+                "Year": 2018,
+                "Count": 3
+            },
+            "6": {
+                "Year": 2019,
+                "Count": 1
+            },
+            "7": {
+                "Year": 2020,
+                "Count": 2
+            },
+            "8": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "9": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "10": {
+                "Year": 2023,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

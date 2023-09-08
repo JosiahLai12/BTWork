@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "FLYS",
+        "Type": "Common Stock",
+        "Name": "Flying Spark Ltd",
+        "Exchange": "TA",
+        "CurrencyCode": "ILA",
+        "CurrencyName": "Israeli Agora",
+        "CurrencySymbol": "ILA",
+        "CountryName": "Israel",
+        "CountryISO": "Il",
+        "OpenFigi": null,
+        "ISIN": "IL0011735821",
+        "LEI": null,
+        "PrimaryTicker": "FLYS.TA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "GicSector": "Consumer Staples",
+        "GicGroup": "Food, Beverage & Tobacco",
+        "GicIndustry": "Food Products",
+        "GicSubIndustry": "Packaged Foods & Meats",
+        "Description": "Flying Spark Ltd. produces protein powder and oil from fruit fly larvae. It offers protein powder products for humans, pets, and aquaculture; and oil products for cosmetics and nutraceuticals. The company was incorporated in 2015 and is headquartered in Rehovot, Israel.",
+        "Address": "3 Ha-Bosem Street, Ashdod, Israel, 7761003",
+        "AddressData": {
+            "Street": "3 Ha-Bosem Street",
+            "City": "Ashdod",
+            "Country": "Israel",
+            "ZIP": "7761003"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Eran  Gronich",
+                "Title": "Co-Founder & CEO",
+                "YearBorn": "1973"
+            },
+            "1": {
+                "Name": "Mr. Yoram  Yerushalmi Ph.D.",
+                "Title": "Co-Founder & CTO",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "972 52 271 9563",
+        "WebURL": "https://www.flyingspark.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 41,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": -8560000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 3.087,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -1.432,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.2645,
+        "ReturnOnEquityTTM": -0.8024,
+        "RevenueTTM": 6000,
+        "RevenuePerShareTTM": 0.002,
+        "QuarterlyRevenueGrowthYOY": 1.224,
+        "GrossProfitTTM": 12000,
+        "DilutedEpsTTM": -1.432,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 12095853,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 1312790,
+        "PercentInsiders": 65.701,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.3497,
+        "52WeekHigh": 1790,
+        "52WeekLow": 170,
+        "50DayMA": 239.028,
+        "200DayMA": 263.7014,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

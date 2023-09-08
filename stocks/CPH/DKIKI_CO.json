@@ -1,0 +1,158 @@
+{
+    "General": {
+        "Code": "DKIKI",
+        "Type": "Common Stock",
+        "Name": "Danske Invest Kina",
+        "Exchange": "CO",
+        "CurrencyCode": "DKK",
+        "CurrencyName": "Danish krone",
+        "CurrencySymbol": "kr",
+        "CountryName": "Denmark",
+        "CountryISO": "DK",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "",
+        "Industry": "",
+        "GicSector": "Energy",
+        "GicGroup": "Energy",
+        "GicIndustry": "Oil, Gas & Consumable Fuels",
+        "GicSubIndustry": "Coal & Consumable Fuels",
+        "Description": "Danske Invest Kina is an equity mutual fund launched and managed by Schroder Investment Management (Hong Kong) Limited. The fund invests in the public equity markets of China, Hongkong, and Taiwan. Danske Invest Kina was launched on April 11, 2003 and is domiciled in Denmark.",
+        "Address": "Level 33, Hong Kong, Hong Kong",
+        "AddressData": {
+            "Street": "Level 33",
+            "City": "Hong Kong",
+            "Country": "Hong Kong"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Ms. Louisa  Lo C.F.A., CFA",
+                "Title": "Portfolio Mang.",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "852 2521 1633",
+        "WebURL": "https://www.danskeinvest.dk/plsql/vis_afdeling.sho",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 141.65,
+        "52WeekLow": 97.81,
+        "50DayMA": 110.1734,
+        "200DayMA": 116.8878,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "ESGScores": {
+        "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+        "RatingDate": "2019-01-01",
+        "TotalEsg": 24.88,
+        "TotalEsgPercentile": 2,
+        "EnvironmentScore": 6.11,
+        "EnvironmentScorePercentile": 2,
+        "SocialScore": 11.41,
+        "SocialScorePercentile": 2,
+        "GovernanceScore": 7.85,
+        "GovernanceScorePercentile": 2,
+        "ControversyLevel": 0,
+        "ActivitiesInvolvement": {}
+    },
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

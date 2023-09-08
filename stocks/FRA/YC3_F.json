@@ -1,0 +1,167 @@
+{
+    "General": {
+        "Code": "YC3",
+        "Type": "Common Stock",
+        "Name": "CONCORDIA FINL GROUP",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "JP3305990008",
+        "LEI": null,
+        "PrimaryTicker": "7186.TSE",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Banks-Regional",
+        "GicSector": "Financials",
+        "GicGroup": "Banks",
+        "GicIndustry": "Banks",
+        "GicSubIndustry": "Regional Banks",
+        "Description": "Concordia Financial Group, Ltd. provides various banking products and services to small and medium-sized businesses and individuals. The company offers various deposit and loan products; and securities, leasing, survey research and other information, venture capital, and other financial services. It operates through a network of branches, sub-branches, ATMs, and representative offices in Japan and internationally. Concordia Financial Group, Ltd. was incorporated in 2016 and is headquartered in Tokyo, Japan.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 5604,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 4692580864,
+        "MarketCapitalizationMln": 4692.5809,
+        "EBITDA": null,
+        "PERatio": 13.0323,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1024.928,
+        "DividendShare": 0,
+        "DividendYield": 0.0375,
+        "EarningsShare": 0.31,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2205,
+        "OperatingMarginTTM": 0.2251,
+        "ReturnOnAssetsTTM": 0.0025,
+        "ReturnOnEquityTTM": 0.0505,
+        "RevenueTTM": 268544999424,
+        "RevenuePerShareTTM": 227.378,
+        "QuarterlyRevenueGrowthYOY": 0.023,
+        "GrossProfitTTM": 266986000000,
+        "DilutedEpsTTM": 0.31,
+        "QuarterlyEarningsGrowthYOY": 0.192
+    },
+    "Valuation": {
+        "TrailingPE": 13.0323,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -1928935636992,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1142109952,
+        "SharesFloat": 1005160680,
+        "PercentInsiders": 7.6530000000000005,
+        "PercentInstitutions": 43.559,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.5352,
+        "52WeekHigh": 4.46,
+        "52WeekLow": -6.2,
+        "50DayMA": 3.7376,
+        "200DayMA": 3.6267,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.15,
+        "ForwardAnnualDividendYield": 0.0375,
+        "PayoutRatio": 0.3786,
+        "DividendDate": null,
+        "ExDividendDate": "2023-09-28",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2016,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2017,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2018,
+                "Count": 2
+            },
+            "3": {
+                "Year": 2019,
+                "Count": 2
+            },
+            "4": {
+                "Year": 2020,
+                "Count": 2
+            },
+            "5": {
+                "Year": 2021,
+                "Count": 2
+            },
+            "6": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "7": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

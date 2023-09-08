@@ -1,0 +1,179 @@
+{
+    "General": {
+        "Code": "688143",
+        "Type": "Common Stock",
+        "Name": "Yangtze Optical Electronic Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "GicSector": "Information Technology",
+        "GicGroup": "Technology Hardware & Equipment",
+        "GicIndustry": "Electronic Equipment, Instruments & Components",
+        "GicSubIndustry": "Electronic Components",
+        "Description": "Yangtze Optical Electronic Co., Ltd. engages in the research and development, production, and sale of special optical fibers and cables, photoelectric systems, special optical devices, new materials, high-end equipment, and optoelectronic systems in China. The company also provides customers with measurement calibration and testing services for optoelectronic metering stations. Its products are used in aerospace smart grids and ocean monitoring. The company was founded in 2010 and is based in Wuhan, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 461,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 3940788480,
+        "MarketCapitalizationMln": 3940.7885,
+        "EBITDA": 42642168,
+        "PERatio": 58.3636,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 42.53,
+        "BookValue": 9.95,
+        "DividendShare": 0.385,
+        "DividendYield": 0.0151,
+        "EarningsShare": 0.55,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2004,
+        "OperatingMarginTTM": 0.0966,
+        "ReturnOnAssetsTTM": 0.0497,
+        "ReturnOnEquityTTM": 0.097,
+        "RevenueTTM": 272381344,
+        "RevenuePerShareTTM": 2.516,
+        "QuarterlyRevenueGrowthYOY": -0.139,
+        "GrossProfitTTM": 169828142,
+        "DilutedEpsTTM": 0.55,
+        "QuarterlyEarningsGrowthYOY": -0.429
+    },
+    "Valuation": {
+        "TrailingPE": 58.3636,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 3291781120,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 122766000,
+        "SharesFloat": 67293697,
+        "PercentInsiders": 59.64,
+        "PercentInstitutions": 7.753,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 43.5642,
+        "52WeekLow": 27.1756,
+        "50DayMA": 33.0322,
+        "200DayMA": 35.2784,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.5,
+        "ForwardAnnualDividendYield": 0.0151,
+        "PayoutRatio": 0.0327,
+        "DividendDate": null,
+        "ExDividendDate": "2023-06-29",
+        "LastSplitFactor": "1.3:1",
+        "LastSplitDate": "2023-06-29",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-23",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-20",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": -0.0898,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2425,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": -0.0898
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.2425
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

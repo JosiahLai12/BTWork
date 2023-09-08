@@ -1,0 +1,143 @@
+{
+    "General": {
+        "Code": "YOVA",
+        "Type": "Common Stock",
+        "Name": "Optimum III Value-Added Residential Socimi S.A",
+        "Exchange": "MC",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Spain",
+        "CountryISO": "ES",
+        "OpenFigi": null,
+        "ISIN": "ES0105219002",
+        "LEI": "959800Q9SCY21C687B46",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "",
+        "Industry": "",
+        "GicSector": "Energy",
+        "GicGroup": "Energy",
+        "GicIndustry": "Oil, Gas & Consumable Fuels",
+        "GicSubIndustry": "Coal & Consumable Fuels",
+        "Description": null,
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 60616556,
+        "MarketCapitalizationMln": 60.6166,
+        "EBITDA": -2482055,
+        "PERatio": 5.7576,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 7.211,
+        "DividendShare": 0.309,
+        "DividendYield": 0.0974,
+        "EarningsShare": 1.65,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 1.65,
+        "OperatingMarginTTM": -3.0719,
+        "ReturnOnAssetsTTM": -0.0252,
+        "ReturnOnEquityTTM": 0.0408,
+        "RevenueTTM": 1005474,
+        "RevenuePerShareTTM": 0.187,
+        "QuarterlyRevenueGrowthYOY": -0.195,
+        "GrossProfitTTM": 1013454,
+        "DilutedEpsTTM": 1.65,
+        "QuarterlyEarningsGrowthYOY": -0.776
+    },
+    "Valuation": {
+        "TrailingPE": 5.7576,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 68799880,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 5403000,
+        "SharesFloat": 0,
+        "PercentInsiders": 82.73,
+        "PercentInstitutions": 10.205,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.0216,
+        "52WeekHigh": 10.5,
+        "52WeekLow": 8.6669,
+        "50DayMA": 10.5,
+        "200DayMA": 10.5,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 1.02,
+        "ForwardAnnualDividendYield": 0.0974,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-17",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

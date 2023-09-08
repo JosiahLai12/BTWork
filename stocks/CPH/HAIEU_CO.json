@@ -1,0 +1,153 @@
+{
+    "General": {
+        "Code": "HAIEU",
+        "Type": "Common Stock",
+        "Name": "Handelsinvest Europa",
+        "Exchange": "CO",
+        "CurrencyCode": "DKK",
+        "CurrencyName": "Danish krone",
+        "CurrencySymbol": "kr",
+        "CountryName": "Denmark",
+        "CountryISO": "DK",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "",
+        "Industry": "",
+        "GicSector": "Energy",
+        "GicGroup": "Energy",
+        "GicIndustry": "Oil, Gas & Consumable Fuels",
+        "GicSubIndustry": "Coal & Consumable Fuels",
+        "Description": "Handelsinvest Europa is an equity mutual fund launched and managed by Handelsbanken Asset Management. It invests in the public equity markets of developed markets in Europe. The fund seeks to invest in the stocks of companies operating across diversified sectors. It invests in the stocks of large-cap and mid-cap companies. The fund seeks to replicate the performance of the MSCI Europe NR USD Index. Handelsinvest Europa was formed on November 27, 1991 and is domiciled in Denmark.",
+        "Address": "Blasieholmstorg 12, Stockholm, Sweden, 106 70",
+        "AddressData": {
+            "Street": "Blasieholmstorg 12",
+            "City": "Stockholm",
+            "Country": "Sweden",
+            "ZIP": "106 70"
+        },
+        "Listings": {},
+        "Officers": {},
+        "Phone": "46 87 01 10 00",
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": null,
+        "PERatio": 16.354,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 16.354,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 72.547,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 366.75,
+        "52WeekLow": 294.1,
+        "50DayMA": 357.912,
+        "200DayMA": 349.4482,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "ESGScores": {
+        "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+        "RatingDate": "2019-01-01",
+        "TotalEsg": 24.6,
+        "TotalEsgPercentile": 6,
+        "EnvironmentScore": 7.05,
+        "EnvironmentScorePercentile": 6,
+        "SocialScore": 9.58,
+        "SocialScorePercentile": 6,
+        "GovernanceScore": 9.16,
+        "GovernanceScorePercentile": 6,
+        "ControversyLevel": 0,
+        "ActivitiesInvolvement": {}
+    },
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "EPIC",
+        "Type": "Common Stock",
+        "Name": "EPIC Suisse AG",
+        "Exchange": "SW",
+        "CurrencyCode": "CHF",
+        "CurrencyName": "Swiss Franc",
+        "CurrencySymbol": "CHF",
+        "CountryName": "Switzerland",
+        "CountryISO": "CH",
+        "OpenFigi": "BBG00L9HJLH1",
+        "ISIN": "CH0516131684",
+        "LEI": null,
+        "PrimaryTicker": "EPIC.SW",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Real Estate",
+        "Industry": "Real Estate Services",
+        "GicSector": "Real Estate",
+        "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+        "GicIndustry": "Real Estate Management & Development",
+        "GicSubIndustry": "Real Estate Operating Companies",
+        "Description": "EPIC Suisse AG operates as a real estate company in Switzerland. The company engages in the investment holding and management of investment properties. Its property portfolio includes office buildings, logistical/industrial sites, and shopping centres. The company was founded in 2004 and is based in Zurich, Switzerland.",
+        "Address": "Seefeldstrasse 5a, Zurich, Switzerland, 8008",
+        "AddressData": {
+            "Street": "Seefeldstrasse 5a",
+            "City": "Zurich",
+            "Country": "Switzerland",
+            "ZIP": "8008"
+        },
+        "Listings": {},
+        "Officers": {},
+        "Phone": "41 44 388 81 00",
+        "WebURL": "https://www.epic.ch",
+        "LogoURL": "",
+        "FullTimeEmployees": 18,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 619806016,
+        "MarketCapitalizationMln": 619.806,
+        "EBITDA": 50487000,
+        "PERatio": 24.7934,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 66,
+        "BookValue": 77.31,
+        "DividendShare": 3,
+        "DividendYield": 0.0484,
+        "EarningsShare": 2.42,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.442,
+        "OperatingMarginTTM": 0.7697,
+        "ReturnOnAssetsTTM": 0.0201,
+        "ReturnOnEquityTTM": 0.0361,
+        "RevenueTTM": 65345000,
+        "RevenuePerShareTTM": 6.32,
+        "QuarterlyRevenueGrowthYOY": 0.083,
+        "GrossProfitTTM": 56401000,
+        "DilutedEpsTTM": 2.42,
+        "QuarterlyEarningsGrowthYOY": -0.774
+    },
+    "Valuation": {
+        "TrailingPE": 24.7934,
+        "ForwardPE": 14.9701,
+        "PriceSalesTTM": 10.0131,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 1254027776,
+        "EnterpriseValueRevenue": 22.5336,
+        "EnterpriseValueEbitda": 20.1238
+    },
+    "SharesStats": {
+        "SharesOutstanding": 10330100,
+        "SharesFloat": 1155522,
+        "PercentInsiders": 72.697,
+        "PercentInstitutions": 8.451,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 65.4,
+        "52WeekLow": 52.4138,
+        "50DayMA": 62.068,
+        "200DayMA": 62.702,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 3,
+        "ForwardAnnualDividendYield": 0.0484,
+        "PayoutRatio": 0,
+        "DividendDate": "2023-05-04",
+        "ExDividendDate": "2023-05-02",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-21",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

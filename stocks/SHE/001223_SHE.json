@@ -1,0 +1,174 @@
+{
+    "General": {
+        "Code": "001223",
+        "Type": "Common Stock",
+        "Name": "OK Science & Technology Co. Ltd. A",
+        "Exchange": "SHE",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "GicSector": "Industrials",
+        "GicGroup": "Capital Goods",
+        "GicIndustry": "Machinery",
+        "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+        "Description": "OK Science and Technology Co., Ltd. designs and manufactures tissue paper machines, and converting and packing machines for facial tissues, napkin tissues, toilet paper kitchen towels, and pocket tissues. It also provides tissue making machines, disposable surgical mask making machines, and KN95 mask making machines. The company was founded in 2011 and is based in Jiujiang, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 758,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 6027205120,
+        "MarketCapitalizationMln": 6027.2051,
+        "EBITDA": 137480432,
+        "PERatio": 30.5372,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 27.286,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 2.96,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3261,
+        "OperatingMarginTTM": 0.2537,
+        "ReturnOnAssetsTTM": 0.0999,
+        "ReturnOnEquityTTM": 0.1439,
+        "RevenueTTM": 453379488,
+        "RevenuePerShareTTM": 7.766,
+        "QuarterlyRevenueGrowthYOY": -0.284,
+        "GrossProfitTTM": 241778549,
+        "DilutedEpsTTM": 2.96,
+        "QuarterlyEarningsGrowthYOY": -0.657
+    },
+    "Valuation": {
+        "TrailingPE": 30.5372,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 5130251264,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 66680000,
+        "SharesFloat": 16401280,
+        "PercentInsiders": 74.985,
+        "PercentInstitutions": 3.6900000000000004,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 111.69,
+        "52WeekLow": 55.01,
+        "50DayMA": 83.3274,
+        "200DayMA": 77.9367,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2904,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.4418,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2112,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.7322
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.2112
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

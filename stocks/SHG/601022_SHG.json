@@ -1,0 +1,155 @@
+{
+    "General": {
+        "Code": "601022",
+        "Type": "Common Stock",
+        "Name": "Ningbo Ocean Shipping Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Marine Shipping",
+        "GicSector": "Industrials",
+        "GicGroup": "Transportation",
+        "GicIndustry": "Marine Transportation",
+        "GicSubIndustry": "Marine Transportation",
+        "Description": "Ningbo Ocean Shipping Co., Ltd. provides domestic bulk cargo transportation and ancillary services in China, Japan, Taiwan, South Korea, and Southeast Asia. It operates 87 ships with a total capacity of 1.223 million deadweight tons/67,000 TEUs; 8 bulk cargo ships; and 32 container liner routes. The company was founded in 1992 and is based in Ningbo, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 803,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 13361112064,
+        "MarketCapitalizationMln": 13361.1121,
+        "EBITDA": 896076928,
+        "PERatio": 17.6034,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 3.846,
+        "DividendShare": 0.154,
+        "DividendYield": 0.0155,
+        "EarningsShare": 0.58,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1237,
+        "OperatingMarginTTM": 0.1431,
+        "ReturnOnAssetsTTM": 0.0802,
+        "ReturnOnEquityTTM": 0.1577,
+        "RevenueTTM": 4731445248,
+        "RevenuePerShareTTM": 3.788,
+        "QuarterlyRevenueGrowthYOY": -0.136,
+        "GrossProfitTTM": 989698847,
+        "DilutedEpsTTM": 0.58,
+        "QuarterlyEarningsGrowthYOY": -0.502
+    },
+    "Valuation": {
+        "TrailingPE": 17.6034,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 4.1329,
+        "PriceBookMRQ": 5.1398,
+        "EnterpriseValue": 12335156224,
+        "EnterpriseValueRevenue": 4.512,
+        "EnterpriseValueEbitda": 21.0208
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1308630016,
+        "SharesFloat": 185395419,
+        "PercentInsiders": 90.622,
+        "PercentInstitutions": 0.063,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 18.6057,
+        "52WeekLow": 9.38,
+        "50DayMA": 10.5732,
+        "200DayMA": 11.8296,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.15,
+        "ForwardAnnualDividendYield": 0.0155,
+        "PayoutRatio": 1.2844,
+        "DividendDate": null,
+        "ExDividendDate": "2023-06-02",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1199,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "epsActual": 0.1199
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

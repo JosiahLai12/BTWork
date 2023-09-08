@@ -1,0 +1,170 @@
+{
+    "General": {
+        "Code": "0260",
+        "Type": "Common Stock",
+        "Name": "PTRB",
+        "Exchange": "KLSE",
+        "CurrencyCode": "MYR",
+        "CurrencyName": "Malaysian Ringgit",
+        "CurrencySymbol": "RM",
+        "CountryName": "Malaysia",
+        "CountryISO": "MY",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "April",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "GicSector": "Consumer Staples",
+        "GicGroup": "Food, Beverage & Tobacco",
+        "GicIndustry": "Food Products",
+        "GicSubIndustry": "Packaged Foods & Meats",
+        "Description": "PT Resources Holdings Berhad, an investment holding, primarily engages in the processing and trading of frozen seafood products, and trading of meat and non-meat products in Malaysia, the Philippines, Saudi Arabia, China, Indonesia, and the United Arab Emirates. Its frozen seafood products are sold to wholesalers, food manufacturers, and retailers as well as to end-customers. The company also retails chilled and frozen meat products, including poultry, beef, lamb, and mutton products, as well as ready-to-eat, and ready-to-cook meat and seafood products; and non-meat products, such as fruits and vegetables, staple food, and beverages, as well as non-food products, including tissue and cleaning solutions. It sells its products through a network of MO Foodmart outlets, MO Wholesale centres, and MO Signature online marketplace. PT Resources Holdings Berhad was founded in 2012 and is headquartered in Kuantan, Malaysia.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 261,
+        "UpdatedAt": "2023-09-03"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": 42366240,
+        "PERatio": 12,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.294,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.04,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-04-30",
+        "ProfitMargin": 0.0733,
+        "OperatingMarginTTM": 0.0804,
+        "ReturnOnAssetsTTM": 0.1293,
+        "ReturnOnEquityTTM": 0.3195,
+        "RevenueTTM": 502604992,
+        "RevenuePerShareTTM": 1.044,
+        "QuarterlyRevenueGrowthYOY": 0.986,
+        "GrossProfitTTM": 63073586,
+        "DilutedEpsTTM": 0.04,
+        "QuarterlyEarningsGrowthYOY": 2.361
+    },
+    "Valuation": {
+        "TrailingPE": 12,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0.7585,
+        "PriceBookMRQ": 2.172,
+        "EnterpriseValue": 267356000,
+        "EnterpriseValueRevenue": 0.6343,
+        "EnterpriseValueEbitda": 8.3782
+    },
+    "SharesStats": {
+        "SharesOutstanding": 535020000,
+        "SharesFloat": 159002594,
+        "PercentInsiders": 69.926,
+        "PercentInstitutions": 0.234,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.685,
+        "52WeekLow": 0.36,
+        "50DayMA": 0.5181,
+        "200DayMA": 0.508,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-04-30": {
+                "reportDate": "2023-04-30",
+                "date": "2023-04-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0348,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-01-31": {
+                "reportDate": "2023-01-31",
+                "date": "2023-01-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0037,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-10-31": {
+                "reportDate": "2022-10-31",
+                "date": "2022-10-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0156,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-04-30": {
+                "date": "2023-04-30",
+                "epsActual": 0.0541
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

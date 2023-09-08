@@ -1,0 +1,179 @@
+{
+    "General": {
+        "Code": "688489",
+        "Type": "Common Stock",
+        "Name": "Sansec Technology Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Application",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Sansec Technology Co., Ltd. engages in the research, development, and production of commercial cryptographic products and solutions for internet information security in China. The company develops PCIe, a cryptographic hardware device that enables data confidentiality, integrity, and other cryptographic functions through digital signature and data encryption; Cloud HSM that provides multiple authentication mechanisms based on PIN, smart key, and digital certificate; and General Purpose HSM, a cryptographic device, which offers security guarantee services for the development of social informatization. It also offers Financial HSM cryptographic equipment for cryptography-based protection for ICs, such as social security cards for inter-bank transactions in the financial system; and Sansec HSM Cryptographic Module, a cryptographic device used for financial, e-government, e-commerce, and enterprise information systems. In addition, it provides typical financial solutions, big data security solutions, and internet of vehicle solutions. The company was founded in 2008 and is based in Beijing, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 389,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 6111283712,
+        "MarketCapitalizationMln": 6111.2837,
+        "EBITDA": 84141264,
+        "PERatio": 45.4746,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 85,
+        "BookValue": 16.355,
+        "DividendShare": 0.29,
+        "DividendYield": 0.0075,
+        "EarningsShare": 1.18,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.295,
+        "OperatingMarginTTM": 0.2261,
+        "ReturnOnAssetsTTM": 0.0508,
+        "ReturnOnEquityTTM": 0.0944,
+        "RevenueTTM": 349246240,
+        "RevenuePerShareTTM": 3.43,
+        "QuarterlyRevenueGrowthYOY": 0.008,
+        "GrossProfitTTM": 256423883,
+        "DilutedEpsTTM": 1.18,
+        "QuarterlyEarningsGrowthYOY": -0.564
+    },
+    "Valuation": {
+        "TrailingPE": 45.4746,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 21.2486,
+        "PriceBookMRQ": 20.1554,
+        "EnterpriseValue": 5275738624,
+        "EnterpriseValueRevenue": 28.0756,
+        "EnterpriseValueEbitda": 83.6642
+    },
+    "SharesStats": {
+        "SharesOutstanding": 113889000,
+        "SharesFloat": 32288771,
+        "PercentInsiders": 55.552,
+        "PercentInstitutions": 27.416,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 104.1208,
+        "52WeekLow": 47.47,
+        "50DayMA": 58.1946,
+        "200DayMA": 72.8553,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.43,
+        "ForwardAnnualDividendYield": 0.0075,
+        "PayoutRatio": 0.6767,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-05-16",
+        "LastSplitFactor": "1.48:1",
+        "LastSplitDate": "2023-05-16",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-24",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-26",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": -0.0492,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.6832,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": -0.0492
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.6832
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

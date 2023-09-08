@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "688419",
+        "Type": "Common Stock",
+        "Name": "Nextool Technology Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "GicSector": "Industrials",
+        "GicGroup": "Capital Goods",
+        "GicIndustry": "Machinery",
+        "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+        "Description": "Nextool Technology Co., Ltd. engages in the research, development, manufacture, and sale of plastic extrusion tooling products, semiconductor packaging equipment, and molds worldwide. The company offers extrusion products, such as die systems, calibrator systems, water tank systems, and co-extrusion tooling products. The company was founded in 2005 and is based in Tongling, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 426,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 3270979840,
+        "MarketCapitalizationMln": 3270.9798,
+        "EBITDA": 49961080,
+        "PERatio": 51.8052,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 11.48,
+        "DividendShare": 0.3,
+        "DividendYield": 0.0072,
+        "EarningsShare": 0.77,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2464,
+        "OperatingMarginTTM": 0.1996,
+        "ReturnOnAssetsTTM": 0.0356,
+        "ReturnOnEquityTTM": 0.092,
+        "RevenueTTM": 215320912,
+        "RevenuePerShareTTM": 2.946,
+        "QuarterlyRevenueGrowthYOY": -0.482,
+        "GrossProfitTTM": 95915655,
+        "DilutedEpsTTM": 0.77,
+        "QuarterlyEarningsGrowthYOY": -0.606
+    },
+    "Valuation": {
+        "TrailingPE": 51.8052,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 9.7114,
+        "PriceBookMRQ": 13.7406,
+        "EnterpriseValue": 2627227392,
+        "EnterpriseValueRevenue": 9.4236,
+        "EnterpriseValueEbitda": 38.186
+    },
+    "SharesStats": {
+        "SharesOutstanding": 82000000,
+        "SharesFloat": 24422060,
+        "PercentInsiders": 75.069,
+        "PercentInstitutions": 0.828,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 54.0967,
+        "52WeekLow": 31.3364,
+        "50DayMA": 39.9786,
+        "200DayMA": 39.2912,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.3,
+        "ForwardAnnualDividendYield": 0.0072,
+        "PayoutRatio": 1.068,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-05-23",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1185,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1624,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.2809
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

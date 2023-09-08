@@ -1,0 +1,166 @@
+{
+    "General": {
+        "Code": "TRFK",
+        "Type": "Common Stock",
+        "Name": "Pacer Funds Trust",
+        "Exchange": "NYSE ARCA",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": "BBG017ZLXY52",
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CUSIP": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": "2022-06-09",
+        "InternationalDomestic": null,
+        "Sector": "",
+        "Industry": "",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Diversified Metals & Mining",
+        "HomeCategory": null,
+        "IsDelisted": false,
+        "Description": "The fund employs a \"passive management\" (or indexing) investment approach designed to track the total return performance, before fees and expenses, of the index. The index is a rules-based index that consists of globally-listed stocks and depositary receipts of companies. The fund is non-diversified.",
+        "Address": "500 Chesterfield Parkway, Malvern, PA, United States, 19355",
+        "AddressData": {
+            "Street": "500 Chesterfield Parkway",
+            "City": "Malvern",
+            "State": "PA",
+            "Country": "United States",
+            "ZIP": "19355"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Michael  Mack",
+                "Title": "Portfolio Mang.",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Mr. Bruce A. Kavanaugh",
+                "Title": "Portfolio Mang.",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "NA",
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": null,
+        "PERatio": 30.7713,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "0000-00-00",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 30.7713,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 0,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 0,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0,
+        "52WeekHigh": 32.9789,
+        "52WeekLow": 19.7356,
+        "50DayMA": 31.3809,
+        "200DayMA": 26.7861,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": {
+        "Institutions": {},
+        "Funds": {}
+    },
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

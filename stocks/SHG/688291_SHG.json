@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "688291",
+        "Type": "Common Stock",
+        "Name": "Beijing JCZ Technology Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "GicSector": "Industrials",
+        "GicGroup": "Capital Goods",
+        "GicIndustry": "Machinery",
+        "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+        "Description": "Beijing JCZ Technology Co.,Ltd engages in the research, development, production, and sale of beam transmission and control products. It offers laser marking control systems, galvanometer welding systems, high precision galvanometers, laser cutting systems, industrial internet systems, and fly welding systems. The company also provides operating systems, including mirror control, engraving, tab cutting control, 3D printing control, laser coding control, Zeus systems, and Hercules control systems, as well as cloud platform for beam transmission and control. It serves energy, medical, aerospace, electronics, car, brittle material, and package industries. The company was founded in 2004 and is based in Beijing, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 319,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 3193970432,
+        "MarketCapitalizationMln": 3193.9704,
+        "EBITDA": 30562880,
+        "PERatio": 64.8125,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 37,
+        "BookValue": 8.956,
+        "DividendShare": 0.2,
+        "DividendYield": 0.0061,
+        "EarningsShare": 0.48,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1919,
+        "OperatingMarginTTM": 0.1264,
+        "ReturnOnAssetsTTM": 0.0248,
+        "ReturnOnEquityTTM": 0.064,
+        "RevenueTTM": 201409424,
+        "RevenuePerShareTTM": 2.135,
+        "QuarterlyRevenueGrowthYOY": 0.114,
+        "GrossProfitTTM": 41206700,
+        "DilutedEpsTTM": 0.48,
+        "QuarterlyEarningsGrowthYOY": -0.351
+    },
+    "Valuation": {
+        "TrailingPE": 64.8125,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 10.9912,
+        "PriceBookMRQ": 10.2669,
+        "EnterpriseValue": 2634199808,
+        "EnterpriseValueRevenue": 14.2331,
+        "EnterpriseValueEbitda": 62.717
+    },
+    "SharesStats": {
+        "SharesOutstanding": 102667000,
+        "SharesFloat": 31557726,
+        "PercentInsiders": 69.635,
+        "PercentInstitutions": 11.533,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 45.95,
+        "52WeekLow": 25.5283,
+        "50DayMA": 31.3228,
+        "200DayMA": 29.811,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.2,
+        "ForwardAnnualDividendYield": 0.0061,
+        "PayoutRatio": 0.0167,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-05-23",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-14",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.1195,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.1195
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

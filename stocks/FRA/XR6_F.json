@@ -1,0 +1,169 @@
+{
+    "General": {
+        "Code": "XR6",
+        "Type": "Common Stock",
+        "Name": "DEFINITY FINANCIAL CORP.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA24477T1003",
+        "LEI": null,
+        "PrimaryTicker": "DFY.TO",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Insurance-Property & Casualty",
+        "GicSector": "Financials",
+        "GicGroup": "Insurance",
+        "GicIndustry": "Insurance",
+        "GicSubIndustry": "Property & Casualty Insurance",
+        "Description": "Definity Financial Corporation, together with its subsidiaries, offers property and casualty insurance products in Canada. It provides personal insurance products, including auto, property, general and umbrella liability, and pet insurance products to individuals under the Economical, Sonnet, Family, Petsecure, and Peppermint brands; and commercial insurance products which include fleet, commercial auto, property, liability, and specialty insurance products to businesses under the Economical brand name. The company distributes its products on a primarily intermediated basis, and through brokers, as well as directly to customers. Definity Financial Corporation was formerly known as Economical Holdings Corporation and changed its name to Definity Financial Corporation in August 2021. Definity Financial Corporation was founded in 1871 and is headquartered in Waterloo, Canada.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 3555,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 2966860800,
+        "MarketCapitalizationMln": 2966.8608,
+        "EBITDA": 701500032,
+        "PERatio": 8.2848,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 23.425,
+        "DividendShare": 0.525,
+        "DividendYield": 0.0148,
+        "EarningsShare": 3.09,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1334,
+        "OperatingMarginTTM": 0.1687,
+        "ReturnOnAssetsTTM": 0.0577,
+        "ReturnOnEquityTTM": 0.2107,
+        "RevenueTTM": 4003899904,
+        "RevenuePerShareTTM": 34.892,
+        "QuarterlyRevenueGrowthYOY": 0.412,
+        "GrossProfitTTM": 902000000,
+        "DilutedEpsTTM": 3.09,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 8.2848,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 2871936000,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 115893000,
+        "SharesFloat": 102562558,
+        "PercentInsiders": 0.559,
+        "PercentInstitutions": 61.12,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 30.2644,
+        "52WeekLow": 21.8,
+        "50DayMA": 24.32,
+        "200DayMA": 24.9482,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.38,
+        "ForwardAnnualDividendYield": 0.0148,
+        "PayoutRatio": 0.1146,
+        "DividendDate": null,
+        "ExDividendDate": "2023-06-14",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 4
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-09-30": {
+                "reportDate": "2023-11-10",
+                "date": "2023-09-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-06-30": {
+                "reportDate": "2023-08-03",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

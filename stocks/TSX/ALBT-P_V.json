@@ -1,0 +1,151 @@
+{
+    "General": {
+        "Code": "ALBT-P",
+        "Type": "Common Stock",
+        "Name": "Albatros Acquisition Corporation Inc.",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "August",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Shell Companies",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "Description": "Albatros Acquisition Corporation Inc. does not have significant operations. It intends to identify, evaluate, and acquisition of assets, properties, or businesses with a view to completing a qualifying transaction. The company was incorporated in 2021 and is headquartered in Montreal, Canada.",
+        "Address": "1100, boulevard Rene-Levesque Ouest, Montreal, QC, Canada, H3B 5C9",
+        "AddressData": {
+            "Street": "1100, boulevard Rene-Levesque Ouest",
+            "City": "Montreal",
+            "State": "QC",
+            "Country": "Canada",
+            "ZIP": "H3B 5C9"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Joseph  Cianci C.A., CPA",
+                "Title": "Chief Financial Officer & Director",
+                "YearBorn": "1958"
+            },
+            "1": {
+                "Name": "Mr. Gilles  Seguin",
+                "Title": "Corp. Sec.",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 1011434,
+        "MarketCapitalizationMln": 1.0114,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.135,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.01,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-05-31",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.0764,
+        "ReturnOnEquityTTM": -0.1495,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.01,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 2.6266,
+        "EnterpriseValue": 154484,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": -6.2035
+    },
+    "SharesStats": {
+        "SharesOutstanding": 5057170,
+        "SharesFloat": 592162,
+        "PercentInsiders": 41.742000000000004,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.2,
+        "52WeekLow": 0.16,
+        "50DayMA": 0.2,
+        "200DayMA": 0.2,
+        "SharesShort": 250,
+        "SharesShortPriorMonth": 400,
+        "ShortRatio": 0.07,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

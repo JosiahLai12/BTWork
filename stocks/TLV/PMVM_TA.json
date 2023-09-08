@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "PMVM",
+        "Type": "Common Stock",
+        "Name": "Pomvom",
+        "Exchange": "TA",
+        "CurrencyCode": "ILA",
+        "CurrencyName": "Israeli Agora",
+        "CurrencySymbol": "ILA",
+        "CountryName": "Israel",
+        "CountryISO": "Il",
+        "OpenFigi": null,
+        "ISIN": "IL0011734345",
+        "LEI": null,
+        "PrimaryTicker": "PMVM.TA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Infrastructure",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Pomvom Ltd engages in developing and manufacturing artificial intelligence for image recognition. It offers solutions for the automatic distribution of digital media using image recognition software. The company was incorporated in 2015 and is based in Herzliya, Israel.",
+        "Address": "Hamanofim 10, Herzliya, Israel, 4672501",
+        "AddressData": {
+            "Street": "Hamanofim 10",
+            "City": "Herzliya",
+            "Country": "Israel",
+            "ZIP": "4672501"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Yehuda  Minkovitz",
+                "Title": "CEO & Director",
+                "YearBorn": "1978"
+            },
+            "1": {
+                "Name": "Mr. Yosef  Dagan",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1975"
+            },
+            "2": {
+                "Name": "Mr. Shmuel  Asa",
+                "Title": "CTO and VP of R&D",
+                "YearBorn": "1969"
+            },
+            "3": {
+                "Name": "Uri  Gal",
+                "Title": "CEO of PomVom UK",
+                "YearBorn": "1973"
+            }
+        },
+        "Phone": "972 3 577 2022",
+        "WebURL": "https://pomvom.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 92,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 61109048,
+        "MarketCapitalizationMln": 61.109,
+        "EBITDA": -23376000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 3.496,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -1.045,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": -0.1442,
+        "OperatingMarginTTM": -0.1352,
+        "ReturnOnAssetsTTM": -0.2218,
+        "ReturnOnEquityTTM": -0.5986,
+        "RevenueTTM": 194995008,
+        "RevenuePerShareTTM": 14.377,
+        "QuarterlyRevenueGrowthYOY": 0.012,
+        "GrossProfitTTM": 35300000,
+        "DilutedEpsTTM": -1.045,
+        "QuarterlyEarningsGrowthYOY": 0.895
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0.4181,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 38176688,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 14098400,
+        "SharesFloat": 4406198,
+        "PercentInsiders": 49.313,
+        "PercentInstitutions": 18.994,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.1124,
+        "52WeekHigh": 1188,
+        "52WeekLow": 371,
+        "50DayMA": 503.252,
+        "200DayMA": 555.6545,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

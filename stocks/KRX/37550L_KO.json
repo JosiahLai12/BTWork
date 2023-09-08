@@ -1,0 +1,155 @@
+{
+    "General": {
+        "Code": "37550L",
+        "Type": "Common Stock",
+        "Name": "DL E&C Co. Ltd. Pfd.",
+        "Exchange": "KO",
+        "CurrencyCode": "KRW",
+        "CurrencyName": "Korean Won",
+        "CurrencySymbol": "\u20a9",
+        "CountryName": "Korea",
+        "CountryISO": "KR",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "GicSector": "Industrials",
+        "GicGroup": "Capital Goods",
+        "GicIndustry": "Construction & Engineering",
+        "GicSubIndustry": "Construction & Engineering",
+        "Description": "DL E&C Co.,Ltd., a construction company, provides engineering, procurement, and construction solutions in South Korea and internationally. The company undertakes various plant works in refinery/gas, petrochemical, energy, industrial facilities, and environment; and civil engineering works in road/bridge, road/port/water resources, and railroad/metro/tunnel. It constructs office/commercial properties, cultural/sports properties, hotel/resort, education/healthcare properties, and logistics centers; and offers housing facilities, which include apartments and residential and commercial development; and redevelopment, reconstruction, and remodeling services. DL E&C Co.,Ltd. was incorporated in 1939 and is based in Seoul, South Korea.",
+        "Address": "Donuimun, Center Point D Tower, Seoul, South Korea, 03181",
+        "AddressData": {
+            "Street": "Donuimun, Center Point D Tower",
+            "City": "Seoul",
+            "Country": "South Korea",
+            "ZIP": "03181"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Yong  Nam",
+                "Title": "Exec. Adviser & Chairman",
+                "YearBorn": "1949"
+            },
+            "1": {
+                "Name": "Mr. Changmin  Ma",
+                "Title": "Division Director, CEO & Director",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": "82 2 2011 7114",
+        "WebURL": "https://www.dlenc.co.kr",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-03"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": 470169190400,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": null,
+        "DividendShare": 1000,
+        "DividendYield": 0.0457,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0406,
+        "OperatingMarginTTM": 0.0483,
+        "ReturnOnAssetsTTM": 0.0266,
+        "ReturnOnEquityTTM": 0.0724,
+        "RevenueTTM": 7925776515072,
+        "RevenuePerShareTTM": 187506.56,
+        "QuarterlyRevenueGrowthYOY": 0.05,
+        "GrossProfitTTM": 931325237050,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": -0.726
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 346988806144,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 0,
+        "SharesFloat": 31896787,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 11.463,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.1558,
+        "52WeekHigh": 33500,
+        "52WeekLow": 20700,
+        "50DayMA": 22362,
+        "200DayMA": 24792,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 1000,
+        "ForwardAnnualDividendYield": 0.0457,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2022-12-28",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

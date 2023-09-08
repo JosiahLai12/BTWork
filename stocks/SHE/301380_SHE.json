@@ -1,0 +1,179 @@
+{
+    "General": {
+        "Code": "301380",
+        "Type": "Common Stock",
+        "Name": "Beijing Waluer Information Technology Co. Ltd. A",
+        "Exchange": "SHE",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "GicSector": "Communication Services",
+        "GicGroup": "Telecommunication Services",
+        "GicIndustry": "Diversified Telecommunication Services",
+        "GicSubIndustry": "Integrated Telecommunication Services",
+        "Description": "Beijing Waluer Information Technology Co., Ltd. provides telecommunications, and digital integration and development services. It also offers digital technology and application, mobile information, and digital marketing services. The company was founded in 2011 and is based in Beijing, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 4230960128,
+        "MarketCapitalizationMln": 4230.9601,
+        "EBITDA": 51307120,
+        "PERatio": 74.0714,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 10.529,
+        "DividendShare": 0.39,
+        "DividendYield": 0.0064,
+        "EarningsShare": 0.84,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0547,
+        "OperatingMarginTTM": 0.0718,
+        "ReturnOnAssetsTTM": 0.0379,
+        "ReturnOnEquityTTM": 0.0962,
+        "RevenueTTM": 699662080,
+        "RevenuePerShareTTM": 11.1,
+        "QuarterlyRevenueGrowthYOY": 0.193,
+        "GrossProfitTTM": 115791631,
+        "DilutedEpsTTM": 0.84,
+        "QuarterlyEarningsGrowthYOY": -0.628
+    },
+    "Valuation": {
+        "TrailingPE": 74.0714,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 2.8607,
+        "PriceBookMRQ": 6.7324,
+        "EnterpriseValue": 3926615808,
+        "EnterpriseValueRevenue": 3.7203,
+        "EnterpriseValueEbitda": 28.8435
+    },
+    "SharesStats": {
+        "SharesOutstanding": 68000000,
+        "SharesFloat": 28297841,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 76.5,
+        "52WeekLow": 32.9325,
+        "50DayMA": 49.651,
+        "200DayMA": 45.3126,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.39,
+        "ForwardAnnualDividendYield": 0.0064,
+        "PayoutRatio": 0.0157,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-04-21",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1316,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.2013,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0468,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.3329
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.0468
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

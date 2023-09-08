@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "CBPE",
+        "Type": "Common Stock",
+        "Name": "Citra Buana Prasida",
+        "Exchange": "JK",
+        "CurrencyCode": "IDR",
+        "CurrencyName": "Indonesian Rupiah",
+        "CurrencySymbol": "Rp",
+        "CountryName": "Indonesia",
+        "CountryISO": "ID",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Real Estate",
+        "Industry": "Real Estate-Development",
+        "GicSector": "Real Estate",
+        "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+        "GicIndustry": "Real Estate Management & Development",
+        "GicSubIndustry": "Real Estate Development",
+        "Description": "PT Citra Buana Prasida Tbk operates as a property developer and manager in Indonesia. It develops, sells, and rents shophouses. The company was founded in 2000 and is headquartered in Bandung, Indonesia. PT Citra Buana Prasida Tbk is a subsidiary of PT Sandhi Parama Nusa.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 47,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 174956300000,
+        "MarketCapitalizationMln": 174956.3,
+        "EBITDA": 31241930752,
+        "PERatio": 5.6681,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 139.856,
+        "DividendShare": 1,
+        "DividendYield": 0.0078,
+        "EarningsShare": 22.6514,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3501,
+        "OperatingMarginTTM": 0.4256,
+        "ReturnOnAssetsTTM": 0.0671,
+        "ReturnOnEquityTTM": 12.6678,
+        "RevenueTTM": 58175111168,
+        "RevenuePerShareTTM": 47.66,
+        "QuarterlyRevenueGrowthYOY": -0.111,
+        "GrossProfitTTM": 44595915256,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0.459
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 145613832192,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1356249984,
+        "SharesFloat": 271250000,
+        "PercentInsiders": 80,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 202.4777,
+        "52WeekLow": 108.1866,
+        "50DayMA": 131.26,
+        "200DayMA": 142.5161,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 1,
+        "ForwardAnnualDividendYield": 0.0078,
+        "PayoutRatio": 0.4173,
+        "DividendDate": null,
+        "ExDividendDate": "2023-07-04",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 1.3767,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 1.0199,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 2.3966
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

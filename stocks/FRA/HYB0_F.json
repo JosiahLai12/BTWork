@@ -1,0 +1,155 @@
+{
+    "General": {
+        "Code": "HYB0",
+        "Type": "Common Stock",
+        "Name": "HOYA CORP. ADR/ 1 O.N.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US4432511032",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "GicSector": "Health Care",
+        "GicGroup": "Health Care Equipment & Services",
+        "GicIndustry": "Health Care Equipment & Supplies",
+        "GicSubIndustry": "Health Care Equipment",
+        "Description": "HOYA Corporation, a med-tech company, provides high-tech and medical products worldwide. It operates through three segments: Life Care, Telecommunication, and Other. The company offers life care products, including eyeglass and contact lenses; medical endoscopes; intraocular lenses; laparoscopic surgical instruments; automatic endoscope cleaning equipment; and other medical related products, such as prosthetic ceramic fillers and metallic implants for orthopedics. It also operates Eyecity, a specialty retailer of contact lenses. In addition, the company provides information technology products, such as mask blanks and photomasks for manufacturing semiconductor chips; glass disks for hard disk drives; and imaging products that include optical glasses/optical lenses, colored glass filters, and laser equipment/UV light resources. Further, it engages in the research, development, manufacture, and sale of photomasks for manufacturing flat panel displays. Additionally, the company offers ReadSpeaker, a speech synthesis software; and cloud services comprising Kinnosuke, a time and attendance management service, as well as Yonosuke, an electronic payslip service. HOYA Corporation was founded in 1941 and is headquartered in Tokyo, Japan.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 36571,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 35981053952,
+        "MarketCapitalizationMln": 35981.054,
+        "EBITDA": 255482003456,
+        "PERatio": 35.3571,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 2454.942,
+        "DividendShare": 110,
+        "DividendYield": 0.0076,
+        "EarningsShare": 2.8,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.2184,
+        "OperatingMarginTTM": 0.283,
+        "ReturnOnAssetsTTM": 0.1211,
+        "ReturnOnEquityTTM": 0.1888,
+        "RevenueTTM": 725691006976,
+        "RevenuePerShareTTM": 2036.296,
+        "QuarterlyRevenueGrowthYOY": 0.012,
+        "GrossProfitTTM": 406355000000,
+        "DilutedEpsTTM": 2.8,
+        "QuarterlyEarningsGrowthYOY": -0.186
+    },
+    "Valuation": {
+        "TrailingPE": 35.3571,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -418959228928,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 353572000,
+        "SharesFloat": 339164140,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0.058,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.5821,
+        "52WeekHigh": 120,
+        "52WeekLow": 87,
+        "50DayMA": 102.06,
+        "200DayMA": 98.8575,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.75,
+        "ForwardAnnualDividendYield": 0.0076,
+        "PayoutRatio": 0.0038,
+        "DividendDate": null,
+        "ExDividendDate": "2023-03-30",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2022-12-31": {
+                "reportDate": "2023-01-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 85.89,
+                "epsEstimate": 101.74,
+                "epsDifference": -15.85,
+                "surprisePercent": -15.5789
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 85.89
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

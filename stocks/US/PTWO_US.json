@@ -1,0 +1,485 @@
+{
+    "General": {
+        "Code": "PTWO",
+        "Type": "Common Stock",
+        "Name": "Pono Capital Two Inc",
+        "Exchange": "NASDAQ",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": "BBG019TC4SS5",
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CUSIP": null,
+        "CIK": "0001930313",
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": "2022-09-26",
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Shell Companies",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "HomeCategory": null,
+        "IsDelisted": false,
+        "Description": "Pono Capital Two, Inc. does not have any significant operations. It focuses on effecting a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2022 and is based in Honolulu, Hawaii.",
+        "Address": "643 Ilalo Street, Honolulu, HI, United States, 96816",
+        "AddressData": {
+            "Street": "643 Ilalo Street",
+            "City": "Honolulu",
+            "State": "HI",
+            "Country": "United States",
+            "ZIP": "96816"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Darryl S. Nakamoto",
+                "Title": "CEO & Director",
+                "YearBorn": "1975"
+            },
+            "1": {
+                "Name": "Ms. Allison  Van Orman",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "1973"
+            }
+        },
+        "Phone": "808 892 6611",
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 58244868,
+        "MarketCapitalizationMln": 58.2449,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": -0.948,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 58270000,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 5489620,
+        "SharesFloat": 1389259,
+        "PercentInsiders": 11.556,
+        "PercentInstitutions": 196.892,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 11.56,
+        "52WeekLow": 9.95,
+        "50DayMA": 10.4102,
+        "200DayMA": 10.3155,
+        "SharesShort": 11908,
+        "SharesShortPriorMonth": 1303,
+        "ShortRatio": 7.42,
+        "ShortPercent": 0.0025
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": {
+        "Institutions": {
+            "0": {
+                "name": "Shaolin Capital Management LLC",
+                "date": "2023-03-31",
+                "totalShares": 13.6621,
+                "totalAssets": 0.2325,
+                "currentShares": 750000,
+                "change": 74871,
+                "change_p": 11.0899
+            },
+            "1": {
+                "name": "BOOTHBAY FUND MANAGEMENT, LLC",
+                "date": "2023-03-31",
+                "totalShares": 8.3525,
+                "totalAssets": 0.0982,
+                "currentShares": 458519,
+                "change": 0,
+                "change_p": 0
+            },
+            "2": {
+                "name": "RPO LLC",
+                "date": "2023-03-31",
+                "totalShares": 7.7747,
+                "totalAssets": 1.3574,
+                "currentShares": 426804,
+                "change": 426804,
+                "change_p": 0
+            },
+            "3": {
+                "name": "Cnh Partners, LLC",
+                "date": "2023-03-31",
+                "totalShares": 6.6676,
+                "totalAssets": 0.1168,
+                "currentShares": 366025,
+                "change": -8975,
+                "change_p": -2.3933
+            },
+            "4": {
+                "name": "Karpus Management Inc",
+                "date": "2023-03-31",
+                "totalShares": 5.8483,
+                "totalAssets": 0.1049,
+                "currentShares": 321050,
+                "change": 145700,
+                "change_p": 83.091
+            },
+            "5": {
+                "name": "Radcliffe Group Inc",
+                "date": "2023-06-30",
+                "totalShares": 5.4649,
+                "totalAssets": 0.2628,
+                "currentShares": 300000,
+                "change": 0,
+                "change_p": 0
+            },
+            "6": {
+                "name": "Crystalline Management Inc",
+                "date": "2023-06-30",
+                "totalShares": 5.3009,
+                "totalAssets": 2.1192,
+                "currentShares": 291000,
+                "change": 211000,
+                "change_p": 263.75
+            },
+            "7": {
+                "name": "Oaktree Capital Management LLC",
+                "date": "2023-06-30",
+                "totalShares": 4.554,
+                "totalAssets": 0.0339,
+                "currentShares": 250000,
+                "change": 0,
+                "change_p": 0
+            },
+            "8": {
+                "name": "Wolverine Asset Management LLC",
+                "date": "2023-06-30",
+                "totalShares": 4.0901,
+                "totalAssets": 0.0274,
+                "currentShares": 224529,
+                "change": 13155,
+                "change_p": 6.2236
+            },
+            "9": {
+                "name": "Saba Capital Management, LP",
+                "date": "2023-03-31",
+                "totalShares": 3.6432,
+                "totalAssets": 0.0399,
+                "currentShares": 200000,
+                "change": 0,
+                "change_p": 0
+            },
+            "10": {
+                "name": "Verition Fund Managegment, LLC",
+                "date": "2023-06-30",
+                "totalShares": 3.3278,
+                "totalAssets": 0.0251,
+                "currentShares": 182682,
+                "change": -197000,
+                "change_p": -51.8855
+            },
+            "11": {
+                "name": "Spartan Fund Management Inc.",
+                "date": "2023-03-31",
+                "totalShares": 2.4308,
+                "totalAssets": 0.6474,
+                "currentShares": 133444,
+                "change": 0,
+                "change_p": 0
+            },
+            "12": {
+                "name": "Centiva Capital, LP",
+                "date": "2023-06-30",
+                "totalShares": 2.277,
+                "totalAssets": 0.0282,
+                "currentShares": 125000,
+                "change": 0,
+                "change_p": 0
+            },
+            "13": {
+                "name": "Walleye Trading LLC",
+                "date": "2023-06-30",
+                "totalShares": 1.4762,
+                "totalAssets": 0.0025,
+                "currentShares": 81036,
+                "change": 81036,
+                "change_p": 0
+            },
+            "14": {
+                "name": "Oakmont Partners, LLC",
+                "date": "2023-03-31",
+                "totalShares": 1.3043,
+                "totalAssets": 0.0498,
+                "currentShares": 71600,
+                "change": 0,
+                "change_p": 0
+            },
+            "15": {
+                "name": "Tuttle Capital Management, LLC",
+                "date": "2023-06-30",
+                "totalShares": 0.5235,
+                "totalAssets": 0.7028,
+                "currentShares": 28738,
+                "change": 28738,
+                "change_p": 0
+            },
+            "16": {
+                "name": "Millennium Management LLC",
+                "date": "2023-03-31",
+                "totalShares": 0.4372,
+                "totalAssets": 0.0001,
+                "currentShares": 24000,
+                "change": 0,
+                "change_p": 0
+            },
+            "17": {
+                "name": "XTX Topco Ltd",
+                "date": "2023-03-31",
+                "totalShares": 0.3473,
+                "totalAssets": 0.0417,
+                "currentShares": 19064,
+                "change": 19064,
+                "change_p": 0
+            },
+            "18": {
+                "name": "UBS Group AG",
+                "date": "2023-06-30",
+                "totalShares": 0.0002,
+                "totalAssets": 0,
+                "currentShares": 10,
+                "change": -4795,
+                "change_p": -99.7919
+            },
+            "19": {
+                "name": "Crestline Management LP",
+                "date": "2023-03-31",
+                "totalShares": 0,
+                "totalAssets": 0,
+                "currentShares": 0,
+                "change": -40000,
+                "change_p": -100
+            }
+        },
+        "Funds": {
+            "0": {
+                "name": "The Merger Fund A",
+                "date": "2023-03-31",
+                "totalShares": 6.9555,
+                "totalAssets": 0.1048,
+                "currentShares": 381831,
+                "change": 381831,
+                "change_p": 0
+            },
+            "1": {
+                "name": "Virtus Westchester Event-Driven Fd I",
+                "date": "2023-03-31",
+                "totalShares": 0.6075,
+                "totalAssets": 0.1013,
+                "currentShares": 33349,
+                "change": 33349,
+                "change_p": 0
+            },
+            "2": {
+                "name": "SPAC and New Issue ETF",
+                "date": "2023-08-30",
+                "totalShares": 0.2617,
+                "totalAssets": 0.9697,
+                "currentShares": 14369,
+                "change": 0,
+                "change_p": 0
+            },
+            "3": {
+                "name": "Virtus Westchester Credit Event Fd I",
+                "date": "2023-03-31",
+                "totalShares": 0.1065,
+                "totalAssets": 0.0961,
+                "currentShares": 5849,
+                "change": 5849,
+                "change_p": 0
+            },
+            "4": {
+                "name": "The Merger Fund VL I",
+                "date": "2023-03-31",
+                "totalShares": 0.083,
+                "totalAssets": 0.1056,
+                "currentShares": 4557,
+                "change": 4557,
+                "change_p": 0
+            },
+            "5": {
+                "name": "Fidelity\u00ae NASDAQ Composite Index\u00ae",
+                "date": "2023-06-30",
+                "totalShares": 0.0343,
+                "totalAssets": 0.0002,
+                "currentShares": 1883,
+                "change": 0,
+                "change_p": 0
+            }
+        }
+    },
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {
+            "0": {
+                "date": "2022",
+                "dateFormatted": "2022-12-31",
+                "sharesMln": "3.0000",
+                "shares": 3000000
+            }
+        },
+        "quarterly": {
+            "0": {
+                "date": "2023-Q2",
+                "dateFormatted": "2023-06-30",
+                "sharesMln": "1.0000",
+                "shares": 1000000
+            },
+            "1": {
+                "date": "2023-Q1",
+                "dateFormatted": "2023-03-31",
+                "sharesMln": "3.0000",
+                "shares": 3000000
+            },
+            "2": {
+                "date": "2022-Q3",
+                "dateFormatted": "2022-09-30",
+                "sharesMln": "3.0000",
+                "shares": 3000000
+            },
+            "3": {
+                "date": "2022-Q2",
+                "dateFormatted": "2022-06-30",
+                "sharesMln": "3.0000",
+                "shares": 3000000
+            }
+        }
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-06-30",
+                "date": "2023-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0207,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0407,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2023-03-09",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.04,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-09-30": {
+                "reportDate": "2022-11-14",
+                "date": "2022-09-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": -0.0008,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-06-30": {
+                "reportDate": "2022-09-09",
+                "date": "2022-06-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0,
+                "epsEstimate": 0,
+                "epsDifference": 0,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.0614
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.0392
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

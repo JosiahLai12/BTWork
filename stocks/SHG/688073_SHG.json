@@ -1,0 +1,169 @@
+{
+    "General": {
+        "Code": "688073",
+        "Type": "Common Stock",
+        "Name": "Bide Pharmatech Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers-Specialty & Generic",
+        "GicSector": "Health Care",
+        "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "GicIndustry": "Pharmaceuticals",
+        "GicSubIndustry": "Pharmaceuticals",
+        "Description": "Bide Pharmatech Co., Ltd. engages in the research, development, production, and sale of pharmaceutical products in China. The company's products are used in life sciences, organic chemistry, materials science, analytical chemistry, and other applications. The company was incorporated in 2007 and is headquartered in Shanghai, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 617,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 6608095232,
+        "MarketCapitalizationMln": 6608.0952,
+        "EBITDA": 179448448,
+        "PERatio": 35.9951,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 102.86,
+        "BookValue": 23.194,
+        "DividendShare": 1.1,
+        "DividendYield": 0.0208,
+        "EarningsShare": 2.02,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.1727,
+        "OperatingMarginTTM": 0.1748,
+        "ReturnOnAssetsTTM": 0.0591,
+        "ReturnOnEquityTTM": 0.1251,
+        "RevenueTTM": 987785216,
+        "RevenuePerShareTTM": 13.384,
+        "QuarterlyRevenueGrowthYOY": 0.41,
+        "GrossProfitTTM": 362538759,
+        "DilutedEpsTTM": 2.02,
+        "QuarterlyEarningsGrowthYOY": 0.04
+    },
+    "Valuation": {
+        "TrailingPE": 35.9951,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 5.3083,
+        "PriceBookMRQ": 2.6776,
+        "EnterpriseValue": 5279725056,
+        "EnterpriseValueRevenue": 5.1253,
+        "EnterpriseValueEbitda": 24.3444
+    },
+    "SharesStats": {
+        "SharesOutstanding": 90882896,
+        "SharesFloat": 29431534,
+        "PercentInsiders": 65.98,
+        "PercentInstitutions": 11.427,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 112.1415,
+        "52WeekLow": 43.8959,
+        "50DayMA": 70.0492,
+        "200DayMA": 80.5444,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 1.54,
+        "ForwardAnnualDividendYield": 0.0208,
+        "PayoutRatio": 1.1777,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-05-25",
+        "LastSplitFactor": "1.4:1",
+        "LastSplitDate": "2023-05-25",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-03-31": {
+                "reportDate": "2023-04-19",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.5689,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2023-01-13",
+                "date": "2022-12-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": 0.7387,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-03-31": {
+                "date": "2023-03-31",
+                "epsActual": 0.5689
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.7387
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "General": {
+        "Code": "688061",
+        "Type": "Common Stock",
+        "Name": "Shanghai Orient-Chip Technology Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "GicSector": "Information Technology",
+        "GicGroup": "Semiconductors & Semiconductor Equipment",
+        "GicIndustry": "Semiconductors & Semiconductor Equipment",
+        "GicSubIndustry": "Semiconductors",
+        "Description": "Shanghai Orient-Chip Technology Co.,LTD. engages in the research and development, design, and production of digital-analog hybrid integrated circuits and analog integrated circuits. The company's power management chips include industrial lighting LED driver chips, automotive headlight LED driver chips, ambient light LED driver chips, overvoltage protection chips, load switch chips, lithium battery protection chips, USB switch chips, level conversion chips, type-C/audio switch chips, MIPI signal switch chips, DC conversion chips, LED flash drivers, audio power amplifiers, LCD backlight drivers, LDO-low dropout linear regulators, AMOLED power drivers, and LCD bias driver chips; isolated H-bridge drivers, stepper motor drivers, DC brushless motor drivers; and light sensor and magnetic sensor chips. Its products are used in smart home, industrial control, computers, wearable devices, transportation, etc. The company was founded in 2005 and is headquartered in Shanghai, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 334,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 5043627520,
+        "MarketCapitalizationMln": 5043.6275,
+        "EBITDA": 11816125,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 49,
+        "BookValue": 22.034,
+        "DividendShare": 0.369,
+        "DividendYield": 0.0124,
+        "EarningsShare": -0.08,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0925,
+        "OperatingMarginTTM": -0.0149,
+        "ReturnOnAssetsTTM": 0,
+        "ReturnOnEquityTTM": 0.0679,
+        "RevenueTTM": 463345504,
+        "RevenuePerShareTTM": 4.434,
+        "QuarterlyRevenueGrowthYOY": -0.336,
+        "GrossProfitTTM": 149551900,
+        "DilutedEpsTTM": -0.08,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 8.292,
+        "PriceBookMRQ": 12.66,
+        "EnterpriseValue": 3263660544,
+        "EnterpriseValueRevenue": 10.9073,
+        "EnterpriseValueEbitda": 34.8696
+    },
+    "SharesStats": {
+        "SharesOutstanding": 114889000,
+        "SharesFloat": 43531590,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 3.966,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 75.8285,
+        "52WeekLow": 38.87,
+        "50DayMA": 47.3012,
+        "200DayMA": 55.0629,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.55,
+        "ForwardAnnualDividendYield": 0.0124,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-06-20",
+        "LastSplitFactor": "1.49:1",
+        "LastSplitDate": "2023-06-20",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-02",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": -0.0608,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-04-27",
+                "date": "2023-03-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": -0.0177,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": -0.0785
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

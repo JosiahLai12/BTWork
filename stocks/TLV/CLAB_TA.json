@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "CLAB",
+        "Type": "Common Stock",
+        "Name": "CompuLab Ltd",
+        "Exchange": "TA",
+        "CurrencyCode": "ILA",
+        "CurrencyName": "Israeli Agora",
+        "CurrencySymbol": "ILA",
+        "CountryName": "Israel",
+        "CountryISO": "Il",
+        "OpenFigi": null,
+        "ISIN": "IL0011403008",
+        "LEI": null,
+        "PrimaryTicker": "CLAB.TA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "GicSector": "Information Technology",
+        "GicGroup": "Technology Hardware & Equipment",
+        "GicIndustry": "Technology Hardware, Storage & Peripherals",
+        "GicSubIndustry": "Technology Hardware, Storage & Peripherals",
+        "Description": "C-Lab Ltd manufactures and sells ARM-based computer-on-module and system-on-module products worldwide. It also offers miniature fanless-PCs for industrial applications; Internet of Things gateways; and single board computers. Its products are embedded in telecommunication systems, automotive devices, gaming systems, medical devices, aerospace and marine systems, laboratory instruments, industrial automation, and other applications. The company was formerly known as CompuLab Ltd. C-Lab Ltd was founded in 1992 and is based in Yokneam Illit, Israel.",
+        "Address": "17 HaYetsira Street, Yokneam Illit, Israel, 2069208",
+        "AddressData": {
+            "Street": "17 HaYetsira Street",
+            "City": "Yokneam Illit",
+            "Country": "Israel",
+            "ZIP": "2069208"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Gideon  Yampolsky",
+                "Title": "Chairman & CEO",
+                "YearBorn": "1961"
+            },
+            "1": {
+                "Name": "Ms. Irish  Friedman",
+                "Title": "CFO & Director of Accounts",
+                "YearBorn": "1973"
+            },
+            "2": {
+                "Name": "Mr. Dmitry  Katkov",
+                "Title": "VP of Devel. & Deputy CEO",
+                "YearBorn": "1976"
+            },
+            "3": {
+                "Name": "Mr. Tom  Ben-Moshe",
+                "Title": "Chief Accountant",
+                "YearBorn": "1989"
+            }
+        },
+        "Phone": "972 4 829 0100",
+        "WebURL": "https://www.compulab.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 104,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 157110880,
+        "MarketCapitalizationMln": 157.1109,
+        "EBITDA": 9352000,
+        "PERatio": 111.1429,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 7.137,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.14,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0.0585,
+        "OperatingMarginTTM": 0.058,
+        "ReturnOnAssetsTTM": 0.0397,
+        "ReturnOnEquityTTM": 0.1299,
+        "RevenueTTM": 119293000,
+        "RevenuePerShareTTM": 14.006,
+        "QuarterlyRevenueGrowthYOY": 0.561,
+        "GrossProfitTTM": 37003000,
+        "DilutedEpsTTM": 0.14,
+        "QuarterlyEarningsGrowthYOY": 3.957
+    },
+    "Valuation": {
+        "TrailingPE": 111.1429,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 1.5351,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 107766904,
+        "EnterpriseValueRevenue": 7.4179,
+        "EnterpriseValueEbitda": 44.9806
+    },
+    "SharesStats": {
+        "SharesOutstanding": 9480480,
+        "SharesFloat": 2480456,
+        "PercentInsiders": 70.75099999999999,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.3668,
+        "52WeekHigh": 1843,
+        "52WeekLow": 1347,
+        "50DayMA": 1598.58,
+        "200DayMA": 1602.07,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

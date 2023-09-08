@@ -1,0 +1,151 @@
+{
+    "General": {
+        "Code": "QURI",
+        "Type": "Common Stock",
+        "Name": "Quri-Mayu Developments Ltd.",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "October",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Other Industrial Metals & Mining",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Diversified Metals & Mining",
+        "Description": "Quri-Mayu Developments Ltd. engages in the identification, evaluation, acquisition, and exploration of mineral properties in Canada. It has an option agreement to acquire a 100% interest in the AT Mining property located in British Columbia. The company was incorporated in 2017 and is headquartered in Vancouver, Canada.",
+        "Address": "1285 West Pender Street, Vancouver, BC, Canada, V6E 4B1",
+        "AddressData": {
+            "Street": "1285 West Pender Street",
+            "City": "Vancouver",
+            "State": "BC",
+            "Country": "Canada",
+            "ZIP": "V6E 4B1"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Kevin  Smith",
+                "Title": "CEO, Sec. & Director",
+                "YearBorn": "1986"
+            },
+            "1": {
+                "Name": "Mr. Braydon David Hobbs B.A., C.A., CPA",
+                "Title": "CFO & Director",
+                "YearBorn": "1987"
+            }
+        },
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 2012863,
+        "MarketCapitalizationMln": 2.0129,
+        "EBITDA": null,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.019,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.01,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-04-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.2145,
+        "ReturnOnEquityTTM": -0.6189,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.01,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 4.158,
+        "EnterpriseValue": 1643249,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": -14.3006
+    },
+    "SharesStats": {
+        "SharesOutstanding": 44730300,
+        "SharesFloat": 30124988,
+        "PercentInsiders": 32.652,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 0.14,
+        "52WeekLow": 0.01,
+        "50DayMA": 0.0347,
+        "200DayMA": 0.0549,
+        "SharesShort": 1277,
+        "SharesShortPriorMonth": 928,
+        "ShortRatio": 6.08,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

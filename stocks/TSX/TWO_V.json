@@ -1,0 +1,151 @@
+{
+    "General": {
+        "Code": "TWO",
+        "Type": "Common Stock",
+        "Name": "T2 Metals Corp.",
+        "Exchange": "V",
+        "CurrencyCode": "CAD",
+        "CurrencyName": "Canadian Dollar",
+        "CurrencySymbol": "C$",
+        "CountryName": "Canada",
+        "CountryISO": "CA",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "April",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Basic Materials",
+        "Industry": "Copper",
+        "GicSector": "Materials",
+        "GicGroup": "Materials",
+        "GicIndustry": "Metals & Mining",
+        "GicSubIndustry": "Copper",
+        "Description": "T2 Metals Corp., a junior mineral exploration company, engages in the acquisition and exploration of mineral properties in Canada and the United States. The company primarily holds a 90% interest in the Sherridon copper-zinc-silver-gold property that includes 28 mining claims and 1 mineral lease covering an area of 4,968 hectares located in the Sherridon mining district, Manitoba. It also holds 100% interests in the Cora copper project, which consists of 46 granted lode mining claims covering an area of 3.84 square kilometers situated in Pinal County, Arizona; and Lida copper project that includes 58 granted lode mining claims covering an area of 2.75 square kilometers located in Esmeralda County, Nevada. The company was formerly known as Aguila Copper Corp. and changed its name to T2 Metals Corp. in October 2022. T2 Metals Corp. was incorporated in 1997 and is based in Vancouver, Canada.",
+        "Address": "1090 West Georgia Street, Vancouver, BC, Canada, V6E 3V7",
+        "AddressData": {
+            "Street": "1090 West Georgia Street",
+            "City": "Vancouver",
+            "State": "BC",
+            "Country": "Canada",
+            "ZIP": "V6E 3V7"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Mark Stephen Saxon B.Sc.(Hons), FAUSIMM, GDipAppFin, MAIG, MAusIMM",
+                "Title": "Pres, CEO & Director",
+                "YearBorn": "1970"
+            },
+            "1": {
+                "Name": "Mr. Nick  DeMare CA, CPA",
+                "Title": "CFO, Director & Corp. Sec.",
+                "YearBorn": "1954"
+            }
+        },
+        "Phone": null,
+        "WebURL": "https://aguilacopper.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-05"
+    },
+    "Highlights": {
+        "MarketCapitalization": 4913680,
+        "MarketCapitalizationMln": 4.9137,
+        "EBITDA": -688302,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.083,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.03,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-04-30",
+        "ProfitMargin": 0,
+        "OperatingMarginTTM": 0,
+        "ReturnOnAssetsTTM": -0.1725,
+        "ReturnOnEquityTTM": -0.3172,
+        "RevenueTTM": 0,
+        "RevenuePerShareTTM": 0,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": -0.03,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 4.752,
+        "EnterpriseValue": 3449828,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": -6.4589
+    },
+    "SharesStats": {
+        "SharesOutstanding": 28904000,
+        "SharesFloat": 24194398,
+        "PercentInsiders": 16.21,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.9904,
+        "52WeekHigh": 0.54,
+        "52WeekLow": 0.14,
+        "50DayMA": 0.1858,
+        "200DayMA": 0.2882,
+        "SharesShort": 317,
+        "SharesShortPriorMonth": 17787,
+        "ShortRatio": 0.02,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "2017-05-17",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "1:10",
+        "LastSplitDate": "2017-05-17",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

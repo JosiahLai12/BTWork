@@ -1,0 +1,143 @@
+{
+    "General": {
+        "Code": "ZP7",
+        "Type": "Common Stock",
+        "Name": "DIRECTA SIM SPA",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "IT0001463063",
+        "LEI": "815600A4DA95C74BB576",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Investment Banking & Brokerage",
+        "Description": "Directa S.I.M.p.A. provides online trading services in Italy. The company offers dLite, an online web trading platform; Darwin, an online trading platform that provides trading, charting, and informative components; and Visual Trader (VT6), a technical and graphic analysis software, dBar, an index data and charting widget, and touchTrader, a mobile trading app; and investing platforms under the Directa Classic and dLite names. Its platforms provide trading stocks, bonds, certificates, CW products, futures, LMAX exchange CFDs, funds, and options, as well as ETF, ETC, and ETN products. The company was incorporated in 1995 and is headquartered in Turin, Italy.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 78,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 63703552,
+        "MarketCapitalizationMln": 63.7036,
+        "EBITDA": null,
+        "PERatio": 10.0571,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1.812,
+        "DividendShare": 0.16,
+        "DividendYield": 0.0449,
+        "EarningsShare": 0.35,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": 0.1937,
+        "OperatingMarginTTM": 0.2556,
+        "ReturnOnAssetsTTM": 0.0601,
+        "ReturnOnEquityTTM": 0.1982,
+        "RevenueTTM": 28924848,
+        "RevenuePerShareTTM": 1.753,
+        "QuarterlyRevenueGrowthYOY": 0.007,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0.35,
+        "QuarterlyEarningsGrowthYOY": 0.484
+    },
+    "Valuation": {
+        "TrailingPE": 10.0571,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 106213344,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 17460000,
+        "SharesFloat": 0,
+        "PercentInsiders": 78.376,
+        "PercentInstitutions": 0.35100000000000003,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 4.27,
+        "52WeekLow": 3.1639,
+        "50DayMA": 3.9134,
+        "200DayMA": 3.847,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.16,
+        "ForwardAnnualDividendYield": 0.0449,
+        "PayoutRatio": 0.4412,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-08",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

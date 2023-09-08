@@ -1,0 +1,166 @@
+{
+    "General": {
+        "Code": "ALTTU",
+        "Type": "Common Stock",
+        "Name": "TaTaTu S.p.A.",
+        "Exchange": "PA",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "France",
+        "CountryISO": "FR",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Application",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Tatatu S.p.A. operates a social media and entertainment application. It owns and manages the Tatatu app that offers social media, post, video call and chat, video content, and e-commerce services. The company was founded in 2020 and is based in Rome, Italy. Tatatu S.p.A. operates as a subsidiary of IA Media S.A.",
+        "Address": "Via Barberini 29, Rome, RM, Italy, 00187",
+        "AddressData": {
+            "Street": "Via Barberini 29",
+            "City": "Rome",
+            "State": "RM",
+            "Country": "Italy",
+            "ZIP": "00187"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Mr. Andrea  Iervolino",
+                "Title": "Founder, CEO & Director",
+                "YearBorn": "1987"
+            },
+            "1": {
+                "Name": "Mr. Danilo  Barletta",
+                "Title": "Chief Financial Officer",
+                "YearBorn": "NA"
+            },
+            "2": {
+                "Name": "Mr. Bojan  Bjelic",
+                "Title": "Chief Technology Officer",
+                "YearBorn": "NA"
+            },
+            "3": {
+                "Name": "Ms. Patrizia Alessandra Conte",
+                "Title": "Chief Marketing Officer",
+                "YearBorn": "NA"
+            },
+            "4": {
+                "Name": "Mr. Nicola  Allieta",
+                "Title": "Chief Content Officer",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": "https://www.tatatu.com",
+        "LogoURL": "",
+        "FullTimeEmployees": 164,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 5839624192,
+        "MarketCapitalizationMln": 5839.6242,
+        "EBITDA": 99945000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.039,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.01,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-12-31",
+        "ProfitMargin": -0.0825,
+        "OperatingMarginTTM": 0.0231,
+        "ReturnOnAssetsTTM": 0.0167,
+        "ReturnOnEquityTTM": -0.4619,
+        "RevenueTTM": 113357000,
+        "RevenuePerShareTTM": 0.139,
+        "QuarterlyRevenueGrowthYOY": 5.816,
+        "GrossProfitTTM": 40836000,
+        "DilutedEpsTTM": -0.01,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 108.422,
+        "PriceBookMRQ": 282.2636,
+        "EnterpriseValue": 5852349952,
+        "EnterpriseValueRevenue": 104.5576,
+        "EnterpriseValueEbitda": 130.4185
+    },
+    "SharesStats": {
+        "SharesOutstanding": 815590016,
+        "SharesFloat": 2345084,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 11,
+        "52WeekLow": 2,
+        "50DayMA": 6.9876,
+        "200DayMA": 7.8069,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

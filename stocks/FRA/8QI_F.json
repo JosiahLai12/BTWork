@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "8QI",
+        "Type": "Common Stock",
+        "Name": "FARMERS EDGE INC.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA30957Q1028",
+        "LEI": null,
+        "PrimaryTicker": "FDGE.TO",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Application",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Farmers Edge Inc. develops digital agriculture solutions in Canada, the United States, Brazil, Australia, and internationally. It operates through two segments, Digital Agronomy Operations and E-commerce Operations. The Digital Agronomy Operations segment offers suite of digital agronomy solutions to growers. Its E-commerce Operations engages in the sale of crop inputs through online marketplace. It offers FarmCommand, a cloud-based analytics software platform, which makes easy to collect, visualize, analyze, and use farm data to support operations and measure the impact of every decision; and Smart Carbon solutions comprising low-carbon grain and verifiable carbon credit. In addition, the company provides laboratory services, such as zone, grid, and composite soil testing; and offers insurance and variable rate technology. Farmers Edge Inc. offers its platform solutions through a network of channel partners, including crop input manufacturers and retailers, seed and crop protection companies, equipment manufacturers, grain companies, insurance companies and agencies, and food manufacturers. The company was founded in 2005 and is headquartered in Winnipeg, Canada.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 4917578,
+        "MarketCapitalizationMln": 4.9176,
+        "EBITDA": -70822000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": -0.361,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -1.17,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": -2.7998,
+        "OperatingMarginTTM": -2.7003,
+        "ReturnOnAssetsTTM": -0.618,
+        "ReturnOnEquityTTM": -3.5194,
+        "RevenueTTM": 28011000,
+        "RevenuePerShareTTM": 0.667,
+        "QuarterlyRevenueGrowthYOY": -0.325,
+        "GrossProfitTTM": -20988000,
+        "DilutedEpsTTM": -1.17,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 58109680,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 41959900,
+        "SharesFloat": 15762450,
+        "PercentInsiders": 66.376,
+        "PercentInstitutions": 4.906,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.4379,
+        "52WeekHigh": 0.635,
+        "52WeekLow": 0.0005,
+        "50DayMA": 0.0897,
+        "200DayMA": 0.0749,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-10",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

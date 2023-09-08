@@ -1,0 +1,537 @@
+{
+    "General": {
+        "Code": "NAN",
+        "Type": "FUND",
+        "Name": "Nuveen New York Quality Municipal Income Fund",
+        "Exchange": "NYSE",
+        "CurrencyCode": "USD",
+        "CurrencyName": "US Dollar",
+        "CurrencySymbol": "$",
+        "CountryName": "USA",
+        "CountryISO": "US",
+        "OpenFigi": "BBG000BWM1B7",
+        "ISIN": "US67066X1072",
+        "CUSIP": null,
+        "Fund_Summary": null,
+        "Fund_Family": null,
+        "Fund_Category": null,
+        "Fund_Style": "Muni New York Long",
+        "Fiscal_Year_End": null,
+        "MarketCapitalization": 362503100
+    },
+    "MutualFund_Data": {
+        "Fund_Category": null,
+        "Fund_Style": "Muni New York Long",
+        "Nav": "12.15",
+        "Prev_Close_Price": "10.73",
+        "Update_Date": "2023-09-30",
+        "Portfolio_Net_Assets": null,
+        "Share_Class_Net_Assets": null,
+        "Morning_Star_Rating": null,
+        "Morning_Star_Risk_Rating": null,
+        "Morning_Star_Category": null,
+        "Inception_Date": "1999-05-26",
+        "Currency": null,
+        "Domicile": null,
+        "Yield": "0.0049",
+        "Yield_YTD": "2.3087",
+        "Yield_1Year_YTD": "1.0653",
+        "Yield_3Year_YTD": "-3.5870",
+        "Yield_5Year_YTD": "0.1913",
+        "Expense_Ratio": "1.4600",
+        "Expense_Ratio_Date": null,
+        "Asset_Allocation": {
+            "0": {
+                "Net_%": "0.18029",
+                "Long_%": "0.18029",
+                "Type": "Cash",
+                "Short_%": null,
+                "Category_Average": "0.67698",
+                "Benchmark": null
+            },
+            "1": {
+                "Net_%": "0.0",
+                "Long_%": "0.0",
+                "Type": "Not Classified",
+                "Short_%": null,
+                "Category_Average": "0.0",
+                "Benchmark": null
+            },
+            "2": {
+                "Net_%": "0.00000",
+                "Long_%": "0.00000",
+                "Type": "Non US Stock",
+                "Short_%": null,
+                "Category_Average": "0.00000",
+                "Benchmark": null
+            },
+            "3": {
+                "Net_%": "0.00000",
+                "Long_%": "0.00000",
+                "Type": "Other",
+                "Short_%": null,
+                "Category_Average": "0.00000",
+                "Benchmark": null
+            },
+            "4": {
+                "Net_%": "0.00000",
+                "Long_%": "0.00000",
+                "Type": "US Stock",
+                "Short_%": null,
+                "Category_Average": "0.00000",
+                "Benchmark": null
+            },
+            "5": {
+                "Net_%": "99.81970",
+                "Long_%": "99.81970",
+                "Type": "Bond",
+                "Short_%": null,
+                "Category_Average": "102.41486",
+                "Benchmark": null
+            }
+        },
+        "Value_Growth": {
+            "0": {
+                "Name": "Price/Prospective Earnings",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            },
+            "1": {
+                "Name": "Price/Book",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            },
+            "2": {
+                "Name": "Price/Sales",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            },
+            "3": {
+                "Name": "Price/Cash Flow",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            },
+            "4": {
+                "Name": "Dividend Yield %",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            },
+            "5": {
+                "Name": "Long-Term Earnings %",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            },
+            "6": {
+                "Name": "Historical Earnings %",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            },
+            "7": {
+                "Name": "Book-Value Growth %",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            },
+            "8": {
+                "Name": "Sales Growth %",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            },
+            "9": {
+                "Name": "Cash-Flow Growth %",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Stock_Portfolio": null
+            }
+        },
+        "Top_Holdings": {
+            "0": {
+                "Name": "NEW YORK LIBERTY DEV CORP LIBERTY REV 5%",
+                "Owned": "17,145,000",
+                "Change": "0",
+                "Weight": "2.69"
+            },
+            "1": {
+                "Name": "METROPOLITAN TRANSN AUTH N Y REV 5.25%",
+                "Owned": "11,920,000",
+                "Change": "0",
+                "Weight": "1.98"
+            },
+            "2": {
+                "Name": "ERIE CNTY N Y TOB ASSET SECURITIZATION CORP TOB SETTLEMENT REV 5%",
+                "Owned": "12,500,000",
+                "Change": "0",
+                "Weight": "1.89"
+            },
+            "3": {
+                "Name": "TRIBOROUGH BRDG & TUNL AUTH NY REVS 5%",
+                "Owned": "10,200,000",
+                "Change": "0",
+                "Weight": "1.83"
+            },
+            "4": {
+                "Name": "PUERTO RICO SALES TAX FING CORP SALES TAX REV 5%",
+                "Owned": "10,955,000",
+                "Change": "0",
+                "Weight": "1.81"
+            },
+            "5": {
+                "Name": "METROPOLITAN TRANSN AUTH N Y DEDICATED TAX FD 4%",
+                "Owned": "10,000,000",
+                "Change": "10,000,000",
+                "Weight": "1.65"
+            },
+            "6": {
+                "Name": "NEW YORK N Y CITY TRANSITIONAL FIN AUTH BLDG AID REV 5.25%",
+                "Owned": "9,000,000",
+                "Change": "0",
+                "Weight": "1.61"
+            },
+            "7": {
+                "Name": "NEW YORK ST DORM AUTH REVS NON ST SUPPORTED DEBT 4%",
+                "Owned": "9,680,000",
+                "Change": "0",
+                "Weight": "1.53"
+            },
+            "8": {
+                "Name": "NEW YORK ST URBAN DEV CORP REV 4%",
+                "Owned": "9,000,000",
+                "Change": "0",
+                "Weight": "1.50"
+            },
+            "9": {
+                "Name": "NEW YORK ST DORM AUTH REVS NON ST SUPPORTED DEBT 4%",
+                "Owned": "9,150,000",
+                "Change": "9,150,000",
+                "Weight": "1.48"
+            },
+            "10": {
+                "Name": "NEW YORK N Y 5%",
+                "Owned": "8,775,000",
+                "Change": "0",
+                "Weight": "1.47"
+            },
+            "11": {
+                "Name": "NEW YORK TRANSN DEV CORP SPL FAC REV 5%",
+                "Owned": "9,730,000",
+                "Change": "0",
+                "Weight": "1.45"
+            },
+            "12": {
+                "Name": "NEW YORK TRANSN DEV CORP SPL FAC REV 5%",
+                "Owned": "8,515,000",
+                "Change": "0",
+                "Weight": "1.42"
+            },
+            "13": {
+                "Name": "NASSAU CNTY N Y 5%",
+                "Owned": "8,000,000",
+                "Change": "0",
+                "Weight": "1.41"
+            },
+            "14": {
+                "Name": "PORT AUTH N Y & N J 5%",
+                "Owned": "8,780,000",
+                "Change": "0",
+                "Weight": "1.41"
+            },
+            "15": {
+                "Name": "LIBERTY N Y DEV CORP REV 5.5%",
+                "Owned": "6,885,000",
+                "Change": "0",
+                "Weight": "1.38"
+            },
+            "16": {
+                "Name": "NEW YORK N Y 5%",
+                "Owned": "7,500,000",
+                "Change": "0",
+                "Weight": "1.34"
+            },
+            "17": {
+                "Name": "NEW YORK ST ENVIRONMENTAL FACS CORP ST CLEAN WTR & DRINKING WTR REV 5%",
+                "Owned": "7,500,000",
+                "Change": "0",
+                "Weight": "1.32"
+            },
+            "18": {
+                "Name": "UTILITY DEBT SECURITIZATION AUTH N Y 5%",
+                "Owned": "8,030,000",
+                "Change": "0",
+                "Weight": "1.25"
+            },
+            "19": {
+                "Name": "NEW YORK N Y CITY TRANSITIONAL FIN AUTH REV 5%",
+                "Owned": "7,860,000",
+                "Change": "0",
+                "Weight": "1.21"
+            },
+            "20": {
+                "Name": "NEW YORK N Y 5%",
+                "Owned": "6,480,000",
+                "Change": "0",
+                "Weight": "1.12"
+            },
+            "21": {
+                "Name": "TSASC INC N Y 5%",
+                "Owned": "7,155,000",
+                "Change": "0",
+                "Weight": "1.11"
+            },
+            "22": {
+                "Name": "NEW YORK ST DORM AUTH SALES TAX REV ST SUPPORTED DEBT 5%",
+                "Owned": "6,000,000",
+                "Change": "0",
+                "Weight": "1.05"
+            },
+            "23": {
+                "Name": "NEW YORK TRANSN DEV CORP SPL FAC REV 5.25%",
+                "Owned": "6,315,000",
+                "Change": "0",
+                "Weight": "0.99"
+            },
+            "24": {
+                "Name": "NEW YORK ST DORM AUTH REVS NON ST SUPPORTED DEBT 5%",
+                "Owned": "5,500,000",
+                "Change": "0",
+                "Weight": "0.98"
+            }
+        },
+        "Market_Capitalization": {
+            "0": {
+                "Size": "AverageMarketCap",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Portfolio_%": null
+            },
+            "1": {
+                "Size": "Giant",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Portfolio_%": null
+            },
+            "2": {
+                "Size": "Large",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Portfolio_%": null
+            },
+            "3": {
+                "Size": "Medium",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Portfolio_%": null
+            },
+            "4": {
+                "Size": "Small",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Portfolio_%": null
+            },
+            "5": {
+                "Size": "Micro",
+                "Category_Average": null,
+                "Benchmark": null,
+                "Portfolio_%": null
+            }
+        },
+        "Sector_Weights": {
+            "Cyclical": {
+                "0": {
+                    "Name": "Basic Materials",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                },
+                "1": {
+                    "Name": "Consumer Cyclical",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                },
+                "2": {
+                    "Name": "Financial Services",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                },
+                "3": {
+                    "Name": "Real Estate",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                }
+            },
+            "Defensive": {
+                "0": {
+                    "Name": "Consumer Defensive",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                },
+                "1": {
+                    "Name": "Healthcare",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                },
+                "2": {
+                    "Name": "Utilities",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                }
+            },
+            "Sensitive": {
+                "0": {
+                    "Name": "Communication Services",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                },
+                "1": {
+                    "Name": "Energy",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                },
+                "2": {
+                    "Name": "Industrials",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                },
+                "3": {
+                    "Name": "Technology",
+                    "Category_Average": null,
+                    "Amount_%": null,
+                    "Benchmark": null
+                }
+            },
+            "Bond Sector": {
+                "0": {
+                    "Name": "Government",
+                    "Category_Average": 0,
+                    "Amount_%": null,
+                    "Stocks_%": 0,
+                    "Benchmark": null
+                },
+                "1": {
+                    "Name": "Municipal",
+                    "Category_Average": 99.31593,
+                    "Amount_%": null,
+                    "Stocks_%": 99.8197,
+                    "Benchmark": null
+                },
+                "2": {
+                    "Name": "Corporate",
+                    "Category_Average": 0.02739,
+                    "Amount_%": null,
+                    "Stocks_%": 0,
+                    "Benchmark": null
+                },
+                "3": {
+                    "Name": "Securitized",
+                    "Category_Average": 0,
+                    "Amount_%": null,
+                    "Stocks_%": 0,
+                    "Benchmark": null
+                },
+                "4": {
+                    "Name": "Cash and Equivalents",
+                    "Category_Average": 0.65668,
+                    "Amount_%": null,
+                    "Stocks_%": 0.18029,
+                    "Benchmark": null
+                },
+                "5": {
+                    "Name": "Derivative",
+                    "Category_Average": 0,
+                    "Amount_%": null,
+                    "Stocks_%": 0,
+                    "Benchmark": null
+                }
+            }
+        },
+        "World_Regions": {
+            "Americas": {
+                "0": {
+                    "Name": "North America",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                },
+                "1": {
+                    "Name": "Latin America",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                }
+            },
+            "Greater Asia": {
+                "0": {
+                    "Name": "Japan",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                },
+                "1": {
+                    "Name": "Australasia",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                },
+                "2": {
+                    "Name": "Asia Developed",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                },
+                "3": {
+                    "Name": "Asia Emerging",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                }
+            },
+            "Greater Europe": {
+                "0": {
+                    "Name": "United Kingdom",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                },
+                "1": {
+                    "Name": "Europe Developed",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                },
+                "2": {
+                    "Name": "Europe Emerging",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                },
+                "3": {
+                    "Name": "Africa/Middle East",
+                    "Category_Average": null,
+                    "Stocks_%": null,
+                    "Benchmark": null
+                }
+            }
+        },
+        "Top_Countries": {},
+        "market_capitalization": null,
+        "world_regions": null,
+        "sector_weights": null,
+        "asset_allocation": null
+    }
+}

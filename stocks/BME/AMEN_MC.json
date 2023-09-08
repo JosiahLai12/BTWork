@@ -1,0 +1,150 @@
+{
+    "General": {
+        "Code": "AMEN",
+        "Type": "Common Stock",
+        "Name": "Aeternal Mentis SA",
+        "Exchange": "MC",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Spain",
+        "CountryISO": "ES",
+        "OpenFigi": null,
+        "ISIN": "ES0105588000",
+        "LEI": null,
+        "PrimaryTicker": "AMEN.MC",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": null,
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Software-Infrastructure",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "Software",
+        "GicSubIndustry": "Application Software",
+        "Description": "Aeternal Mentis, S.A. operates as a technology services company. The company provides other businesses with infrastructure and services for the development of AI models and their subsequent implementation. Its services include computing capacity, model generation + training, development support, and consulting services. The company was incorporated in 2020 and is based in Bilbao, Spain.",
+        "Address": "Calle Arca, 2, Vitoria-Gasteiz, Spain, 01005",
+        "AddressData": {
+            "Street": "Calle Arca, 2",
+            "City": "Vitoria-Gasteiz",
+            "Country": "Spain",
+            "ZIP": "01005"
+        },
+        "Listings": {},
+        "Officers": {
+            "0": {
+                "Name": "Jorge Santiago Fernandez Murillo",
+                "Title": "Pres & Chairman",
+                "YearBorn": "NA"
+            },
+            "1": {
+                "Name": "Asier  De Felipe Garate",
+                "Title": "Sec. & Director",
+                "YearBorn": "NA"
+            }
+        },
+        "Phone": null,
+        "WebURL": "https://aeternalmentis.ai",
+        "LogoURL": "",
+        "FullTimeEmployees": 1,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 123059464,
+        "MarketCapitalizationMln": 123.0595,
+        "EBITDA": 1322128,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.566,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": null,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2021-06-30",
+        "ProfitMargin": 0.1422,
+        "OperatingMarginTTM": 0.4277,
+        "ReturnOnAssetsTTM": 0.0137,
+        "ReturnOnEquityTTM": 0.0312,
+        "RevenueTTM": 1653415,
+        "RevenuePerShareTTM": 0.125,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 0,
+        "DilutedEpsTTM": 0,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 121545192,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 13232200,
+        "SharesFloat": 748337,
+        "PercentInsiders": 94,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": -0.1037,
+        "52WeekHigh": 9.5,
+        "52WeekLow": 8.6,
+        "50DayMA": 9.05,
+        "200DayMA": 9.05,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

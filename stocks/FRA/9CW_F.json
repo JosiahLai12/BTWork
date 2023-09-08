@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "9CW",
+        "Type": "Common Stock",
+        "Name": "ORAGIN FOODS INC.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA6840221064",
+        "LEI": null,
+        "PrimaryTicker": "OG.V",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "January",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "GicSector": "Consumer Staples",
+        "GicGroup": "Food, Beverage & Tobacco",
+        "GicIndustry": "Food Products",
+        "GicSubIndustry": "Packaged Foods & Meats",
+        "Description": "Oragin Foods Inc. owns and operates grocery stores that sell natural and organic products to consumers in Canada. It operates in two segments, Retail Sales and Marketing. The company offers produce, dairy, bakery, bulk, grocery, meat, frozen, and prepared foods; and health and beauty products, as well as vitamins and supplements under the Organic Garage and Future of Cheese brands. It operates 4 stores in the Greater Toronto Area. The company was formerly known as Organic Garage Ltd. and changed its name to Oragin Foods Inc. in February 2022. Oragin Foods Inc. was founded in 2005 and is headquartered in Oakville, Canada.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-30"
+    },
+    "Highlights": {
+        "MarketCapitalization": 2173450,
+        "MarketCapitalizationMln": 2.1735,
+        "EBITDA": -136231,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 0.187,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.03,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2022-07-31",
+        "ProfitMargin": -0.1362,
+        "OperatingMarginTTM": -0.0234,
+        "ReturnOnAssetsTTM": -0.0132,
+        "ReturnOnEquityTTM": -0.2528,
+        "RevenueTTM": 23246652,
+        "RevenuePerShareTTM": 0.381,
+        "QuarterlyRevenueGrowthYOY": -0.173,
+        "GrossProfitTTM": 7511857,
+        "DilutedEpsTTM": -0.03,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 11636926,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 62467300,
+        "SharesFloat": 53517641,
+        "PercentInsiders": 14.857000000000001,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.8644,
+        "52WeekHigh": 0.072,
+        "52WeekLow": 0.0195,
+        "50DayMA": 0.0265,
+        "200DayMA": 0.0266,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": "1:4",
+        "LastSplitDate": "2016-10-24",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-07-31": {
+                "reportDate": "2023-08-30",
+                "date": "2023-07-31",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-06-30": {
+                "reportDate": "2023-09-27",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-07-31": {
+                "date": "2023-07-31",
+                "epsActual": 0
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

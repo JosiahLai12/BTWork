@@ -1,0 +1,147 @@
+{
+    "General": {
+        "Code": "OSKU",
+        "Type": "Common Stock",
+        "Name": "JAPAN EX UN.ADR 1/2 O.N.",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US4710591052",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "March",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Financial Exchanges & Data",
+        "Description": "Japan Exchange Group, Inc. operates as a financial instruments exchange holding company in Japan. The company engages in the operation of financial instruments exchange markets for trading listed securities and derivatives instruments to market users; publication of stock prices and quotations; provision of market facilities for trading of commodity derivatives, physical commodities, and commodity index futures; self-regulatory operations, such as listing examination, listed company compliance, market surveillance, and inspections and examinations of trading participants. It also provides clearing and settlement, and market-related services. Japan Exchange Group, Inc. was incorporated in 1949 and is headquartered in Tokyo, Japan.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 1238,
+        "UpdatedAt": "2023-09-01"
+    },
+    "Highlights": {
+        "MarketCapitalization": 8505431552,
+        "MarketCapitalizationMln": 8505.4316,
+        "EBITDA": 93154000896,
+        "PERatio": 25.1613,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 296.032,
+        "DividendShare": 53,
+        "DividendYield": 0.0322,
+        "EarningsShare": 0.31,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3785,
+        "OperatingMarginTTM": 0.5398,
+        "ReturnOnAssetsTTM": 0.0006,
+        "ReturnOnEquityTTM": 0.1687,
+        "RevenueTTM": 137368002560,
+        "RevenuePerShareTTM": 130.8985,
+        "QuarterlyRevenueGrowthYOY": 0.101,
+        "GrossProfitTTM": 133991000000,
+        "DilutedEpsTTM": 0.31,
+        "QuarterlyEarningsGrowthYOY": 0.486
+    },
+    "Valuation": {
+        "TrailingPE": 25.1613,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -127877054464,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 1040870016,
+        "SharesFloat": 999375809,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0.001,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.5174,
+        "52WeekHigh": 8,
+        "52WeekLow": 6.1,
+        "50DayMA": 7.561,
+        "200DayMA": 6.9685,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.25,
+        "ForwardAnnualDividendYield": 0.0322,
+        "PayoutRatio": 0.9857,
+        "DividendDate": null,
+        "ExDividendDate": "2023-03-30",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2020,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2021,
+                "Count": 2
+            },
+            "2": {
+                "Year": 2022,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

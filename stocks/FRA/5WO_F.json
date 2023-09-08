@@ -1,0 +1,168 @@
+{
+    "General": {
+        "Code": "5WO",
+        "Type": "Common Stock",
+        "Name": "CLAROS MORT.TR.INC.DL-01",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US18270D1063",
+        "LEI": null,
+        "PrimaryTicker": "CMTG.US",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Real Estate",
+        "Industry": "REIT-Mortgage",
+        "GicSector": "Financials",
+        "GicGroup": "Financial Services",
+        "GicIndustry": "Capital Markets",
+        "GicSubIndustry": "Asset Management & Custody Banks",
+        "Description": "Claros Mortgage Trust, Inc. operates as a real estate investment trust. The company focuses on originating senior and subordinate loans on transitional commercial real estate assets in the United States. Claros Mortgage Trust, Inc. was incorporated in 2015 and is headquartered in New York, New York.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 1490668800,
+        "MarketCapitalizationMln": 1490.6688,
+        "EBITDA": null,
+        "PERatio": 26.8421,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 17.346,
+        "DividendShare": 1.48,
+        "DividendYield": 0.1359,
+        "EarningsShare": 0.38,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.3345,
+        "OperatingMarginTTM": 0.3195,
+        "ReturnOnAssetsTTM": 0.0074,
+        "ReturnOnEquityTTM": 0.0242,
+        "RevenueTTM": 180404000,
+        "RevenuePerShareTTM": 1.301,
+        "QuarterlyRevenueGrowthYOY": -0.421,
+        "GrossProfitTTM": 149173000,
+        "DilutedEpsTTM": 0.38,
+        "QuarterlyEarningsGrowthYOY": -0.955
+    },
+    "Valuation": {
+        "TrailingPE": 26.8421,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 6752364544,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 138376000,
+        "SharesFloat": 111146023,
+        "PercentInsiders": 7.608,
+        "PercentInstitutions": 86.055,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 15.6989,
+        "52WeekLow": 9.0656,
+        "50DayMA": 10.274,
+        "200DayMA": 12.243,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 1.32,
+        "ForwardAnnualDividendYield": 0.1359,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": "2023-06-29",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2021,
+                "Count": 1
+            },
+            "1": {
+                "Year": 2022,
+                "Count": 4
+            },
+            "2": {
+                "Year": 2023,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-12-31": {
+                "reportDate": "2024-02-13",
+                "date": "2023-12-31",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-09-30": {
+                "reportDate": "2023-11-07",
+                "date": "2023-09-30",
+                "beforeAfterMarket": "BeforeMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

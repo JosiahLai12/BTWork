@@ -1,0 +1,143 @@
+{
+    "General": {
+        "Code": "IBM0",
+        "Type": "Common Stock",
+        "Name": "IBM CDR",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "CA45921J1093",
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "IT Services",
+        "GicSubIndustry": "IT Consulting & Other Services",
+        "Description": "International Business Machines Corporation, together with its subsidiaries, provides integrated solutions and services worldwide. The company operates through four business segments: Software, Consulting, Infrastructure, and Financing. The Software segment offers hybrid cloud platform and software solutions; software for business automation, AIOps and management, integration, and application servers; data and artificial intelligence solutions; and security software and services for threat, data, and identity. This segment also provides transaction processing software that supports clients' mission-critical and on-premise workloads in banking, airlines, and retail industries. The Consulting segment offers business transformation services, including strategy, business process design and operations, data and analytics, and system integration services; technology consulting services; and application and cloud platform services. The Infrastructure segment provides on-premises and cloud-based server and storage solutions for its clients' mission-critical and regulated workloads; and support services and solutions for hybrid cloud infrastructure, as well as remanufacturing and remarketing services for used equipment. The Financing segment offers lease, installment payment, loan financing, and short-term working capital financing services. The company has collaboration agreement with Siemens Digital Industri Software to develop a combined software solution. The company was formerly known as Computing-Tabulating-Recording Co. International Business Machines Corporation was incorporated in 1911 and is headquartered in Armonk, New York.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 288300,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 123207860224,
+        "MarketCapitalizationMln": 123207.8602,
+        "EBITDA": 12984999936,
+        "PERatio": 7.0046,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 24.37,
+        "DividendShare": 6.61,
+        "DividendYield": 0.0472,
+        "EarningsShare": 2.17,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0335,
+        "OperatingMarginTTM": 0.141,
+        "ReturnOnAssetsTTM": 0.0411,
+        "ReturnOnEquityTTM": 0.104,
+        "RevenueTTM": 60524998656,
+        "RevenuePerShareTTM": 66.745,
+        "QuarterlyRevenueGrowthYOY": -0.004,
+        "GrossProfitTTM": 32688000000,
+        "DilutedEpsTTM": 2.17,
+        "QuarterlyEarningsGrowthYOY": 0.126
+    },
+    "Valuation": {
+        "TrailingPE": 7.0046,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 57923293184,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 911006016,
+        "SharesFloat": 909821932,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.8549,
+        "52WeekHigh": 17.3705,
+        "52WeekLow": 12.383,
+        "50DayMA": 14.58,
+        "200DayMA": 14.507,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.72,
+        "ForwardAnnualDividendYield": 0.0472,
+        "PayoutRatio": 0.3322,
+        "DividendDate": null,
+        "ExDividendDate": "2023-08-09",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 4
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 2
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

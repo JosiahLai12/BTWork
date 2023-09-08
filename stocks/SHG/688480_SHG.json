@@ -1,0 +1,179 @@
+{
+    "General": {
+        "Code": "688480",
+        "Type": "Common Stock",
+        "Name": "Science Environmental Protection Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Industrials",
+        "Industry": "Waste Management",
+        "GicSector": "Industrials",
+        "GicGroup": "Commercial & Professional Services",
+        "GicIndustry": "Commercial Services & Supplies",
+        "GicSubIndustry": "Environmental & Facilities Services",
+        "Description": "Science Environmental Protection Co., Ltd. engages in the prevention and control of heavy metal pollution in China. The company provides heavy metal acid, wastewater, waste residue and resources, and chemical utilization treatment services. It also provides environmental restoration, design and technical, environmental stewardship, environmental consulting, and environmental testing services, as well as produces and sells pharmaceutical and heavy metal pollution prevention equipment. The company was founded in 2009 and is based in Changsha, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 771,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 2762301696,
+        "MarketCapitalizationMln": 2762.3017,
+        "EBITDA": 70067208,
+        "PERatio": 35.5244,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 39,
+        "BookValue": 9.182,
+        "DividendShare": 0.51,
+        "DividendYield": 0.0168,
+        "EarningsShare": 0.82,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.114,
+        "OperatingMarginTTM": 0.0952,
+        "ReturnOnAssetsTTM": 0.0333,
+        "ReturnOnEquityTTM": 0.1051,
+        "RevenueTTM": 606877504,
+        "RevenuePerShareTTM": 7.133,
+        "QuarterlyRevenueGrowthYOY": 0.288,
+        "GrossProfitTTM": 78732600,
+        "DilutedEpsTTM": 0.82,
+        "QuarterlyEarningsGrowthYOY": -0.31
+    },
+    "Valuation": {
+        "TrailingPE": 35.5244,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 3.8604,
+        "PriceBookMRQ": 5.5499,
+        "EnterpriseValue": 2324513280,
+        "EnterpriseValueRevenue": 4.879,
+        "EnterpriseValueEbitda": 31.7443
+    },
+    "SharesStats": {
+        "SharesOutstanding": 94826704,
+        "SharesFloat": 35140866,
+        "PercentInsiders": 50.111000000000004,
+        "PercentInstitutions": 28.854000000000003,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 35.2847,
+        "52WeekLow": 21.5367,
+        "50DayMA": 29.1262,
+        "200DayMA": 28.1003,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.51,
+        "ForwardAnnualDividendYield": 0.0168,
+        "PayoutRatio": 0.0161,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "2023-06-08",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-24",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1413,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.176,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.1413
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.176
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

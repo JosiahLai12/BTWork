@@ -1,0 +1,139 @@
+{
+    "General": {
+        "Code": "LBRA",
+        "Type": "Common Stock",
+        "Name": "Libra Insurance Company Ltd",
+        "Exchange": "TA",
+        "CurrencyCode": "ILA",
+        "CurrencyName": "Israeli Agora",
+        "CurrencySymbol": "ILA",
+        "CountryName": "Israel",
+        "CountryISO": "Il",
+        "OpenFigi": null,
+        "ISIN": "IL0011769812",
+        "LEI": null,
+        "PrimaryTicker": "LBRA.TA",
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Financial Services",
+        "Industry": "Insurance-Property & Casualty",
+        "GicSector": "Financials",
+        "GicGroup": "Insurance",
+        "GicIndustry": "Insurance",
+        "GicSubIndustry": "Property & Casualty Insurance",
+        "Description": "Libra Insurance Company Ltd underwrites property and casualty insurance products in Israel. The company is based in Holon, Israel.",
+        "Address": "HaRokamim 26, Holon, Israel, 5885849",
+        "AddressData": {
+            "Street": "HaRokamim 26",
+            "City": "Holon",
+            "Country": "Israel",
+            "ZIP": "5885849"
+        },
+        "Listings": {},
+        "Officers": {},
+        "Phone": "972 73 394 9222",
+        "WebURL": "https://www.lbr.co.il",
+        "LogoURL": "",
+        "FullTimeEmployees": 152,
+        "UpdatedAt": "2023-08-29"
+    },
+    "Highlights": {
+        "MarketCapitalization": 130511920,
+        "MarketCapitalizationMln": 130.5119,
+        "EBITDA": -6873000,
+        "PERatio": null,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 1.287,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": -0.024,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-03-31",
+        "ProfitMargin": -0.0319,
+        "OperatingMarginTTM": -0.0386,
+        "ReturnOnAssetsTTM": -0.0059,
+        "ReturnOnEquityTTM": -0.0988,
+        "RevenueTTM": 188475008,
+        "RevenuePerShareTTM": 3.831,
+        "QuarterlyRevenueGrowthYOY": 0.508,
+        "GrossProfitTTM": 59950000,
+        "DilutedEpsTTM": -0.024,
+        "QuarterlyEarningsGrowthYOY": -0.962
+    },
+    "Valuation": {
+        "TrailingPE": 0,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0.9036,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": -13710640,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 45222300,
+        "SharesFloat": 20711176,
+        "PercentInsiders": 47.160999999999994,
+        "PercentInstitutions": 1.546,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 0.6233,
+        "52WeekHigh": 417.6,
+        "52WeekLow": 272,
+        "50DayMA": 328.948,
+        "200DayMA": 332.487,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": "0000-00-00",
+        "ExDividendDate": "0000-00-00",
+        "LastSplitFactor": "",
+        "LastSplitDate": "0000-00-00",
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {},
+        "Trend": {},
+        "Annual": {}
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "General": {
+        "Code": "0265",
+        "Type": "Common Stock",
+        "Name": "INFOM",
+        "Exchange": "KLSE",
+        "CurrencyCode": "MYR",
+        "CurrencyName": "Malaysian Ringgit",
+        "CurrencySymbol": "RM",
+        "CountryName": "Malaysia",
+        "CountryISO": "MY",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "May",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "GicSector": "Information Technology",
+        "GicGroup": "Software & Services",
+        "GicIndustry": "IT Services",
+        "GicSubIndustry": "IT Consulting & Other Services",
+        "Description": "Infomina Berhad provides ICT solutions. It offers consulting services in the areas of green building, security, and IT and COMS infrastructure; managed services; and project management services. The company was founded in 2007 and is based in Kuala Lumpur, Malaysia. Infomina Berhad is a subsidiary of Infomina Holdings Sdn Bhd.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 0,
+        "UpdatedAt": "2023-09-03"
+    },
+    "Highlights": {
+        "MarketCapitalization": null,
+        "MarketCapitalizationMln": null,
+        "EBITDA": 51194000,
+        "PERatio": 59.6667,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 1.42,
+        "BookValue": 0.19,
+        "DividendShare": 0,
+        "DividendYield": 0,
+        "EarningsShare": 0.03,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-05-31",
+        "ProfitMargin": 0.1627,
+        "OperatingMarginTTM": 0.1974,
+        "ReturnOnAssetsTTM": 0.1346,
+        "ReturnOnEquityTTM": 0.5285,
+        "RevenueTTM": 251262000,
+        "RevenuePerShareTTM": 0.447,
+        "QuarterlyRevenueGrowthYOY": 0,
+        "GrossProfitTTM": 41899000,
+        "DilutedEpsTTM": 0.03,
+        "QuarterlyEarningsGrowthYOY": 0
+    },
+    "Valuation": {
+        "TrailingPE": 59.6667,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 3.3492,
+        "PriceBookMRQ": 9.2429,
+        "EnterpriseValue": 988243968,
+        "EnterpriseValueRevenue": 2.8504,
+        "EnterpriseValueEbitda": 24.3553
+    },
+    "SharesStats": {
+        "SharesOutstanding": 601249984,
+        "SharesFloat": 82365238,
+        "PercentInsiders": 72.801,
+        "PercentInstitutions": 5.534,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 1.95,
+        "52WeekLow": 0.51,
+        "50DayMA": 1.7848,
+        "200DayMA": 1.4901,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0,
+        "ForwardAnnualDividendYield": 0,
+        "PayoutRatio": 0,
+        "DividendDate": null,
+        "ExDividendDate": null,
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {}
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-02-28": {
+                "reportDate": "2023-05-03",
+                "date": "2023-02-28",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0378,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-11-30": {
+                "reportDate": "2023-02-01",
+                "date": "2022-11-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0084,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-02-28": {
+                "date": "2023-02-28",
+                "epsActual": 0.0462
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

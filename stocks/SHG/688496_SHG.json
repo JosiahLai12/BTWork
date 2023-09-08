@@ -1,0 +1,179 @@
+{
+    "General": {
+        "Code": "688496",
+        "Type": "Common Stock",
+        "Name": "Suzhou QingYue Optoelectronics Technology Co. Ltd. A",
+        "Exchange": "SHG",
+        "CurrencyCode": "CNY",
+        "CurrencyName": "Renminbi",
+        "CurrencySymbol": "\u00a5",
+        "CountryName": "China",
+        "CountryISO": "CN",
+        "OpenFigi": null,
+        "ISIN": null,
+        "LEI": null,
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "December",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "GicSector": "Information Technology",
+        "GicGroup": "Technology Hardware & Equipment",
+        "GicIndustry": "Electronic Equipment, Instruments & Components",
+        "GicSubIndustry": "Electronic Components",
+        "Description": "Suzhou QingYue Optoelectronics Technology Co., Ltd. manufactures OLED and other display devices. The company was incorporated in 2010 and is based in Kunshan, China.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 935,
+        "UpdatedAt": "2023-09-02"
+    },
+    "Highlights": {
+        "MarketCapitalization": 7204499968,
+        "MarketCapitalizationMln": 7204.5,
+        "EBITDA": 22586756,
+        "PERatio": 94.1765,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": null,
+        "BookValue": 2.751,
+        "DividendShare": 0.066,
+        "DividendYield": 0.0038,
+        "EarningsShare": 0.17,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-06-30",
+        "ProfitMargin": 0.0192,
+        "OperatingMarginTTM": -0.0084,
+        "ReturnOnAssetsTTM": -0.0027,
+        "ReturnOnEquityTTM": 0.003,
+        "RevenueTTM": 963888192,
+        "RevenuePerShareTTM": 2.381,
+        "QuarterlyRevenueGrowthYOY": -0.478,
+        "GrossProfitTTM": 189799066,
+        "DilutedEpsTTM": 0.17,
+        "QuarterlyEarningsGrowthYOY": -0.25
+    },
+    "Valuation": {
+        "TrailingPE": 94.1765,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 8055125504,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 450000000,
+        "SharesFloat": 107877530,
+        "PercentInsiders": 81.32300000000001,
+        "PercentInstitutions": 4.176,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": null,
+        "52WeekHigh": 23.3096,
+        "52WeekLow": 8.3747,
+        "50DayMA": 16.2896,
+        "200DayMA": 14.1336,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.07,
+        "ForwardAnnualDividendYield": 0.0038,
+        "PayoutRatio": 1.0185,
+        "DividendDate": null,
+        "ExDividendDate": "2023-06-12",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2023-06-30": {
+                "reportDate": "2023-08-29",
+                "date": "2023-06-30",
+                "beforeAfterMarket": "AfterMarket",
+                "currency": null,
+                "epsActual": null,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2023-03-31": {
+                "reportDate": "2023-03-31",
+                "date": "2023-03-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0093,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2022-12-31": {
+                "reportDate": "2022-12-31",
+                "date": "2022-12-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.0555,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2023-06-30": {
+                "date": "2023-06-30",
+                "epsActual": 0.0093
+            },
+            "2022-12-31": {
+                "date": "2022-12-31",
+                "epsActual": 0.0555
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}

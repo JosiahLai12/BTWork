@@ -1,0 +1,169 @@
+{
+    "General": {
+        "Code": "KFI2",
+        "Type": "Common Stock",
+        "Name": "KINGFISHER ADR/2 LS-1571",
+        "Exchange": "F",
+        "CurrencyCode": "EUR",
+        "CurrencyName": "Euro",
+        "CurrencySymbol": "\u20ac",
+        "CountryName": "Germany",
+        "CountryISO": "DE",
+        "OpenFigi": null,
+        "ISIN": "US4957244035",
+        "LEI": "213800KBMEV7I92FY281",
+        "PrimaryTicker": null,
+        "CIK": null,
+        "EmployerIdNumber": null,
+        "FiscalYearEnd": "January",
+        "IPODate": null,
+        "InternationalDomestic": null,
+        "Sector": "Consumer Cyclical",
+        "Industry": "Home Improvement Retail",
+        "GicSector": "Consumer Discretionary",
+        "GicGroup": "Consumer Discretionary Distribution & Retail",
+        "GicIndustry": "Specialty Retail",
+        "GicSubIndustry": "Home Improvement Retail",
+        "Description": "Kingfisher plc, together with its subsidiaries, supplies home improvement products and services primarily in the United Kingdom, Ireland, France, and internationally. The company also offers property investment, finance, digital, sourcing, and IT services. It also operates retail stores under the B&Q, Castorama, Brico D\u00e9p\u00f4t, Screwfix, TradePoint, and Ko\u00e7tas brands. The company sells its products through stores and e-commerce channels. Kingfisher plc was incorporated in 1982 and is headquartered in London, the United Kingdom.",
+        "Address": null,
+        "AddressData": null,
+        "Listings": {},
+        "Officers": {},
+        "Phone": null,
+        "WebURL": null,
+        "LogoURL": "",
+        "FullTimeEmployees": 77701,
+        "UpdatedAt": "2023-08-31"
+    },
+    "Highlights": {
+        "MarketCapitalization": 5213705728,
+        "MarketCapitalizationMln": 5213.7057,
+        "EBITDA": 1075000064,
+        "PERatio": 9.3636,
+        "PEGRatio": null,
+        "WallStreetTargetPrice": 4.35,
+        "BookValue": 6.47,
+        "DividendShare": 0.124,
+        "DividendYield": 0.0567,
+        "EarningsShare": 0.55,
+        "EPSEstimateCurrentYear": 0,
+        "EPSEstimateNextYear": 0,
+        "EPSEstimateNextQuarter": 0,
+        "EPSEstimateCurrentQuarter": 0,
+        "MostRecentQuarter": "2023-01-31",
+        "ProfitMargin": 0.0361,
+        "OperatingMarginTTM": 0.0671,
+        "ReturnOnAssetsTTM": 0.0448,
+        "ReturnOnEquityTTM": 0.0701,
+        "RevenueTTM": 13059000320,
+        "RevenuePerShareTTM": 13.19,
+        "QuarterlyRevenueGrowthYOY": 0.028,
+        "GrossProfitTTM": 4795000000,
+        "DilutedEpsTTM": 0.55,
+        "QuarterlyEarningsGrowthYOY": -0.632
+    },
+    "Valuation": {
+        "TrailingPE": 9.3636,
+        "ForwardPE": 0,
+        "PriceSalesTTM": 0,
+        "PriceBookMRQ": 0,
+        "EnterpriseValue": 7476034560,
+        "EnterpriseValueRevenue": 0,
+        "EnterpriseValueEbitda": 0
+    },
+    "SharesStats": {
+        "SharesOutstanding": 948425024,
+        "SharesFloat": 1016107339,
+        "PercentInsiders": 0,
+        "PercentInstitutions": 0.026,
+        "SharesShort": null,
+        "SharesShortPriorMonth": null,
+        "ShortRatio": null,
+        "ShortPercentOutstanding": null,
+        "ShortPercentFloat": null
+    },
+    "Technicals": {
+        "Beta": 1.0185,
+        "52WeekHigh": 6.0096,
+        "52WeekLow": 4.2692,
+        "50DayMA": 5.2182,
+        "200DayMA": 5.4862,
+        "SharesShort": 0,
+        "SharesShortPriorMonth": 0,
+        "ShortRatio": 0,
+        "ShortPercent": 0
+    },
+    "SplitsDividends": {
+        "ForwardAnnualDividendRate": 0.29,
+        "ForwardAnnualDividendYield": 0.0567,
+        "PayoutRatio": 0.5255,
+        "DividendDate": null,
+        "ExDividendDate": "2023-05-25",
+        "LastSplitFactor": null,
+        "LastSplitDate": null,
+        "NumberDividendsByYear": {
+            "0": {
+                "Year": 2022,
+                "Count": 2
+            },
+            "1": {
+                "Year": 2023,
+                "Count": 1
+            }
+        }
+    },
+    "Holders": null,
+    "InsiderTransactions": {},
+    "outstandingShares": {
+        "annual": {},
+        "quarterly": {}
+    },
+    "Earnings": {
+        "History": {
+            "2013-07-31": {
+                "reportDate": "2013-07-31",
+                "date": "2013-07-31",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.3182,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            },
+            "2013-04-30": {
+                "reportDate": "2013-04-30",
+                "date": "2013-04-30",
+                "beforeAfterMarket": null,
+                "currency": null,
+                "epsActual": 0.1123,
+                "epsEstimate": null,
+                "epsDifference": null,
+                "surprisePercent": null
+            }
+        },
+        "Trend": {},
+        "Annual": {
+            "2013-07-31": {
+                "date": "2013-07-31",
+                "epsActual": 0.4305
+            }
+        }
+    },
+    "Financials": {
+        "Balance_Sheet": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Cash_Flow": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        },
+        "Income_Statement": {
+            "currency_symbol": null,
+            "quarterly": {},
+            "yearly": {}
+        }
+    }
+}
